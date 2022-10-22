@@ -6,6 +6,22 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Screenshots
 
++ Overview
+
++ Ligature
+
++ CLI
+
++ C / C++
+
++ GO
+
++ Java
+
++ Python
+
++ Rust
+
 ## License
 
 SIL Open Font License 1.1
