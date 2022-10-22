@@ -1,0 +1,9 @@
+# Development Number
+
+00: Regular
+
+01: Italic
+
+10: Bold
+
+11: Bold Italic
