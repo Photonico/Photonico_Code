@@ -1,6 +1,8 @@
-# Photonico Code
+# Photonico Code [Uncompleted]
 
-A Free Monospace Font for Coding
+Photonico Code is a free, monospace, slab-serif style font.
+
+It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode), and inherits its programming ligatures and HiDPI support.
 
 ## Screenshots
 
