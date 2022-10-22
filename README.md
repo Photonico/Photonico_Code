@@ -1,6 +1,12 @@
 # Photonico Code
 
-A Free Font for Coding
+A Free Monospace Font for Coding
+
+## Screenshots
+
+## License
+
+SIL Open Font License 1.1
 
 ## Acknowledge
 
