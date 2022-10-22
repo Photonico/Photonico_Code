@@ -2,7 +2,7 @@
 
 A Free Font for Coding
 
-## Acknowledge:
+## Acknowledge
 
 [1] Fira Code
 
