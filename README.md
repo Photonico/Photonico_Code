@@ -24,7 +24,7 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## License
 
-SIL Open Font License 1.1
+[SIL Open Font License 1.1](https://github.com/Photonico/Photonico_Code/blob/main/LICENSE)
 
 ## Acknowledge
 
