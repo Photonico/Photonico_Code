@@ -22,6 +22,8 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Java
 
++ LaTeX
+
 + Python
 
 + Rust
