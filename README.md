@@ -10,7 +10,7 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
   + KDE Plasma Font Viewer
 
-    ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer.png)
+    ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
 
 + Ligature
 
