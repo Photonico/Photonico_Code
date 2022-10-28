@@ -12,7 +12,7 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
     ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
 
-+ Ligature
++ Ligatures
 
 + CLI
 
