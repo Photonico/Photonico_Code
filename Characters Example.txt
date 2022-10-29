@@ -2,6 +2,16 @@
 
 ## Latin / Western European
 
+A B C D E F G  
+H I J K L M N  
+O P Q R S T  
+U V W X Y Z
+
+a b c d e f g  
+h i j k l m n  
+o p q r s t  
+u v w x y z
+
 A À Á Â Ã Ä Å Ā Ă Ą Ǻ B C Ç Ć Ĉ Ċ Č D Ď E È É Ê Ë Ē Ĕ Ė Ę Ě F G Ĝ Ğ Ġ Ģ  
 H Ĥ I Ì Í Î Ï Ĩ Ī Ĭ Į İ J Ĵ K Ķ L Ĺ Ļ Ľ M N Ñ Ń Ņ Ň  
 O Ò Ó Ô Õ Ö Ō Ŏ Ő P Q R Ŕ Ŗ Ř S Ś Ŝ Ş Š Ș T Ţ Ť Ț  
