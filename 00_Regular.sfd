@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1667092143
+ModificationTime: 1667102381
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8288,7 +8288,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1040 26 10
+WinInfo: 1794 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -8555,7 +8555,6 @@ LayerCount: 6
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 267 0 2
-Validated: 1
 EndChar
 
 StartChar: Abreve
@@ -8569,7 +8568,6 @@ LayerCount: 6
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 260 0 2
-Validated: 1
 EndChar
 
 StartChar: Acircumflex
@@ -8583,7 +8581,6 @@ LayerCount: 6
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 262 0 2
-Validated: 1
 EndChar
 
 StartChar: Adieresis
@@ -8611,7 +8608,6 @@ LayerCount: 6
 Fore
 Refer: 1 65 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 263 0 2
-Validated: 1
 EndChar
 
 StartChar: Amacron
@@ -8783,7 +8779,6 @@ LayerCount: 6
 Fore
 Refer: 11 198 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 68 0 2
-Validated: 1
 EndChar
 
 StartChar: B
@@ -8965,7 +8960,6 @@ LayerCount: 6
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 361 0 2
-Validated: 1
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" Cacute.loclPLK
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Cacute.loclPLK
 EndChar
@@ -8981,7 +8975,6 @@ LayerCount: 6
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 355 0 2
-Validated: 1
 EndChar
 
 StartChar: Ccedilla
@@ -9009,7 +9002,6 @@ LayerCount: 6
 Fore
 Refer: 14 67 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 355 0 2
-Validated: 1
 EndChar
 
 StartChar: Cdotaccent
@@ -9236,7 +9228,6 @@ LayerCount: 6
 Fore
 Refer: 20 68 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 -33 0 2
-Validated: 1
 EndChar
 
 StartChar: Dcroat
@@ -9362,7 +9353,6 @@ LayerCount: 6
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 48 0 2
-Validated: 1
 EndChar
 
 StartChar: Ebreve
@@ -9376,7 +9366,6 @@ LayerCount: 6
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 40 0 2
-Validated: 1
 EndChar
 
 StartChar: Ecaron
@@ -9390,7 +9379,6 @@ LayerCount: 6
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 42 0 2
-Validated: 1
 EndChar
 
 StartChar: Ecircumflex
@@ -9404,7 +9392,6 @@ LayerCount: 6
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 42 0 2
-Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -9446,7 +9433,6 @@ LayerCount: 6
 Fore
 Refer: 24 69 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 43 0 2
-Validated: 1
 EndChar
 
 StartChar: Emacron
@@ -9692,7 +9678,6 @@ LayerCount: 6
 Fore
 Refer: 35 71 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 58 0 2
-Validated: 1
 EndChar
 
 StartChar: Gcircumflex
@@ -9706,7 +9691,6 @@ LayerCount: 6
 Fore
 Refer: 35 71 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 60 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0122
@@ -9980,7 +9964,6 @@ LayerCount: 6
 Fore
 Refer: 40 72 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 344 0 2
-Validated: 1
 EndChar
 
 StartChar: I
@@ -10141,7 +10124,6 @@ LayerCount: 6
 Fore
 Refer: 43 73 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 5 0 2
-Validated: 1
 EndChar
 
 StartChar: Ibreve
@@ -10155,7 +10137,6 @@ LayerCount: 6
 Fore
 Refer: 43 73 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 -2 0 2
-Validated: 1
 EndChar
 
 StartChar: Icircumflex
@@ -10169,7 +10150,6 @@ LayerCount: 6
 Fore
 Refer: 43 73 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -10211,7 +10191,6 @@ LayerCount: 6
 Fore
 Refer: 43 73 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 1 0 2
-Validated: 1
 EndChar
 
 StartChar: Imacron
@@ -10328,7 +10307,6 @@ LayerCount: 6
 Fore
 Refer: 54 74 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 1143 0 2
-Validated: 1
 EndChar
 
 StartChar: K
@@ -10531,7 +10509,6 @@ LayerCount: 6
 Fore
 Refer: 58 76 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 692 0 2
-Validated: 1
 EndChar
 
 StartChar: Lcaron
@@ -10871,7 +10848,6 @@ LayerCount: 6
 Fore
 Refer: 65 78 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 3 0 2
-Validated: 9
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" Nacute.loclPLK
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Nacute.loclPLK
 EndChar
@@ -10887,7 +10863,6 @@ LayerCount: 6
 Fore
 Refer: 65 78 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 -3 0 2
-Validated: 9
 EndChar
 
 StartChar: uni0145
@@ -11091,7 +11066,6 @@ LayerCount: 6
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 1061 0 2
-Validated: 1
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" Oacute.loclPLK
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Oacute.loclPLK
 EndChar
@@ -11107,7 +11081,6 @@ LayerCount: 6
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 1054 0 2
-Validated: 1
 EndChar
 
 StartChar: Ocircumflex
@@ -11121,7 +11094,6 @@ LayerCount: 6
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 1056 0 2
-Validated: 1
 EndChar
 
 StartChar: Odieresis
@@ -11149,7 +11121,6 @@ LayerCount: 6
 Fore
 Refer: 71 79 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 1057 0 2
-Validated: 1
 EndChar
 
 StartChar: Ohungarumlaut
@@ -11287,7 +11258,6 @@ LayerCount: 6
 Fore
 Refer: 79 216 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 677 0 2
-Validated: 1
 EndChar
 
 StartChar: Otilde
@@ -11773,7 +11743,6 @@ LayerCount: 6
 Fore
 Refer: 86 82 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 2 0 2
-Validated: 9
 EndChar
 
 StartChar: Rcaron
@@ -11787,7 +11756,6 @@ LayerCount: 6
 Fore
 Refer: 86 82 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 -3 0 2
-Validated: 9
 EndChar
 
 StartChar: uni0156
@@ -11931,7 +11899,6 @@ LayerCount: 6
 Fore
 Refer: 90 83 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 16 0 2
-Validated: 1
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" Sacute.loclPLK
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Sacute.loclPLK
 EndChar
@@ -11947,7 +11914,6 @@ LayerCount: 6
 Fore
 Refer: 90 83 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 11 0 2
-Validated: 1
 EndChar
 
 StartChar: Scedilla
@@ -11981,7 +11947,6 @@ LayerCount: 6
 Fore
 Refer: 90 83 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 11 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0218
@@ -12397,7 +12362,6 @@ LayerCount: 6
 Fore
 Refer: 102 85 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 5 0 2
-Validated: 1
 EndChar
 
 StartChar: Ubreve
@@ -12411,7 +12375,6 @@ LayerCount: 6
 Fore
 Refer: 102 85 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 -2 0 2
-Validated: 1
 EndChar
 
 StartChar: Ucircumflex
@@ -12425,7 +12388,6 @@ LayerCount: 6
 Fore
 Refer: 102 85 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Udieresis
@@ -12453,7 +12415,6 @@ LayerCount: 6
 Fore
 Refer: 102 85 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 1 0 2
-Validated: 1
 EndChar
 
 StartChar: Uhungarumlaut
@@ -12705,7 +12666,6 @@ LayerCount: 6
 Fore
 Refer: 114 87 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 5 0 2
-Validated: 1
 EndChar
 
 StartChar: Wcircumflex
@@ -12719,7 +12679,6 @@ LayerCount: 6
 Fore
 Refer: 114 87 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 0 0 2
-Validated: 1
 EndChar
 
 StartChar: Wdieresis
@@ -12747,7 +12706,6 @@ LayerCount: 6
 Fore
 Refer: 114 87 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 1 0 2
-Validated: 1
 EndChar
 
 StartChar: X
@@ -12964,7 +12922,6 @@ LayerCount: 6
 Fore
 Refer: 120 89 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 122 0 2
-Validated: 1
 EndChar
 
 StartChar: Ycircumflex
@@ -12978,7 +12935,6 @@ LayerCount: 6
 Fore
 Refer: 120 89 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 117 0 2
-Validated: 1
 EndChar
 
 StartChar: Ydieresis
@@ -13006,7 +12962,6 @@ LayerCount: 6
 Fore
 Refer: 120 89 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 118 0 2
-Validated: 1
 EndChar
 
 StartChar: Z
@@ -13102,7 +13057,6 @@ LayerCount: 6
 Fore
 Refer: 125 90 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 316 0 2
-Validated: 9
 Substitution2: "'locl' Localized Forms in Latin lookup 22 subtable" Zacute.loclPLK
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" Zacute.loclPLK
 EndChar
@@ -13118,7 +13072,6 @@ LayerCount: 6
 Fore
 Refer: 125 90 N 1 0 0 1 0 0 3
 Refer: 1986 -1 N 1 0 0 1 311 0 2
-Validated: 9
 EndChar
 
 StartChar: Zdotaccent
@@ -15106,7 +15059,6 @@ LayerCount: 6
 Fore
 Refer: 177 104 N 1 0 0 1 0 0 3
 Refer: 1985 -1 N 1 0 0 1 0 100 2
-Validated: 9
 EndChar
 
 StartChar: i
@@ -22186,7 +22138,6 @@ LayerCount: 6
 Fore
 Refer: 378 1043 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 103 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0490
@@ -22631,7 +22582,6 @@ LayerCount: 6
 Fore
 Refer: 385 1045 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 43 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0401
@@ -22948,7 +22898,6 @@ LayerCount: 6
 Fore
 Refer: 390 1048 N 1 0 0 1 0 0 3
 Refer: 1982 -1 N 1 0 0 1 1 0 2
-Validated: 1
 EndChar
 
 StartChar: uni048A
@@ -23152,7 +23101,6 @@ LayerCount: 6
 Fore
 Refer: 394 1050 N 1 0 0 1 0 0 3
 Refer: 1983 -1 N 1 0 0 1 44 0 2
-Validated: 1
 EndChar
 
 StartChar: uni041B
@@ -23447,7 +23395,6 @@ LayerCount: 6
 Fore
 Refer: 404 1059 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 18 0 2
-Validated: 1
 EndChar
 
 StartChar: uni0424
@@ -45297,7 +45244,6 @@ LayerCount: 6
 Fore
 Refer: 664 913 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 260 0 2
-Validated: 1
 Substitution2: "Single Substitution lookup 280 subtable" Alpha
 Substitution2: "Single Substitution lookup 279 subtable" Alpha
 Substitution2: "Single Substitution lookup 278 subtable" Alpha
@@ -46448,7 +46394,6 @@ LayerCount: 6
 Fore
 Refer: 672 921 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 -2 0 2
-Validated: 1
 Substitution2: "Single Substitution lookup 280 subtable" Iota
 Substitution2: "Single Substitution lookup 279 subtable" Iota
 Substitution2: "Single Substitution lookup 278 subtable" Iota
@@ -46881,7 +46826,6 @@ LayerCount: 6
 Fore
 Refer: 683 933 N 1 0 0 1 0 0 3
 Refer: 1987 -1 N 1 0 0 1 115 0 2
-Validated: 1
 Substitution2: "Single Substitution lookup 280 subtable" Upsilon
 Substitution2: "Single Substitution lookup 279 subtable" Upsilon
 Substitution2: "Single Substitution lookup 278 subtable" Upsilon
@@ -87236,7 +87180,7 @@ StartChar: asciicircum_equal.liga
 Encoding: 1503 -1 1417
 Width: 1200
 GlyphClass: 1
-Flags: WO
+Flags: W
 TtInstrs:
 NPUSHB
  55
@@ -124329,31 +124273,31 @@ Flags: W
 LayerCount: 6
 Fore
 SplineSet
-687 1310 m 6,0,-1
- 608 1045 l 6,1,2
- 603 1030 603 1030 590 1020 c 132,-1,3
- 577 1010 577 1010 560 1010 c 4,4,5
- 539 1010 539 1010 524.5 1024.5 c 132,-1,6
- 510 1039 510 1039 510 1060 c 4,7,8
- 510 1061 510 1061 551 1341 c 4,9,10
- 555 1367 555 1367 574.5 1383.5 c 132,-1,11
- 594 1400 594 1400 620 1400 c 4,12,13
- 649 1400 649 1400 669.5 1379.5 c 132,-1,14
- 690 1359 690 1359 690 1330 c 4,15,16
- 690 1319 690 1319 687 1310 c 6,0,-1
+687 1310 m 2,0,-1
+ 608 1045 l 2,1,2
+ 603 1030 603 1030 590 1020 c 128,-1,3
+ 577 1010 577 1010 560 1010 c 0,4,5
+ 539 1010 539 1010 524.5 1024.5 c 128,-1,6
+ 510 1039 510 1039 510 1060 c 0,7,8
+ 510 1061 510 1061 551 1341 c 0,9,10
+ 555 1367 555 1367 574.5 1383.5 c 128,-1,11
+ 594 1400 594 1400 620 1400 c 0,12,13
+ 649 1400 649 1400 669.5 1379.5 c 128,-1,14
+ 690 1359 690 1359 690 1330 c 0,15,16
+ 690 1319 690 1319 687 1310 c 2,0,-1
 EndSplineSet
 Layer: 2
 SplineSet
-687 1310 m 5
- 689 1316 690 1323 690 1330 c 4
- 690 1369 659 1400 620 1400 c 4
- 585 1400 556 1375 551 1341 c 4
- 510 1061 510 1061 510 1060 c 4
- 510 1032 532 1010 560 1010 c 4
- 583 1010 602 1025 608 1045 c 5
- 687 1310 l 1029
-560 1060 m 1029
-620 1330 m 1029
+687 1310 m 1
+ 689 1316 690 1323 690 1330 c 0
+ 690 1369 659 1400 620 1400 c 0
+ 585 1400 556 1375 551 1341 c 0
+ 510 1061 510 1061 510 1060 c 0
+ 510 1032 532 1010 560 1010 c 0
+ 583 1010 602 1025 608 1045 c 1
+ 687 1310 l 1025
+560 1060 m 1025
+620 1330 m 1025
 EndSplineSet
 Layer: 5
 SplineSet
@@ -124413,24 +124357,42 @@ Encoding: 2046 -1 1982
 Width: 1200
 GlyphClass: 1
 Flags: W
-TtInstrs:
-PUSHB_4
- 2
- 0
- 1
- 50
-CALL
-EndTTInstrs
 LayerCount: 6
 Fore
 SplineSet
-461 1819 m 1,0,-1
- 830 1601 l 1,1,-1
- 779 1511 l 1,2,-1
- 367 1675 l 1,3,-1
- 461 1819 l 1,0,-1
+455 1791 m 6,0,1
+ 440 1800 440 1800 420 1800 c 4,2,3
+ 389 1800 389 1800 367 1778 c 132,-1,4
+ 345 1756 345 1756 345 1725 c 4,5,6
+ 345 1702 345 1702 358.5 1682.5 c 132,-1,7
+ 372 1663 372 1663 394 1655 c 6,8,-1
+ 742 1523 l 6,9,10
+ 751 1520 751 1520 760 1520 c 4,11,12
+ 781 1520 781 1520 795.5 1534.5 c 132,-1,13
+ 810 1549 810 1549 810 1570 c 4,14,15
+ 810 1601 810 1601 784 1614 c 6,16,-1
+ 455 1791 l 6,0,1
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+455 1791 m 5
+ 445 1797 433 1800 420 1800 c 4
+ 379 1800 345 1766 345 1725 c 4
+ 345 1693 366 1666 394 1655 c 5
+ 742 1523 l 5
+ 748 1521 754 1520 760 1520 c 4
+ 788 1520 810 1542 810 1570 c 4
+ 810 1589 800 1606 784 1614 c 5
+ 455 1791 l 5
+EndSplineSet
+Layer: 5
+SplineSet
+461 1819 m 5
+ 830 1601 l 5
+ 779 1511 l 5
+ 367 1675 l 5
+ 461 1819 l 5
+EndSplineSet
 EndChar
 
 StartChar: acute.case
@@ -124438,24 +124400,44 @@ Encoding: 2047 -1 1983
 Width: 1200
 GlyphClass: 1
 Flags: W
-TtInstrs:
-PUSHB_4
- 2
- 0
- 1
- 50
-CALL
-EndTTInstrs
 LayerCount: 6
 Fore
 SplineSet
-759 1812 m 1,0,-1
- 835 1668 l 1,1,-1
- 408 1511 l 1,2,-1
- 363 1601 l 1,3,-1
- 759 1812 l 1,0,-1
+745 1791 m 6,0,1
+ 760 1800 760 1800 780 1800 c 4,2,3
+ 811 1800 811 1800 833 1778 c 132,-1,4
+ 855 1756 855 1756 855 1725 c 4,5,6
+ 855 1702 855 1702 841.5 1682.5 c 132,-1,7
+ 828 1663 828 1663 806 1655 c 6,8,-1
+ 458 1523 l 6,9,10
+ 449 1520 449 1520 440 1520 c 4,11,12
+ 419 1520 419 1520 404.5 1534.5 c 132,-1,13
+ 390 1549 390 1549 390 1570 c 4,14,15
+ 390 1601 390 1601 416 1614 c 6,16,-1
+ 745 1791 l 6,0,1
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+745 1791 m 5
+ 755 1797 767 1800 780 1800 c 4
+ 821 1800 855 1766 855 1725 c 4
+ 855 1693 834 1666 806 1655 c 5
+ 458 1523 l 5
+ 452 1521 446 1520 440 1520 c 4
+ 412 1520 390 1542 390 1570 c 4
+ 390 1589 400 1606 416 1614 c 5
+ 745 1791 l 5
+780 1725 m 1025
+440 1570 m 1025
+EndSplineSet
+Layer: 5
+SplineSet
+759 1812 m 5
+ 835 1668 l 5
+ 408 1511 l 5
+ 363 1601 l 5
+ 759 1812 l 5
+EndSplineSet
 EndChar
 
 StartChar: hungarumlaut.case
@@ -124484,46 +124466,57 @@ Encoding: 2049 -1 1985
 Width: 1200
 GlyphClass: 1
 Flags: W
-TtInstrs:
-NPUSHB
- 22
- 5
- 4
- 3
- 2
- 1
- 5
- 0
- 73
- 1
- 1
- 0
- 0
- 118
- 0
- 0
- 0
- 6
- 0
- 6
- 2
- 7
- 22
-CALL
-EndTTInstrs
 LayerCount: 6
 Fore
 SplineSet
-658 1821 m 1,0,-1
- 927 1606 l 1,1,-1
- 853 1521 l 1,2,-1
- 600 1681 l 1,3,-1
- 349 1521 l 1,4,-1
- 274 1606 l 1,5,-1
- 545 1821 l 1,6,-1
- 658 1821 l 1,0,-1
+600 1810 m 132,-1,1
+ 623 1810 623 1810 642 1796 c 6,2,-1
+ 910 1590 l 6,3,4
+ 930 1575 930 1575 930 1550 c 4,5,6
+ 930 1529 930 1529 915.5 1514.5 c 132,-1,7
+ 901 1500 901 1500 880 1500 c 4,8,9
+ 868 1500 868 1500 854 1507 c 6,10,-1
+ 600 1659 l 5,11,-1
+ 346 1507 l 6,12,13
+ 332 1500 332 1500 320 1500 c 4,14,15
+ 299 1500 299 1500 284.5 1514.5 c 132,-1,16
+ 270 1529 270 1529 270 1550 c 4,17,18
+ 270 1575 270 1575 290 1590 c 6,19,-1
+ 558 1796 l 6,20,0
+ 577 1810 577 1810 600 1810 c 132,-1,1
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+600 1810 m 4
+ 616 1810 630 1805 642 1796 c 5
+ 910 1590 l 5
+ 922 1581 930 1567 930 1550 c 4
+ 930 1522 908 1500 880 1500 c 4
+ 870 1500 862 1503 854 1507 c 5
+ 600 1659 l 5
+ 346 1507 l 5
+ 338 1503 330 1500 320 1500 c 4
+ 292 1500 270 1522 270 1550 c 4
+ 270 1567 278 1581 290 1590 c 5
+ 558 1796 l 5
+ 570 1805 584 1810 600 1810 c 4
+EndSplineSet
+Layer: 3
+SplineSet
+600 1500 m 0
+ 616 1500 630 1505 642 1514 c 1
+ 910 1720 l 1
+ 922 1729 930 1743 930 1760 c 0
+ 930 1788 908 1810 880 1810 c 0
+ 870 1810 862 1807 854 1803 c 1
+ 600 1651 l 1
+ 346 1803 l 1
+ 338 1807 330 1810 320 1810 c 4
+ 292 1810 270 1788 270 1760 c 0
+ 270 1743 278 1729 290 1720 c 1
+ 558 1514 l 1
+ 570 1505 584 1500 600 1500 c 0
+EndSplineSet
 EndChar
 
 StartChar: caron.case
@@ -124531,39 +124524,41 @@ Encoding: 2050 -1 1986
 Width: 1200
 GlyphClass: 1
 Flags: W
-TtInstrs:
-NPUSHB
- 15
- 6
- 5
- 4
- 1
- 4
- 0
- 74
- 0
- 0
- 0
- 118
- 18
- 1
- 7
- 23
-CALL
-EndTTInstrs
 LayerCount: 6
 Fore
 SplineSet
-853 1809 m 1,0,-1
- 927 1724 l 1,1,-1
- 658 1509 l 1,2,-1
- 545 1509 l 1,3,-1
- 274 1724 l 1,4,-1
- 349 1809 l 1,5,-1
- 600 1648 l 1,6,-1
- 853 1809 l 1,0,-1
+600 1500 m 132,-1,1
+ 623 1500 623 1500 642 1514 c 6,2,-1
+ 910 1720 l 6,3,4
+ 930 1735 930 1735 930 1760 c 4,5,6
+ 930 1781 930 1781 915.5 1795.5 c 132,-1,7
+ 901 1810 901 1810 880 1810 c 4,8,9
+ 868 1810 868 1810 854 1803 c 6,10,-1
+ 600 1651 l 5,11,-1
+ 346 1803 l 6,12,13
+ 332 1810 332 1810 320 1810 c 4,14,15
+ 299 1810 299 1810 284.5 1795.5 c 132,-1,16
+ 270 1781 270 1781 270 1760 c 4,17,18
+ 270 1735 270 1735 290 1720 c 6,19,-1
+ 558 1514 l 6,20,0
+ 577 1500 577 1500 600 1500 c 132,-1,1
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+600 1500 m 4
+ 616 1500 630 1505 642 1514 c 5
+ 910 1720 l 5
+ 922 1729 930 1743 930 1760 c 4
+ 930 1788 908 1810 880 1810 c 4
+ 870 1810 862 1807 854 1803 c 5
+ 600 1651 l 5
+ 346 1803 l 5
+ 338 1807 330 1810 320 1810 c 4
+ 292 1810 270 1788 270 1760 c 4
+ 270 1743 278 1729 290 1720 c 5
+ 558 1514 l 5
+ 570 1505 584 1500 600 1500 c 4
+EndSplineSet
 EndChar
 
 StartChar: breve.case
@@ -124571,62 +124566,55 @@ Encoding: 2051 -1 1987
 Width: 1200
 GlyphClass: 1
 Flags: W
-TtInstrs:
-NPUSHB
- 35
- 11
- 10
- 4
- 3
- 4
- 1
- 74
- 0
- 1
- 0
- 0
- 1
- 89
- 0
- 1
- 1
- 0
- 97
- 2
- 1
- 0
- 1
- 0
- 81
- 1
- 0
- 8
- 6
- 0
- 13
- 1
- 13
- 3
- 7
- 22
-CALL
-EndTTInstrs
 LayerCount: 6
 Fore
 SplineSet
-598 1517 m 0,0,1
- 483 1517 483 1517 399 1582.5 c 128,-1,2
- 315 1648 315 1648 303 1756 c 1,3,-1
- 419 1781 l 1,4,5
- 440 1722 440 1722 483.5 1685 c 128,-1,6
- 527 1648 527 1648 598 1648 c 0,7,8
- 668 1648 668 1648 715 1685 c 128,-1,9
- 762 1722 762 1722 783 1781 c 1,10,-1
- 899 1756 l 1,11,12
- 887 1648 887 1648 800.5 1582.5 c 128,-1,13
- 714 1517 714 1517 598 1517 c 0,0,1
+600 1520 m 128,-1,1
+ 505 1520 505 1520 428.5 1573.5 c 128,-1,2
+ 352 1627 352 1627 319 1713 c 0,3,4
+ 315 1724 315 1724 315 1735 c 0,5,6
+ 315 1760 315 1760 332.5 1777.5 c 128,-1,7
+ 350 1795 350 1795 375 1795 c 0,8,9
+ 415 1795 415 1795 431 1757 c 0,10,11
+ 451 1705 451 1705 497 1672.5 c 128,-1,12
+ 543 1640 543 1640 600 1640 c 128,-1,13
+ 657 1640 657 1640 703 1672.5 c 128,-1,14
+ 749 1705 749 1705 769 1757 c 0,15,16
+ 785 1795 785 1795 825 1795 c 0,17,18
+ 850 1795 850 1795 867.5 1777.5 c 128,-1,19
+ 885 1760 885 1760 885 1735 c 0,20,21
+ 885 1724 885 1724 881 1713 c 0,22,23
+ 848 1627 848 1627 771.5 1573.5 c 128,-1,0
+ 695 1520 695 1520 600 1520 c 128,-1,1
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+600 1520 m 0
+ 472 1520 362 1600 319 1713 c 1
+ 316 1721 315 1727 315 1735 c 0
+ 315 1768 342 1795 375 1795 c 0
+ 400 1795 422 1779 431 1757 c 1
+ 457 1689 523 1640 600 1640 c 0
+ 677 1640 743 1689 769 1757 c 1
+ 778 1779 800 1795 825 1795 c 0
+ 858 1795 885 1768 885 1735 c 0
+ 885 1727 884 1721 881 1713 c 1
+ 838 1600 728 1520 600 1520 c 0
+EndSplineSet
+Layer: 5
+SplineSet
+598 1517 m 4
+ 521.333333333 1517 455 1538.83333333 399 1582.5 c 132
+ 343 1626.16666667 311 1684 303 1756 c 5
+ 419 1781 l 5
+ 433 1741.66666667 454.5 1709.66666667 483.5 1685 c 132
+ 512.5 1660.33333333 550.666666667 1648 598 1648 c 4
+ 644.666666667 1648 683.666666667 1660.33333333 715 1685 c 132
+ 746.333333333 1709.66666667 769 1741.66666667 783 1781 c 5
+ 899 1756 l 5
+ 891 1684 858.166666667 1626.16666667 800.5 1582.5 c 132
+ 742.833333333 1538.83333333 675.333333333 1517 598 1517 c 4
+EndSplineSet
 EndChar
 
 StartChar: ring.case
