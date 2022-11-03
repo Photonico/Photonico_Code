@@ -1,4 +1,4 @@
-# Photonico Code [Uncompleted]
+# Photonico Code
 
 Photonico Code is a free, monospace, slab-serif style font, which supports Latin, Greek, and Cyrillic characters.
 
@@ -10,15 +10,21 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Overview
 
-  + KDE Plasma Font Viewer
-
-    ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
 
 + Latin Characters
 
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Latin_0.10.png)
+
 + Geek Characters
 
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Geek_0.10.png)
+
++ Symbols
+
 + Ligatures
+
+Comment: The demonstrated characters are in 36 pt.
 
 ### Applications
 
