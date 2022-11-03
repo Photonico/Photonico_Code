@@ -6,13 +6,21 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 ## Screenshots
 
+### Characters
+
 + Overview
 
   + KDE Plasma Font Viewer
 
     ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
 
++ Latin Characters
+
++ Geek Characters
+
 + Ligatures
+
+### Applications
 
 + CLI
 
