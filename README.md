@@ -22,6 +22,8 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Symbols
 
++ Mathematical notations
+
 + Ligatures
 
 Comment: The demonstrated characters are in 36 pt.
