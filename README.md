@@ -26,7 +26,7 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Ligatures
 
-Comment: The demonstrated characters are in 36 pt.
+Comment: The demonstrated characters are in 24 pt.
 
 ### Applications
 
