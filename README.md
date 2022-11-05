@@ -14,11 +14,11 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Latin Characters
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Latin_0.10.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/latin_0.10.png)
 
 + Greek Characters
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Greek_0.11.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/greek_0.11.png)
 
 + Symbols
 
