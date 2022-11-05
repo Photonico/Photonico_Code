@@ -1,0 +1,53 @@
+######## Characters ########
+
+#### Latin Characters
+
+The Quick Brown Fox Jumps Over The Lazy Dog
+
+THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
+the quick brown fox jumps over the lazy dog
+
+#### Greek Characters
+
+Α α Β β Γ γ Δ δ 
+
+Ε ε Ζ ζ Η η Θ θ 
+
+Ι ι Κ κ Λ λ Μ μ Ν ν 
+
+Ξ ξ Ο ο Π π Ρ ρ Σ σ/ς 
+
+Τ τ Υ υ Φ φ 
+
+Χ χ Ψ ψ Ω ω
+
+#### Mathematics
+
+## Basic
+
++ - × · ÷ √ 
+
+## Binary relation
+
+∘ ∙ = ≠ ≡ ≢ > <
+
+← ↑ → ↓ ↖ ↗ ↙ ↘ ↔ ↕  
+
+## Set and logic
+
+∀ ∁ ∃ ∄ 
+
+∅ ∈ ∊ ∉ ∋ ∍ ∌ 
+
+## Calculus
+
+∑ ∏ ∂ ∆ ∇ ∫
+
+## Algebra
+
+⟨ ⟩ ⊕ ⊖ ⊗ ⊘ ⊙ ⊚ ⊛ ⊜ ⊝
+
+#### Physics
+
+ћ
