@@ -12,13 +12,16 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
 
-+ Latin Characters
++ Latin letters
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/latin_0.10.png)
 
-+ Greek Characters
++ Greek letters
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/greek_0.11.png)
+
+
++ Cyrillic letters
 
 + Symbols
 

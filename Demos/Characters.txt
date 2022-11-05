@@ -1,6 +1,6 @@
 ######## Characters ########
 
-#### Latin Characters
+#### Latin letters
 
 The Quick Brown Fox Jumps Over The Lazy Dog
 
@@ -8,7 +8,7 @@ THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 the quick brown fox jumps over the lazy dog
 
-#### Greek Characters
+#### Greek letters
 
 Α α Β β Γ γ Δ δ 
 
@@ -21,6 +21,29 @@ the quick brown fox jumps over the lazy dog
 Τ τ Υ υ Φ φ 
 
 Χ χ Ψ ψ Ω ω
+
+#### Cyrillic letters *
+
+## Slavic Cyrillic letters
+
+А А́ А̀ А̄ Ӓ Б В Г Ґ Д Ђ Ѓ
+Е Е́ Ѐ Е̄ Ё Є Ж З З́ Ѕ И І
+Ї И́ Ѝ Ӣ Й Ј К Л Љ М Н Њ
+О О́ О̀ О̄ П Р С С́ Т Ћ Ќ У
+У́ Ӯ Ў Ф Х Ц Ч Џ Ш Щ Ъ Ы
+Ь Э Ю Я
+
+## non-Slavic Cyrillic letters
+
+Ӑ Ә Ӕ Ғ Ҕ Ӻ Ӷ Ӂ Ӝ Ӡ Ҡ Ҟ
+Ӊ Ң Ӈ Ҥ Ө Ҩ Ҏ Ҫ У̃ Ӱ Ӳ Ү
+Ұ Ҳ Ӽ Ӿ Һ Ҵ Ҷ Ӌ Ҹ Ҽ Ҍ Ӏ
+
+## Cyrillic letters used in the past
+
+Ꙗ Ѥ Ѧ Ѫ Ѩ Ѭ Ѯ Ѱ Ꙟ Ѳ Ѵ Ѷ Ҁ ОУ Ѡ Ѿ Ѣ
+
+#### Symbols
 
 #### Mathematics
 
