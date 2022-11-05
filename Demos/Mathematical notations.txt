@@ -1,9 +1,17 @@
 ##### Mathematical notations
 
-## Basic operations
+## Basic
 
 + - × · ÷ √ 
 
-## Algebra operations
+## Set and logic
+
+∀ ∁
+
+## Calculus
+
+∫
+
+## Algebra
 
 ⟨ ⟩ ∘ ⊕ ⊖ ⊗ ⊘ ⊙ ⊚ ⊛ ⊜ ⊝
