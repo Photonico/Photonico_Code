@@ -1,6 +1,6 @@
 # Photonico Code
 
-Photonico Code is a free, monospace, slab-serif style font, which supports Latin, Greek, and Cyrillic characters.
+Photonico Code is a free, monospace, slab-serif style font, which supports Latin, Greek letters, and mathematical notations.
 
 It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode), and inherits its programming ligatures and HiDPI support.
 
