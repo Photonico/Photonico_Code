@@ -6,4 +6,5 @@
 
 ## Algebra operations
 
-⨀ ⨁ ⨂
+⟨ ⟩ ⨀ ⨁ ⨂
+ 
