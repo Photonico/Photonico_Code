@@ -16,7 +16,7 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Latin_0.10.png)
 
-+ Geek Characters
++ Greek Characters
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/Geek_0.10.png)
 
