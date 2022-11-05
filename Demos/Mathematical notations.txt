@@ -6,11 +6,11 @@
 
 ## Set and logic
 
-∀ ∁
+∀ ∁ ∃ ∄ ∅
 
 ## Calculus
 
-∫
+∫ ∂ ∆ ∇ ∑ ∏ 
 
 ## Algebra
 
