@@ -3,3 +3,7 @@
 ## Basic operations
 
 + - × · ÷
+
+## Algebra operations
+
+⨀ ⨁ ⨂
