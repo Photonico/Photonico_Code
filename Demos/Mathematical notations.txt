@@ -4,9 +4,17 @@
 
 + - × · ÷ √ 
 
+## Binary relation
+
+= ≠ ≡ ≢ > <
+
+← ↑ → ↓ ↖ ↗ ↙ ↘ ↔ ↕  
+
 ## Set and logic
 
-∀ ∁ ∃ ∄ ∅
+∀ ∁ ∃ ∄ 
+
+∅ ∈ ∊ ∉ ∋ ∍ ∌ 
 
 ## Calculus
 
@@ -15,3 +23,7 @@
 ## Algebra
 
 ⟨ ⟩ ∘ ⊕ ⊖ ⊗ ⊘ ⊙ ⊚ ⊛ ⊜ ⊝
+
+## Physics
+
+ћ
