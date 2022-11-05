@@ -2,9 +2,9 @@
 
 ## Basic operations
 
-+ - × · ÷
++ - × · ÷ √ 
 
 ## Algebra operations
 
-⟨ ⟩ ⨀ ⨁ ⨂
- 
+⟨ ⟩ ∘ ⨀ ⨁ ⨂ 
+
