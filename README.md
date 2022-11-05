@@ -20,9 +20,6 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
   ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/greek_0.11.png)
 
-
-+ Cyrillic letters
-
 + Symbols
 
 + Mathematical notations
