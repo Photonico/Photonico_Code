@@ -10,19 +10,23 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Overview
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/font_viewer_0.6.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/overview_1.0.png)
 
 + Latin letters
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/latin_0.10.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/latin_1.0.png)
 
 + Greek letters
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/greek_0.11.png)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/greek_1.0.png)
 
 + Symbols
 
-+ Mathematical notations
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/sym_1.0.png)
+
++ STEM notations
+
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/stem_1.0.png)
 
 + Ligatures
 
