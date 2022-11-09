@@ -61,8 +61,9 @@ the quick brown fox jumps over the lazy dog
 ↩ ↪ ↰ ↱ ↲ ↳ ⟲ ⟳ ↺ ↻ ↫ ↬ 
 ⇇ ⇈ ⇉ ⇊ ⇄ ⇆ ⇅ ⇵ ↹ 
 ⇐⇑⇒⇓⇔⇕⇖⇗⇘⇙⇍⇏⇎
-⇚⇛⟰ ⟱ ⟴ ⇞ ⇟
-⇠ ⇡ ⇢ ⇣⬅ ⬆ ➡ ⬇ ⇦ ⇧ ⇨ ⇩ ⇪ 
+⟴ ⇴ ⇚ ⇛⟰ ⟱ 
+⇷ ⇸ ⇹ ⇺ ⇻ ⇼ ⇞ ⇟
+⇠ ⇡ ⇢ ⇣ ⬅ ⬆ ➡ ⬇ ⇦ ⇧ ⇨ ⇩ ⇪ 
 
 #### STEM notations (Full table)
 
