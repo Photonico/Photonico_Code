@@ -14,11 +14,11 @@ It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode)
 
 + Letters demo
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/A_1.2.jpg)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_a.jpg)
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/A_1.2.jpg)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_b.jpg)
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/A_1.2.jpg)
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_c.jpg)
 
 + Ligatures
 
