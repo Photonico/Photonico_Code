@@ -61,5 +61,4 @@ the quick brown fox jumps over the lazy dog
 + - × ÷ ± ¬ ⌠ ⌡
 𝔸 𝔹 ℂ ℍ ℕ ℙ ℚ ℝ ℤ ⅀ ⌯ 
 Å Â Ĉ Ê Ĝ Ĥ Î Ĵ Ŝ Û Ŵ ħ 
-⁺ ⁻ ⌀ ⌬ ⏣ ⏚ ☢ ℞
-
+⁺ ⁻ ⌀ ⌬ ⏣ ⏚ ☢ ℞ ⚠
