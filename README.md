@@ -38,9 +38,13 @@ Comment: The demonstrated characters are in 24 pt.
 
 + Python
 
+  ![IMG](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_azure_1.0.4.png)
+
 + Rust
 
 + Vue
+
+The demonstrated theme of VSCode is [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica), welcome to use it.
 
 ## License
 
