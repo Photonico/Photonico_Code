@@ -46,6 +46,12 @@ Comment: The demonstrated characters are in 24 pt.
 
 The demonstrated theme of VSCode is [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica), welcome to use it.
 
+## Installation
+
+Download the font from [here](https://github.com/Photonico/Photonico_Code/releases/latest) and install it.
+
+Also, if you have installed [Homebrew](https://brew.sh/), type `brew tap homebrew/cask-fonts && brew install font-photonico-code` in your terminal to install it.
+
 ## License
 
 [SIL Open Font License 1.1](https://github.com/Photonico/Photonico_Code/blob/main/LICENSE)
