@@ -2,7 +2,9 @@
 
 Photonico Code is a free, monospace, slab-serif style font, which supports Latin, Greek letters, and mathematical notations.
 
-It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode), and inherits its programming ligatures and HiDPI support.
+It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode), and inherits its programming ligatures and HiDPI support. The motivation for making it is that I was tired of programming with sans-serif fonts, but serif fonts are often incomplete for scientific notations.
+
+Made by Lu Niu
 
 ## Screenshots
 
