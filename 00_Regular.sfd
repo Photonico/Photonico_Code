@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1670458070
+ModificationTime: 1731431389
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8287,7 +8287,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 26 10
+WinInfo: 0 19 5
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -40685,7 +40685,7 @@ EndChar
 
 StartChar: comma
 Encoding: 14 44 827
-Width: 1204
+Width: 1200
 GlyphClass: 1
 Flags: HW
 LayerCount: 6
@@ -40702,7 +40702,6 @@ SplineSet
  430 244 506 320 600 320 c 0
  694 320 770 244 770 150 c 1
 EndSplineSet
-Validated: 1
 Layer: 2
 SplineSet
 770 150 m 5
@@ -41131,7 +41130,7 @@ StartChar: exclam
 Encoding: 3 33 836
 Width: 1200
 GlyphClass: 1
-Flags: HWO
+Flags: HW
 HStem: -20 250<507.689 692.311> 1300 20G<567.759 632.241>
 VStem: 485 230<3.39397 206.606 656.026 1294.09> 530 140<385.266 450>
 LayerCount: 6
