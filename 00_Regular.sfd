@@ -4,7 +4,7 @@ FullName: Photonico Code Regular
 FamilyName: Photonico Code
 Weight: Regular
 Copyright: Copyright 2022-2027 Lu Niu (https://github.com/Photonico)
-Version: 1.6
+Version: 1.6_alpha
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1731435173
+ModificationTime: 1731521538
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -8287,7 +8287,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 2197 13 5
+WinInfo: 0 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -14942,28 +14942,27 @@ VStem: 520 240<1229.35 1410.65>
 LayerCount: 6
 Fore
 SplineSet
-520 1320 m 0
- 520 1386 574 1440 640 1440 c 0
- 706 1440 760 1386 760 1320 c 0
- 760 1254 706 1200 640 1200 c 0
- 574 1200 520 1254 520 1320 c 0
-280 890 m 4
- 280 849.665039062 310 820 350 820 c 6
- 620 820 l 5
- 620 140 l 5
- 350 140 l 6
- 310 140 280 110.333007812 280 70 c 4
- 280 29.6650390625 309.666992188 0 350 0 c 6
- 1030 0 l 6
- 1070.33496094 0 1100 29.6669921875 1100 70 c 4
- 1100 110.334960938 1070 140 1030 140 c 6
- 760 140 l 5
- 760 890 l 5
- 760 930.334960938 730 960 690 960 c 6
- 350 960 l 6
- 310 960 280 930.333007812 280 890 c 4
+500 1320 m 4
+ 500 1397 563 1460 640 1460 c 4
+ 717 1460 780 1397 780 1320 c 4
+ 780 1243 717 1180 640 1180 c 4
+ 563 1180 500 1243 500 1320 c 4
+280 890 m 0
+ 280 849.665039062 310 820 350 820 c 2
+ 620 820 l 1
+ 620 140 l 1
+ 350 140 l 2
+ 310 140 280 110.333007812 280 70 c 0
+ 280 29.6650390625 309.666992188 0 350 0 c 2
+ 1030 0 l 2
+ 1070.33496094 0 1100 29.6669921875 1100 70 c 0
+ 1100 110.334960938 1070 140 1030 140 c 2
+ 760 140 l 1
+ 760 890 l 1
+ 760 930.334960938 730 960 690 960 c 2
+ 350 960 l 2
+ 310 960 280 930.333007812 280 890 c 0
 EndSplineSet
-Validated: 9
 Layer: 2
 SplineSet
 520 1320 m 0
@@ -14986,6 +14985,14 @@ SplineSet
  760 930.334960938 730 960 690 960 c 6
  350 960 l 2
  310 960 280 930.333007812 280 890 c 0
+EndSplineSet
+Layer: 3
+SplineSet
+520 1320 m 4
+ 520 1386 574 1440 640 1440 c 4
+ 706 1440 760 1386 760 1320 c 4
+ 760 1254 706 1200 640 1200 c 4
+ 574 1200 520 1254 520 1320 c 4
 EndSplineSet
 Substitution2: "'cv06' Character Variants 06 lookup 366 subtable" i.cv06
 Substitution2: "'cv05' Character Variants 05 lookup 365 subtable" i.cv05
@@ -15342,6 +15349,11 @@ AnchorPoint: "Anchor-0" 735 1053 basechar 0
 LayerCount: 6
 Fore
 SplineSet
+560 1320 m 0
+ 560 1397 623 1460 700 1460 c 0
+ 777 1460 840 1397 840 1320 c 0
+ 840 1243 777 1180 700 1180 c 0
+ 623 1180 560 1243 560 1320 c 0
 680 -121 m 1
  680 820 l 1
  360 820 l 2
@@ -15357,13 +15369,15 @@ SplineSet
  317 -290 325 -291 331 -293 c 1
  386.645507812 -309.475585938 444.374023438 -320 500 -320 c 3
  656.002929688 -320 680 -243 680 -121 c 1
-580 1320 m 0
- 580 1386 634 1440 700 1440 c 0
- 766 1440 820 1386 820 1320 c 0
- 820 1254 766 1200 700 1200 c 0
- 634 1200 580 1254 580 1320 c 0
 EndSplineSet
-Validated: 1
+Layer: 2
+SplineSet
+580 1320 m 4
+ 580 1386 634 1440 700 1440 c 4
+ 766 1440 820 1386 820 1320 c 4
+ 820 1254 766 1200 700 1200 c 4
+ 634 1200 580 1254 580 1320 c 4
+EndSplineSet
 Substitution2: "Single Substitution lookup 348 subtable" f_j.liga.ss10
 Substitution2: "Single Substitution lookup 273 subtable" j.salt_low
 AlternateSubs2: "'aalt' Access All Alternates lookup 1 subtable" j.salt_low f_j.liga.ss10
@@ -18902,8 +18916,7 @@ AnchorPoint: "Anchor-0" 600 1053 basechar 0
 LayerCount: 6
 Fore
 Refer: 286 -1 N 1 0 0 1 0 0 3
-Refer: 1669 729 N 1 0 0 1 0 0 2
-Validated: 1
+Refer: 1669 729 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: igrave.cv03
@@ -30993,7 +31006,6 @@ AnchorPoint: "Anchor-0" 735 1053 basechar 0
 LayerCount: 6
 Fore
 Refer: 192 106 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni03F5
@@ -84282,7 +84294,7 @@ EndSplineSet
 Substitution2: "Single Substitution lookup 358 subtable" grave.case
 Substitution2: "Single Substitution lookup 357 subtable" grave.case
 Substitution2: "Single Substitution lookup 355 subtable" grave.case
-Substitution2: "Single Substitution lookup 354 subtable" grave.case
+Substitution2: "Single Substitution lookup 354 subtable" grave
 Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" grave.case
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" grave.case
 EndChar
@@ -112743,7 +112755,6 @@ LayerCount: 6
 Fore
 Refer: 180 105 S 1 0 0 1 0 0 2
 Refer: 2122 803 N 1 0 0 1 0 0 2
-Validated: 9
 EndChar
 
 StartChar: uni1ECC
