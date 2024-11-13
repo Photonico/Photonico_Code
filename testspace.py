@@ -1,4 +1,6 @@
 # testplace.py
 
-i = 30
-j = 50
+ij = 30
+jk = 50
+
+iż = 60
