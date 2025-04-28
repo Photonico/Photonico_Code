@@ -1,9 +1,15 @@
 # To do list
 
-+ 2023 Jun
++ 2023 Jun (done)
 
   + Unify the width of all letters
 
   + Fix the letter `
 
   + Enlarge and lift the dot of i and j
+
++ 2025 Apr for installation list
+
+  + fontbakery: `fontbakery check-googlefonts <yourfont>.ttf`
+
+  + gftools
