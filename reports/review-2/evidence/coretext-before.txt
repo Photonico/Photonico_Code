@@ -1,0 +1,15 @@
+FONT /tmp/photonico-review-2/baseline-audit/review-claude/generated/current-built.ttf monoSpace=true
+U+0078 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+0071 U+0301 U+0071 total=2400.0: gid85 x=0.0 y=0.0 aw=0.0 | gid1659 x=0.0 y=0.0 aw=1200.0 | gid85 x=1200.0 y=0.0 aw=1200.0
+U+0078 U+0336 U+0078 total=2592.0: gid92 x=61.0 y=0.0 aw=-1.0 | gid1674 x=60.0 y=-140.0 aw=1332.0 | gid92 x=1392.0 y=0.0 aw=1200.0
+U+0078 U+0335 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=0.0 | gid1673 x=0.0 y=-140.0 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+002D U+002D U+0335 total=2750.0: gid983 x=0.0 y=0.0 aw=1550.0 | gid875 x=1550.0 y=0.0 aw=-599.0 | gid1673 x=951.0 y=-20.0 aw=1799.0
+U+0078 U+0335 U+0336 U+0078 total=2592.0: gid92 x=61.0 y=0.0 aw=0.0 | gid1673 x=61.0 y=-140.0 aw=-1.0 | gid1674 x=60.0 y=-140.0 aw=1332.0 | gid92 x=1392.0 y=0.0 aw=1200.0
+U+0078 U+0336 U+0335 U+0078 total=2592.0: gid92 x=61.0 y=0.0 aw=-1.0 | gid1674 x=60.0 y=-140.0 aw=1.0 | gid1673 x=61.0 y=-140.0 aw=1331.0 | gid92 x=1392.0 y=0.0 aw=1200.0
+U+0071 U+0301 U+0336 U+0071 total=2400.0: gid85 x=0.0 y=0.0 aw=0.0 | gid1659 x=0.0 y=0.0 aw=0.0 | gid1674 x=0.0 y=0.0 aw=1200.0 | gid85 x=1200.0 y=0.0 aw=1200.0
+U+1D53C U+0336 total=1391.0: gid1748 x=65.5 y=0.0 aw=-5.5 | gid1674 x=60.0 y=30.0 aw=1331.0
+U+25CC U+0336 total=1322.0: gid2170 x=61.0 y=0.0 aw=-1.0 | gid1674 x=60.0 y=-20.0 aw=1262.0
+U+0078 U+0323 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=0.0 | gid2122 x=0.0 y=0.0 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+0078 U+0325 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=0.0 | gid2125 x=0.0 y=0.0 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+0061 U+200B U+0062 total=2400.0: gid69 x=0.0 y=0.0 aw=1200.0 | gid70 x=1200.0 y=0.0 aw=1200.0
+U+0061 U+FEFF U+0062 total=2400.0: gid69 x=0.0 y=0.0 aw=1200.0 | gid70 x=1200.0 y=0.0 aw=1200.0

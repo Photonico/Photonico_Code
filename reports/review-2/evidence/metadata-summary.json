@@ -1,0 +1,326 @@
+[
+  {
+    "file": "baseline-audit/review-claude/generated/current-built.ttf",
+    "sha256": "e39e7284d6b7bd10147f3ff6af8aa8d0745fe20479e32d363a7ff961f7535db0",
+    "isFixedPitch": 1,
+    "panose": {
+      "bFamilyType": 2,
+      "bSerifStyle": 0,
+      "bWeight": 0,
+      "bProportion": 9,
+      "bContrast": 0,
+      "bStrokeVariation": 0,
+      "bArmStyle": 0,
+      "bLetterForm": 0,
+      "bMidline": 0,
+      "bXHeight": 0
+    },
+    "head_fontRevision": 1.600006103515625,
+    "name_ids": {
+      "1": [
+        "Photonico Code"
+      ],
+      "2": [
+        "Regular"
+      ],
+      "3": [
+        "1.6_alpha; PhotonicoCode-Regular"
+      ],
+      "4": [
+        "Photonico Code Regular"
+      ],
+      "5": [
+        "Version 1.6_alpha; ttfautohint (v1.8.4)"
+      ],
+      "6": [
+        "PhotonicoCode-Regular"
+      ],
+      "16": [],
+      "17": []
+    },
+    "hmtx_width_counts": {
+      "1200": 2204,
+      "0": 26
+    },
+    "hinted_glyph_count": 1627,
+    "program_bytes": {
+      "fpgm": 3596,
+      "prep": 203
+    },
+    "gasp": {
+      "65535": 15
+    },
+    "glyph_count": 2230,
+    "cmap_count": 1784,
+    "bad_checksums": {},
+    "excess_codepage_bits": [],
+    "cmap_disagreements": [],
+    "draw_errors": [],
+    "head_bounds": [
+      -3610,
+      -1000,
+      1685,
+      2400
+    ],
+    "source_width_mismatches": [],
+    "multiple_USE_MY_METRICS": [],
+    "head_flags": 15
+  },
+  {
+    "file": "generated/current-raw.ttf",
+    "sha256": "d72e323e12c3295b1c30d9a9151c475de24218bf32fc6a66ff58d47fa2604f75",
+    "isFixedPitch": 1,
+    "panose": {
+      "bFamilyType": 2,
+      "bSerifStyle": 0,
+      "bWeight": 0,
+      "bProportion": 9,
+      "bContrast": 0,
+      "bStrokeVariation": 0,
+      "bArmStyle": 0,
+      "bLetterForm": 0,
+      "bMidline": 0,
+      "bXHeight": 0
+    },
+    "head_fontRevision": 1.600006103515625,
+    "name_ids": {
+      "1": [
+        "Photonico Code"
+      ],
+      "2": [
+        "Regular"
+      ],
+      "3": [
+        "1.6_alpha; PhotonicoCode-Regular"
+      ],
+      "4": [
+        "Photonico Code Regular"
+      ],
+      "5": [
+        "Version 1.6_alpha"
+      ],
+      "6": [
+        "PhotonicoCode-Regular"
+      ],
+      "16": [],
+      "17": []
+    },
+    "hmtx_width_counts": {
+      "1200": 2229,
+      "0": 1
+    },
+    "hinted_glyph_count": 0,
+    "program_bytes": {},
+    "gasp": {
+      "65535": 10
+    },
+    "glyph_count": 2230,
+    "cmap_count": 1784,
+    "bad_checksums": {},
+    "excess_codepage_bits": [],
+    "cmap_disagreements": [],
+    "draw_errors": [],
+    "head_bounds": [
+      -3610,
+      -1000,
+      1685,
+      2400
+    ],
+    "source_width_mismatches": [
+      {
+        "name": "uniFEFF",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni200B",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0342",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0345",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0308",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0307",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "gravecomb",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "acutecomb",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni030B",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0302",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni030C",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0306",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni030A",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "tildecomb",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0304",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0305",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni030F",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0313",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0314",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0326",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0327",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0335",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0336",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0323",
+        "source": 0,
+        "output": 1200
+      },
+      {
+        "name": "uni0325",
+        "source": 0,
+        "output": 1200
+      }
+    ],
+    "multiple_USE_MY_METRICS": [],
+    "head_flags": 11
+  },
+  {
+    "file": "generated/current-built.ttf",
+    "sha256": "402258eb9889c75cde250e2065ae970a4c5e3093a1b68c3b27fc4e1c872b4a5b",
+    "isFixedPitch": 1,
+    "panose": {
+      "bFamilyType": 2,
+      "bSerifStyle": 0,
+      "bWeight": 0,
+      "bProportion": 9,
+      "bContrast": 0,
+      "bStrokeVariation": 0,
+      "bArmStyle": 0,
+      "bLetterForm": 0,
+      "bMidline": 0,
+      "bXHeight": 0
+    },
+    "head_fontRevision": 1.600006103515625,
+    "name_ids": {
+      "1": [
+        "Photonico Code"
+      ],
+      "2": [
+        "Regular"
+      ],
+      "3": [
+        "1.6_alpha; PhotonicoCode-Regular"
+      ],
+      "4": [
+        "Photonico Code Regular"
+      ],
+      "5": [
+        "Version 1.6_alpha; ttfautohint (v1.8.4)"
+      ],
+      "6": [
+        "PhotonicoCode-Regular"
+      ],
+      "16": [],
+      "17": []
+    },
+    "hmtx_width_counts": {
+      "1200": 2204,
+      "0": 26
+    },
+    "hinted_glyph_count": 1627,
+    "program_bytes": {
+      "fpgm": 3596,
+      "prep": 203
+    },
+    "gasp": {
+      "65535": 15
+    },
+    "glyph_count": 2230,
+    "cmap_count": 1784,
+    "bad_checksums": {},
+    "excess_codepage_bits": [],
+    "cmap_disagreements": [],
+    "draw_errors": [],
+    "head_bounds": [
+      -3610,
+      -1000,
+      1685,
+      2400
+    ],
+    "source_width_mismatches": [],
+    "multiple_USE_MY_METRICS": [],
+    "head_flags": 15
+  }
+]

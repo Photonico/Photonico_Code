@@ -1,0 +1,22 @@
+{
+  "source_before_sha256": "c1db32b7c031ff93e4417891bb73fc2e04790188947b4297151f56d43d557ee2",
+  "source_after_sha256": "77b4b2eb070d350b009492237590f0d3fa7a3db744245120391ef29e13c89435",
+  "changed_source_anchor_count": 5,
+  "changed_ttf_tables": [
+    "head",
+    "GPOS"
+  ],
+  "identical_tables_verified": [
+    "glyf",
+    "hmtx",
+    "GSUB",
+    "cmap",
+    "GDEF",
+    "fpgm",
+    "prep"
+  ],
+  "glyphs": 2230,
+  "post_isFixedPitch": 1,
+  "ttf_before_sha256": "402258eb9889c75cde250e2065ae970a4c5e3093a1b68c3b27fc4e1c872b4a5b",
+  "ttf_after_sha256": "812c07ced8ecbe24e4110b7398e7a9ec7ae73cbab021e5825ec4847916f09640"
+}

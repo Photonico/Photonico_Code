@@ -1,0 +1,32 @@
+[
+  {
+    "gid": 138,
+    "name": "Ccedilla",
+    "components": [
+      {
+        "name": "cedilla",
+        "flags": "0x1204",
+        "transform": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "C",
+        "flags": "0x1204",
+        "transform": [
+          1,
+          0,
+          0,
+          1,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

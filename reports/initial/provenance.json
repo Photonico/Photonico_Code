@@ -1,0 +1,9 @@
+{
+  "source": "/Users/lu/Repos/Photonico_Code/00_Regular.sfd",
+  "source_sha256": "3b9e3db99ce4742ef95c936838dbd21ea30b4fb22a733a522264da5ce84a40a2",
+  "git_head": "5d3c3e109d2cc93592cbbb28f341ad9319e50431",
+  "fontforge": "20251009",
+  "fonttools": "4.61.1",
+  "harfbuzz": "14.5.0",
+  "source_changed": false
+}

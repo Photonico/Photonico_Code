@@ -1,0 +1,47 @@
+--- before.sfd
++++ 00_Regular.sfd
+@@ -14358,7 +14358,7 @@
+ HStem: 0 140<75.4531 140 460 524.547 674.453 739 1060 1124.55> 820 140<95.4531 160 480 544.547 654.453 719 1040 1104.55>
+ AnchorPoint: "Anchor-1" 600 0 basechar 0
+ AnchorPoint: "Anchor-0" 600 1053 basechar 0
+-AnchorPoint: "Anchor-5" 600 0 basechar 0
++AnchorPoint: "Anchor-5" 600 -140 basechar 0
+ LayerCount: 6
+ Fore
+ SplineSet
+@@ -36618,7 +36618,7 @@
+ Width: 1200
+ GlyphClass: 1
+ Flags: HW
+-AnchorPoint: "Anchor-5" 600 0 basechar 0
++AnchorPoint: "Anchor-5" 0 -20 basechar 0
+ LayerCount: 6
+ Fore
+ SplineSet
+@@ -43419,7 +43419,7 @@
+ Width: 1200
+ GlyphClass: 1
+ Flags: HW
+-AnchorPoint: "Anchor-5" 600 0 basechar 0
++AnchorPoint: "Anchor-5" 600 -20 basechar 0
+ LayerCount: 6
+ Fore
+ SplineSet
+@@ -85994,7 +85994,7 @@
+ Flags: HW
+ AnchorPoint: "Anchor-1" 595 0 basechar 0
+ AnchorPoint: "Anchor-0" 595 1377 basechar 0
+-AnchorPoint: "Anchor-5" 600 0 basechar 0
++AnchorPoint: "Anchor-5" 595 30 basechar 0
+ LayerCount: 6
+ Fore
+ SplineSet
+@@ -110719,7 +110719,7 @@
+ Encoding: 2169 9676 2170
+ Width: 1200
+ Flags: HW
+-AnchorPoint: "Anchor-5" 600 0 basechar 0
++AnchorPoint: "Anchor-5" 600 -20 basechar 0
+ LayerCount: 6
+ Fore
+ SplineSet

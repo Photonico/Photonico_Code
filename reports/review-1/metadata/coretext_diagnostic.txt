@@ -1,0 +1,6 @@
+FONT audit/review-claude/shaping/diagnostic-overlay-markbase.ttf
+U+0071 U+0301 U+0071 total=2400.0: gid85 x=0.0 y=0.0 aw=-22.5 | gid1659 x=-22.5 y=-108.4 aw=1222.5 | gid85 x=1200.0 y=0.0 aw=1200.0
+U+0078 U+0336 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=0.0 | gid1674 x=0.0 y=0.0 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+0078 U+0323 U+0078 total=2400.0: gid92 x=0.0 y=0.0 aw=0.0 | gid2122 x=0.0 y=-0.5999999999999943 aw=1200.0 | gid92 x=1200.0 y=0.0 aw=1200.0
+U+0061 U+200B U+0062 total=2400.0: gid69 x=0.0 y=0.0 aw=1200.0 | gid70 x=1200.0 y=0.0 aw=1200.0
+U+0061 U+FEFF U+0062 total=2400.0: gid69 x=0.0 y=0.0 aw=1200.0 | gid70 x=1200.0 y=0.0 aw=1200.0

@@ -1,0 +1,2489 @@
+{
+  "tested": 683,
+  "failed": [
+    {
+      "text": "r̂",
+      "codepoint": "U+0072",
+      "name": "LATIN SMALL LETTER R",
+      "glyphs": [
+        {
+          "g": "r",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ß̂",
+      "codepoint": "U+00DF",
+      "name": "LATIN SMALL LETTER SHARP S",
+      "glyphs": [
+        {
+          "g": "germandbls",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ð̂",
+      "codepoint": "U+00F0",
+      "name": "LATIN SMALL LETTER ETH",
+      "glyphs": [
+        {
+          "g": "eth",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ħ̂",
+      "codepoint": "U+0126",
+      "name": "LATIN CAPITAL LETTER H WITH STROKE",
+      "glyphs": [
+        {
+          "g": "Hbar",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ĳ̂",
+      "codepoint": "U+0132",
+      "name": "LATIN CAPITAL LIGATURE IJ",
+      "glyphs": [
+        {
+          "g": "IJ",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ĳ̂",
+      "codepoint": "U+0133",
+      "name": "LATIN SMALL LIGATURE IJ",
+      "glyphs": [
+        {
+          "g": "ij",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ŋ̂",
+      "codepoint": "U+014B",
+      "name": "LATIN SMALL LETTER ENG",
+      "glyphs": [
+        {
+          "g": "eng",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "œ̂",
+      "codepoint": "U+0153",
+      "name": "LATIN SMALL LIGATURE OE",
+      "glyphs": [
+        {
+          "g": "oe",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ƃ̂",
+      "codepoint": "U+0182",
+      "name": "LATIN CAPITAL LETTER B WITH TOPBAR",
+      "glyphs": [
+        {
+          "g": "uni0182",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ƃ̂",
+      "codepoint": "U+0183",
+      "name": "LATIN SMALL LETTER B WITH TOPBAR",
+      "glyphs": [
+        {
+          "g": "uni0183",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ǝ̂",
+      "codepoint": "U+018E",
+      "name": "LATIN CAPITAL LETTER REVERSED E",
+      "glyphs": [
+        {
+          "g": "uni018E",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ə̂",
+      "codepoint": "U+018F",
+      "name": "LATIN CAPITAL LETTER SCHWA",
+      "glyphs": [
+        {
+          "g": "uni018F",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ɛ̂",
+      "codepoint": "U+0190",
+      "name": "LATIN CAPITAL LETTER OPEN E",
+      "glyphs": [
+        {
+          "g": "uni0190",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ƒ̂",
+      "codepoint": "U+0192",
+      "name": "LATIN SMALL LETTER F WITH HOOK",
+      "glyphs": [
+        {
+          "g": "florin",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ʒ̂",
+      "codepoint": "U+01B7",
+      "name": "LATIN CAPITAL LETTER EZH",
+      "glyphs": [
+        {
+          "g": "uni01B7",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ƹ̂",
+      "codepoint": "U+01B8",
+      "name": "LATIN CAPITAL LETTER EZH REVERSED",
+      "glyphs": [
+        {
+          "g": "uni01B8",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ƹ̂",
+      "codepoint": "U+01B9",
+      "name": "LATIN SMALL LETTER EZH REVERSED",
+      "glyphs": [
+        {
+          "g": "uni01B9",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ɐ̂",
+      "codepoint": "U+0250",
+      "name": "LATIN SMALL LETTER TURNED A",
+      "glyphs": [
+        {
+          "g": "uni0250",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ɒ̂",
+      "codepoint": "U+0252",
+      "name": "LATIN SMALL LETTER TURNED ALPHA",
+      "glyphs": [
+        {
+          "g": "uni0252",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ɘ̂",
+      "codepoint": "U+0258",
+      "name": "LATIN SMALL LETTER REVERSED E",
+      "glyphs": [
+        {
+          "g": "uni0258",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ə̂",
+      "codepoint": "U+0259",
+      "name": "LATIN SMALL LETTER SCHWA",
+      "glyphs": [
+        {
+          "g": "uni0259",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ɛ̂",
+      "codepoint": "U+025B",
+      "name": "LATIN SMALL LETTER OPEN E",
+      "glyphs": [
+        {
+          "g": "uni025B",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ɥ̂",
+      "codepoint": "U+0265",
+      "name": "LATIN SMALL LETTER TURNED H",
+      "glyphs": [
+        {
+          "g": "uni0265",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ʃ̂",
+      "codepoint": "U+0283",
+      "name": "LATIN SMALL LETTER ESH",
+      "glyphs": [
+        {
+          "g": "uni0283",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ʒ̂",
+      "codepoint": "U+0292",
+      "name": "LATIN SMALL LETTER EZH",
+      "glyphs": [
+        {
+          "g": "uni0292",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ʧ̂",
+      "codepoint": "U+02A7",
+      "name": "LATIN SMALL LETTER TESH DIGRAPH",
+      "glyphs": [
+        {
+          "g": "uni02A7",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ʹ̂",
+      "codepoint": "U+0374",
+      "name": "GREEK NUMERAL SIGN",
+      "glyphs": [
+        {
+          "g": "uni02B9",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ͺ̂",
+      "codepoint": "U+037A",
+      "name": "GREEK YPOGEGRAMMENI",
+      "glyphs": [
+        {
+          "g": "uni037A",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ͻ̂",
+      "codepoint": "U+037B",
+      "name": "GREEK SMALL REVERSED LUNATE SIGMA SYMBOL",
+      "glyphs": [
+        {
+          "g": "uni037B",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ͽ̂",
+      "codepoint": "U+037D",
+      "name": "GREEK SMALL REVERSED DOTTED LUNATE SIGMA SYMBOL",
+      "glyphs": [
+        {
+          "g": "uni037D",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Λ̂",
+      "codepoint": "U+039B",
+      "name": "GREEK CAPITAL LETTER LAMDA",
+      "glyphs": [
+        {
+          "g": "Lambda",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ϗ̂",
+      "codepoint": "U+03CF",
+      "name": "GREEK CAPITAL KAI SYMBOL",
+      "glyphs": [
+        {
+          "g": "uni03CF",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ϐ̂",
+      "codepoint": "U+03D0",
+      "name": "GREEK BETA SYMBOL",
+      "glyphs": [
+        {
+          "g": "uni03D0",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ϕ̂",
+      "codepoint": "U+03D5",
+      "name": "GREEK PHI SYMBOL",
+      "glyphs": [
+        {
+          "g": "phi1",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḁ̂",
+      "codepoint": "U+1E00",
+      "name": "LATIN CAPITAL LETTER A WITH RING BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E00",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḁ̂",
+      "codepoint": "U+1E01",
+      "name": "LATIN SMALL LETTER A WITH RING BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E01",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḃ̂",
+      "codepoint": "U+1E02",
+      "name": "LATIN CAPITAL LETTER B WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E02",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḃ̂",
+      "codepoint": "U+1E03",
+      "name": "LATIN SMALL LETTER B WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E03",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḅ̂",
+      "codepoint": "U+1E04",
+      "name": "LATIN CAPITAL LETTER B WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E04",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḅ̂",
+      "codepoint": "U+1E05",
+      "name": "LATIN SMALL LETTER B WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E05",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḋ̂",
+      "codepoint": "U+1E0A",
+      "name": "LATIN CAPITAL LETTER D WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E0A",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḋ̂",
+      "codepoint": "U+1E0B",
+      "name": "LATIN SMALL LETTER D WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E0B",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḍ̂",
+      "codepoint": "U+1E0C",
+      "name": "LATIN CAPITAL LETTER D WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E0C",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḍ̂",
+      "codepoint": "U+1E0D",
+      "name": "LATIN SMALL LETTER D WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E0D",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḟ̂",
+      "codepoint": "U+1E1E",
+      "name": "LATIN CAPITAL LETTER F WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E1E",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḟ̂",
+      "codepoint": "U+1E1F",
+      "name": "LATIN SMALL LETTER F WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E1F",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḣ̂",
+      "codepoint": "U+1E22",
+      "name": "LATIN CAPITAL LETTER H WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E22",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḣ̂",
+      "codepoint": "U+1E23",
+      "name": "LATIN SMALL LETTER H WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E23",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḥ̂",
+      "codepoint": "U+1E24",
+      "name": "LATIN CAPITAL LETTER H WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E24",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḥ̂",
+      "codepoint": "U+1E25",
+      "name": "LATIN SMALL LETTER H WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E25",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḧ̂",
+      "codepoint": "U+1E26",
+      "name": "LATIN CAPITAL LETTER H WITH DIAERESIS",
+      "glyphs": [
+        {
+          "g": "uni1E26",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḧ̂",
+      "codepoint": "U+1E27",
+      "name": "LATIN SMALL LETTER H WITH DIAERESIS",
+      "glyphs": [
+        {
+          "g": "uni1E27",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḳ̂",
+      "codepoint": "U+1E32",
+      "name": "LATIN CAPITAL LETTER K WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E32",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḳ̂",
+      "codepoint": "U+1E33",
+      "name": "LATIN SMALL LETTER K WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E33",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ḷ̂",
+      "codepoint": "U+1E36",
+      "name": "LATIN CAPITAL LETTER L WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E36",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ḷ̂",
+      "codepoint": "U+1E37",
+      "name": "LATIN SMALL LETTER L WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E37",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṁ̂",
+      "codepoint": "U+1E40",
+      "name": "LATIN CAPITAL LETTER M WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E40",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṁ̂",
+      "codepoint": "U+1E41",
+      "name": "LATIN SMALL LETTER M WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E41",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṃ̂",
+      "codepoint": "U+1E42",
+      "name": "LATIN CAPITAL LETTER M WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E42",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṃ̂",
+      "codepoint": "U+1E43",
+      "name": "LATIN SMALL LETTER M WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E43",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṅ̂",
+      "codepoint": "U+1E44",
+      "name": "LATIN CAPITAL LETTER N WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E44",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṅ̂",
+      "codepoint": "U+1E45",
+      "name": "LATIN SMALL LETTER N WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E45",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṇ̂",
+      "codepoint": "U+1E46",
+      "name": "LATIN CAPITAL LETTER N WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E46",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṇ̂",
+      "codepoint": "U+1E47",
+      "name": "LATIN SMALL LETTER N WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E47",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṗ̂",
+      "codepoint": "U+1E56",
+      "name": "LATIN CAPITAL LETTER P WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E56",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṗ̂",
+      "codepoint": "U+1E57",
+      "name": "LATIN SMALL LETTER P WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E57",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṙ̂",
+      "codepoint": "U+1E58",
+      "name": "LATIN CAPITAL LETTER R WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E58",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṙ̂",
+      "codepoint": "U+1E59",
+      "name": "LATIN SMALL LETTER R WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E59",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṛ̂",
+      "codepoint": "U+1E5A",
+      "name": "LATIN CAPITAL LETTER R WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E5A",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṛ̂",
+      "codepoint": "U+1E5B",
+      "name": "LATIN SMALL LETTER R WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E5b",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṡ̂",
+      "codepoint": "U+1E60",
+      "name": "LATIN CAPITAL LETTER S WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E60",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṡ̂",
+      "codepoint": "U+1E61",
+      "name": "LATIN SMALL LETTER S WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E61",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṣ̂",
+      "codepoint": "U+1E62",
+      "name": "LATIN CAPITAL LETTER S WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E62",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṣ̂",
+      "codepoint": "U+1E63",
+      "name": "LATIN SMALL LETTER S WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E63",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṩ̂",
+      "codepoint": "U+1E68",
+      "name": "LATIN CAPITAL LETTER S WITH DOT BELOW AND DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E68",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṩ̂",
+      "codepoint": "U+1E69",
+      "name": "LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E69",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ṫ̂",
+      "codepoint": "U+1E6A",
+      "name": "LATIN CAPITAL LETTER T WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E6A",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ṫ̂",
+      "codepoint": "U+1E6B",
+      "name": "LATIN SMALL LETTER T WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E6B",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẇ̂",
+      "codepoint": "U+1E86",
+      "name": "LATIN CAPITAL LETTER W WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "Uni1E86",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẇ̂",
+      "codepoint": "U+1E87",
+      "name": "LATIN SMALL LETTER W WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E87",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẉ̂",
+      "codepoint": "U+1E88",
+      "name": "LATIN CAPITAL LETTER W WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E88",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẉ̂",
+      "codepoint": "U+1E89",
+      "name": "LATIN SMALL LETTER W WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E89",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẋ̂",
+      "codepoint": "U+1E8A",
+      "name": "LATIN CAPITAL LETTER X WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E8A",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẋ̂",
+      "codepoint": "U+1E8B",
+      "name": "LATIN SMALL LETTER X WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E8B",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẍ̂",
+      "codepoint": "U+1E8C",
+      "name": "LATIN CAPITAL LETTER X WITH DIAERESIS",
+      "glyphs": [
+        {
+          "g": "uni1E8C",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẍ̂",
+      "codepoint": "U+1E8D",
+      "name": "LATIN SMALL LETTER X WITH DIAERESIS",
+      "glyphs": [
+        {
+          "g": "uni1E8D",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẏ̂",
+      "codepoint": "U+1E8E",
+      "name": "LATIN CAPITAL LETTER Y WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E8E",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẏ̂",
+      "codepoint": "U+1E8F",
+      "name": "LATIN SMALL LETTER Y WITH DOT ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E8F",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ẓ̂",
+      "codepoint": "U+1E92",
+      "name": "LATIN CAPITAL LETTER Z WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E92",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẓ̂",
+      "codepoint": "U+1E93",
+      "name": "LATIN SMALL LETTER Z WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1E93",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẗ̂",
+      "codepoint": "U+1E97",
+      "name": "LATIN SMALL LETTER T WITH DIAERESIS",
+      "glyphs": [
+        {
+          "g": "uni1E97",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẘ̂",
+      "codepoint": "U+1E98",
+      "name": "LATIN SMALL LETTER W WITH RING ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E98",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẙ̂",
+      "codepoint": "U+1E99",
+      "name": "LATIN SMALL LETTER Y WITH RING ABOVE",
+      "glyphs": [
+        {
+          "g": "uni1E99",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ẞ̂",
+      "codepoint": "U+1E9E",
+      "name": "LATIN CAPITAL LETTER SHARP S",
+      "glyphs": [
+        {
+          "g": "uni1E9E",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ệ",
+      "codepoint": "U+1EB8",
+      "name": "LATIN CAPITAL LETTER E WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1EB8",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ệ",
+      "codepoint": "U+1EB9",
+      "name": "LATIN SMALL LETTER E WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1EB9",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ị̂",
+      "codepoint": "U+1ECA",
+      "name": "LATIN CAPITAL LETTER I WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1ECA",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ị̂",
+      "codepoint": "U+1ECB",
+      "name": "LATIN SMALL LETTER I WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1ECB",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ộ",
+      "codepoint": "U+1ECC",
+      "name": "LATIN CAPITAL LETTER O WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1ECC",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ộ",
+      "codepoint": "U+1ECD",
+      "name": "LATIN SMALL LETTER O WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1ECD",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "Ỵ̂",
+      "codepoint": "U+1EF4",
+      "name": "LATIN CAPITAL LETTER Y WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1EF4",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ỵ̂",
+      "codepoint": "U+1EF5",
+      "name": "LATIN SMALL LETTER Y WITH DOT BELOW",
+      "glyphs": [
+        {
+          "g": "uni1EF5",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ⁿ̂",
+      "codepoint": "U+207F",
+      "name": "SUPERSCRIPT LATIN SMALL LETTER N",
+      "glyphs": [
+        {
+          "g": "uni207F",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ꟻ̂",
+      "codepoint": "U+A7FB",
+      "name": "LATIN EPIGRAPHIC LETTER REVERSED F",
+      "glyphs": [
+        {
+          "g": "uniA7FB",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ꟼ̂",
+      "codepoint": "U+A7FC",
+      "name": "LATIN EPIGRAPHIC LETTER REVERSED P",
+      "glyphs": [
+        {
+          "g": "uniA7FC",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ꟽ̂",
+      "codepoint": "U+A7FD",
+      "name": "LATIN EPIGRAPHIC LETTER INVERTED M",
+      "glyphs": [
+        {
+          "g": "uniA7FD",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ꬱ̂",
+      "codepoint": "U+AB31",
+      "name": "LATIN SMALL LETTER A REVERSED-SCHWA",
+      "glyphs": [
+        {
+          "g": "uniAB31",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    },
+    {
+      "text": "ꭀ̂",
+      "codepoint": "U+AB40",
+      "name": "LATIN SMALL LETTER INVERTED OE",
+      "glyphs": [
+        {
+          "g": "U+AB40",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 1200,
+          "ay": 0
+        },
+        {
+          "g": "uni0302",
+          "cl": 0,
+          "dx": 0,
+          "dy": 0,
+          "ax": 0,
+          "ay": 0
+        }
+      ]
+    }
+  ]
+}

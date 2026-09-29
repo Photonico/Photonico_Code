@@ -1,0 +1,51 @@
+--- before GPOS
++++ after GPOS
+@@ -14704,7 +14704,7 @@
+             <BaseRecord index="15">
+               <BaseAnchor index="0" Format="1">
+                 <XCoordinate value="600"/>
+-                <YCoordinate value="0"/>
++                <YCoordinate value="-20"/>
+               </BaseAnchor>
+             </BaseRecord>
+             <BaseRecord index="16">
+@@ -15154,7 +15154,7 @@
+             <BaseRecord index="90">
+               <BaseAnchor index="0" Format="1">
+                 <XCoordinate value="600"/>
+-                <YCoordinate value="0"/>
++                <YCoordinate value="-140"/>
+               </BaseAnchor>
+             </BaseRecord>
+             <BaseRecord index="91">
+@@ -19839,8 +19839,8 @@
+             </BaseRecord>
+             <BaseRecord index="871">
+               <BaseAnchor index="0" Format="1">
+-                <XCoordinate value="600"/>
+-                <YCoordinate value="0"/>
++                <XCoordinate value="0"/>
++                <YCoordinate value="-20"/>
+               </BaseAnchor>
+             </BaseRecord>
+             <BaseRecord index="872">
+@@ -24951,8 +24951,8 @@
+             </BaseRecord>
+             <BaseRecord index="1723">
+               <BaseAnchor index="0" Format="1">
+-                <XCoordinate value="600"/>
+-                <YCoordinate value="0"/>
++                <XCoordinate value="595"/>
++                <YCoordinate value="30"/>
+               </BaseAnchor>
+             </BaseRecord>
+             <BaseRecord index="1724">
+@@ -27472,7 +27472,7 @@
+             <BaseRecord index="2143">
+               <BaseAnchor index="0" Format="1">
+                 <XCoordinate value="600"/>
+-                <YCoordinate value="0"/>
++                <YCoordinate value="-20"/>
+               </BaseAnchor>
+             </BaseRecord>
+             <BaseRecord index="2144">

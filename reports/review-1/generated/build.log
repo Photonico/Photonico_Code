@@ -1,0 +1,9 @@
+Copyright (c) 2000-2025. See AUTHORS for Contributors.
+ License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+ with many parts BSD <http://fontforge.org/license.html>. Please read LICENSE.
+ Version: 20251009
+ Based on sources from 2025-10-09 19:03 UTC-ML-D.
+ Based on source from git with hash: c41bdb922285f35defd1e1385adfd13bde1ab32a
+Core python package 'pkg_resources' not found: Cannot discover plugins
+Error saving plugin configuration file '/Users/lu/.config/fontforge/plugin/plugin_config.ini': Failed to create file “/Users/lu/.config/fontforge/plugin/plugin_config.ini.4XT5V3”: Operation not permitted
+built /Users/lu/Repos/Photonico_Code/audit/review-claude/generated/current-built.ttf (Version 1.6_alpha; ttfautohint (v1.8.4))

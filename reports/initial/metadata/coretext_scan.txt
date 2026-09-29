@@ -1,0 +1,2 @@
+Releases/Photonico 1.5 Regular.ttf: name=Photonico Code Regular traits=0 monoSpace=false ascent=12.000045776367188 descent=4.0000152587890625
+audit/generated/Photonico-current.ttf: name=Photonico Code Regular traits=0 monoSpace=false ascent=12.000045776367188 descent=4.0000152587890625

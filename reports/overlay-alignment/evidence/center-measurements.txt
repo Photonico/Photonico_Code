@@ -1,0 +1,8 @@
+font0 x + U+0336: native overlay centre=(601.0,620.0)
+font1 x + U+0336: native overlay centre=(601.0,480.0)
+font0 -- + U+0335: native overlay centre=(1800.0,620.0)
+font1 -- + U+0335: native overlay centre=(1200.0,600.0)
+font0 U+1D53C + U+0336: native overlay centre=(601.0,620.0)
+font1 U+1D53C + U+0336: native overlay centre=(596.0,650.0)
+font0 U+25CC + U+0336: native overlay centre=(601.0,620.0)
+font1 U+25CC + U+0336: native overlay centre=(601.0,600.0)
