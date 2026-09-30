@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1790687984
+ModificationTime: 1790764996
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -56,10 +56,10 @@ OS2SupXOff: 0
 OS2SupYOff: 683
 OS2StrikeYSize: 50
 OS2StrikeYPos: 318
-OS2CapHeight: 1377
-OS2XHeight: 1053
+OS2CapHeight: 1300
+OS2XHeight: 960
 OS2Vendor: 'CTDB'
-OS2CodePages: 6000009b.ddd50000
+OS2CodePages: 6000019b.ddd50000
 OS2UnicodeRanges: e00002ef.1201f9fb.02002038.00000000
 Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > 'zinh' <'dflt' > 'zyyy' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > 'zinh' <'dflt' > 'zyyy' <'dflt' > ) ]
@@ -4451,7 +4451,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 645278 322638 215092 566231 1048576 215092 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-5" "'mark' Overlay Attachment lookup subtable" "Anchor-0" "'mark' Mark Positioning lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 2283 2229
+BeginChars: 2400 2343
 
 StartChar: .notdef
 Encoding: 193 -1 0
@@ -37843,46 +37843,9 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-SplineSet
--1611 1377 m 1
- -1628 454 l 1
- -1779 454 l 1
- -1799 1377 l 1
- -1611 1377 l 1
--511 1377 m 1
- -528 454 l 1
- -679 454 l 1
- -699 1377 l 1
- -511 1377 l 1
-500 245 m 0
- 538.666666667 245 570.833333333 232 596.5 206 c 128
- 622.166666667 180 635 148.666666667 635 112 c 0
- 635 74.6666666667 622.166666667 42.8333333333 596.5 16.5 c 128
- 570.833333333 -9.83333333333 538.666666667 -23 500 -23 c 0
- 462.666666667 -23 431.166666667 -9.83333333333 405.5 16.5 c 128
- 379.833333333 42.8333333333 367 74.6666666667 367 112 c 0
- 367 148.666666667 379.833333333 180 405.5 206 c 128
- 431.166666667 232 462.666666667 245 500 245 c 0
--1702 245 m 0
- -1663.33333333 245 -1631.16666667 232 -1605.5 206 c 128
- -1579.83333333 180 -1567 148.666666667 -1567 112 c 0
- -1567 74.6666666667 -1579.83333333 42.8333333333 -1605.5 16.5 c 128
- -1631.16666667 -9.83333333333 -1663.33333333 -23 -1702 -23 c 0
- -1740 -23 -1771.66666667 -9.83333333333 -1797 16.5 c 128
- -1822.33333333 42.8333333333 -1835 74.6666666667 -1835 112 c 0
- -1835 148.666666667 -1822.33333333 180 -1797 206 c 128
- -1771.66666667 232 -1740 245 -1702 245 c 0
--602 245 m 0
- -563.333333333 245 -531.166666667 232 -505.5 206 c 128
- -479.833333333 180 -467 148.666666667 -467 112 c 0
- -467 74.6666666667 -479.833333333 42.8333333333 -505.5 16.5 c 128
- -531.166666667 -9.83333333333 -563.333333333 -23 -602 -23 c 0
- -640 -23 -671.666666667 -9.83333333333 -697 16.5 c 128
- -722.333333333 42.8333333333 -735 74.6666666667 -735 112 c 0
- -735 148.666666667 -722.333333333 180 -697 206 c 128
- -671.666666667 232 -640 245 -602 245 c 0
-EndSplineSet
-Validated: 524289
+Refer: 821 46 N 1 0 0 1 -398 0 2
+Refer: 836 33 N 1 0 0 1 -1198 0 2
+Refer: 836 33 N 1 0 0 1 -1998 0 2
 EndChar
 
 StartChar: exclam_equal.liga
@@ -40676,8 +40639,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 871 -1 N 1 0 0 -1 0 1377 2
-Validated: 25
+Refer: 871 -1 N 1 0 0 -1 0 1300 2
 EndChar
 
 StartChar: uni204A
@@ -82655,24 +82617,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-SplineSet
-710 1400 m 0
- 710 1322 694.833333333 1251.66666667 664.5 1189 c 128
- 634.166666667 1126.33333333 595 1083 547 1059 c 0
- 541.666666667 1056.33333333 536 1055 530 1055 c 0
- 519.333333333 1055 510 1058.83333333 502 1066.5 c 128
- 494 1074.16666667 490 1083.66666667 490 1095 c 0
- 490 1111.66666667 497.666666667 1123.66666667 513 1131 c 0
- 536.333333333 1142.33333333 557.166666667 1162.16666667 575.5 1190.5 c 128
- 593.833333333 1218.83333333 607.666666667 1252.33333333 617 1291 c 1
- 611.666666667 1290.33333333 606 1290 600 1290 c 0
- 569.333333333 1290 543.333333333 1300.66666667 522 1322 c 128
- 500.666666667 1343.33333333 490 1369.33333333 490 1400 c 128
- 490 1430.66666667 500.666666667 1456.66666667 522 1478 c 128
- 543.333333333 1499.33333333 569.333333333 1510 600 1510 c 128
- 630.666666667 1510 656.666666667 1499.33333333 678 1478 c 128
- 699.333333333 1456.66666667 710 1430.66666667 710 1400 c 0
-EndSplineSet
+Refer: 978 8217 N 1 0 0 1 0 0 3
 Layer: 2
 SplineSet
 710 1400 m 4
@@ -84682,75 +84627,17 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 EndChar
 
-StartChar: brevecy
-Encoding: 1729 -1 1728
-Width: 1200
-GlyphClass: 1
-Flags: HW
-AnchorPoint: "Anchor-5" 600 0 basechar 0
-LayerCount: 6
-Fore
-SplineSet
-600 1280 m 128
- 536.666666667 1280 479.5 1297.83333333 428.5 1333.5 c 128
- 377.5 1369.16666667 341 1415.66666667 319 1473 c 0
- 316.333333333 1480.33333333 315 1487.66666667 315 1495 c 0
- 315 1511.66666667 320.833333333 1525.83333333 332.5 1537.5 c 128
- 344.166666667 1549.16666667 358.333333333 1555 375 1555 c 0
- 401.666666667 1555 420.333333333 1542.33333333 431 1517 c 0
- 444.333333333 1482.33333333 466.333333333 1454.16666667 497 1432.5 c 128
- 527.666666667 1410.83333333 562 1400 600 1400 c 128
- 638 1400 672.333333333 1410.83333333 703 1432.5 c 128
- 733.666666667 1454.16666667 755.666666667 1482.33333333 769 1517 c 0
- 779.666666667 1542.33333333 798.333333333 1555 825 1555 c 0
- 841.666666667 1555 855.833333333 1549.16666667 867.5 1537.5 c 128
- 879.166666667 1525.83333333 885 1511.66666667 885 1495 c 0
- 885 1487.66666667 883.666666667 1480.33333333 881 1473 c 0
- 859 1415.66666667 822.5 1369.16666667 771.5 1333.5 c 128
- 720.5 1297.83333333 663.333333333 1280 600 1280 c 128
-EndSplineSet
-Validated: 524289
-Layer: 4
-SplineSet
-600 1280 m 4
- 472 1280 362 1360 319 1473 c 5
- 316 1481 315 1487 315 1495 c 4
- 315 1528 342 1555 375 1555 c 4
- 400 1555 422 1539 431 1517 c 5
- 457 1449 523 1400 600 1400 c 4
- 677 1400 743 1449 769 1517 c 5
- 778 1539 800 1555 825 1555 c 4
- 858 1555 885 1528 885 1495 c 4
- 885 1487 884 1481 881 1473 c 5
- 838 1360 728 1280 600 1280 c 4
-EndSplineSet
-Substitution2: "'case' Case-Sensitive Forms lookup 16 subtable" brevecy.case
-Substitution2: "'aalt' Access All Alternates lookup 0 subtable" brevecy.case
-EndChar
-
 StartChar: null
-Encoding: 1730 -1 1729
+Encoding: 1730 -1 1728
 Width: 1200
 GlyphClass: 1
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
-EndChar
-
-StartChar: brevecy.case
-Encoding: 1731 -1 1730
-Width: 1200
-GlyphClass: 1
-Flags: HW
-AnchorPoint: "Anchor-5" 600 0 basechar 0
-LayerCount: 6
-Fore
-Refer: 1728 -1 N 1 0 0 1 -2 252 2
-Validated: 1
 EndChar
 
 StartChar: NameMe.0
-Encoding: 0 -1 1731
+Encoding: 0 -1 1729
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -84758,7 +84645,7 @@ LayerCount: 6
 EndChar
 
 StartChar: uni2A00
-Encoding: 1732 10752 1732
+Encoding: 1732 10752 1730
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -84805,7 +84692,7 @@ SplineSet
  553.333333333 430 513.333333333 446.666666667 480 480 c 128
  446.666666667 513.333333333 430 553.333333333 430 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 20 600 m 4
@@ -84840,7 +84727,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2A01
-Encoding: 1733 10753 1733
+Encoding: 1733 10753 1731
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -84903,7 +84790,7 @@ SplineSet
  670 220.666666667 663.166666667 204.166666667 649.5 190.5 c 128
  635.833333333 176.833333333 619.333333333 170 600 170 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 20 600 m 4
@@ -84937,7 +84824,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2A02
-Encoding: 1734 10754 1734
+Encoding: 1734 10754 1732
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85000,7 +84887,7 @@ SplineSet
  389 291 l 2
  375 277 358.666666667 270 340 270 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 20 600 m 4
@@ -85038,7 +84925,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2295
-Encoding: 1735 8853 1735
+Encoding: 1735 8853 1733
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85073,7 +84960,7 @@ SplineSet
  1201 269 932 0 601 0 c 4
  270 0 1 269 1 600 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 170 m 132
@@ -85107,7 +84994,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2296
-Encoding: 1736 8854 1736
+Encoding: 1736 8854 1734
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85159,7 +85046,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2297
-Encoding: 1737 8855 1737
+Encoding: 1737 8855 1735
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85198,7 +85085,7 @@ SplineSet
  1201 269 932 0 601 0 c 4
  270 0 1 269 1 600 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 340 270 m 4
@@ -85236,7 +85123,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2298
-Encoding: 1738 8856 1738
+Encoding: 1738 8856 1736
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85265,7 +85152,7 @@ SplineSet
  1201 269 932 0 601 0 c 4
  270 0 1 269 1 600 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 502 600 m 5
@@ -85293,7 +85180,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2299
-Encoding: 1739 8857 1739
+Encoding: 1739 8857 1737
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85338,7 +85225,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni229A
-Encoding: 1740 8858 1740
+Encoding: 1740 8858 1738
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85390,7 +85277,7 @@ SplineSet
  208 134.166666667 135.166666667 207 81.5 299 c 128
  27.8333333333 391 1 491.333333333 1 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 321 600 m 4
@@ -85417,7 +85304,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni229B
-Encoding: 1741 8859 1741
+Encoding: 1741 8859 1739
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85488,7 +85375,7 @@ SplineSet
  208 134.166666667 135.166666667 207 81.5 299 c 132
  27.8333333333 391 1 491.333333333 1 600 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 550 687 m 5
@@ -85567,7 +85454,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni229D
-Encoding: 1742 8861 1742
+Encoding: 1742 8861 1740
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85639,7 +85526,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2218
-Encoding: 1743 8728 1743
+Encoding: 1743 8728 1741
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85665,7 +85552,7 @@ SplineSet
  511.333333333 280 435.833333333 311.166666667 373.5 373.5 c 128
  311.166666667 435.833333333 280 511.333333333 280 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 420 600 m 4
@@ -85682,7 +85569,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2201
-Encoding: 1744 8705 1744
+Encoding: 1744 8705 1742
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -85721,7 +85608,7 @@ SplineSet
  265.333333333 836.166666667 250 747.333333333 250 650 c 2
  250 440 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 250 440 m 1
@@ -85755,46 +85642,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: uniA656
-Encoding: -1 42582 1745
-Width: 1200
-Flags: HW
-AnchorPoint: "Anchor-1" 636 0 basechar 0
-AnchorPoint: "Anchor-0" 636 1377 basechar 0
-AnchorPoint: "Anchor-5" 600 0 basechar 0
-LayerCount: 6
-Fore
-SplineSet
-826 582 m 1
- 607 582 l 1
- 479 0 l 1
- 315 0 l 1
- 455 582 l 1
- 245 582 l 1
- 245 1 l 1
- 74 1 l 1
- 74 1377 l 1
- 245 1377 l 1
- 245 721 l 1
- 461 721 l 1
- 465 623 l 1
- 466 626 l 1
- 647 1377 l 1
- 867 1377 l 1
- 1199 0 l 1
- 1027 0 l 1
- 899 582 l 1
- 826 582 l 1
-753 1243 m 1
- 638 721 l 1
- 868 721 l 1
- 753 1243 l 1
-EndSplineSet
-Validated: 1048577
-EndChar
-
 StartChar: uni1D538
-Encoding: 1745 120120 1746
+Encoding: 1745 120120 1743
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -85852,7 +85701,7 @@ SplineSet
  397.938476562 580 l 1
  682.061523438 580 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 891 130 m 6
@@ -85895,7 +85744,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1D53B
-Encoding: 1746 120123 1747
+Encoding: 1746 120123 1744
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 595 0 basechar 0
@@ -85952,7 +85801,7 @@ SplineSet
  909 85.3333333333 858.666666667 55 798 33 c 128
  737.333333333 11 668 0 590 0 c 2
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 350 160 m 5
@@ -85989,7 +85838,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1D53C
-Encoding: 1747 120124 1748
+Encoding: 1747 120124 1745
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 595 0 basechar 0
@@ -86057,7 +85906,7 @@ SplineSet
  806.833333333 504.166666667 800 520.666666667 800 540 c 2
  800 610 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 340 160 m 5
@@ -86104,7 +85953,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1D540
-Encoding: 1749 120128 1749
+Encoding: 1749 120128 1746
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -86150,7 +85999,7 @@ SplineSet
  123.333333333 133.333333333 140 140 160 140 c 2
  430 140 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 550 160 m 5
@@ -86181,7 +86030,7 @@ EndSplineSet
 EndChar
 
 StartChar: u1D53E
-Encoding: 1748 120126 1750
+Encoding: 1748 120126 1747
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 588 0 basechar 0
@@ -86244,7 +86093,7 @@ SplineSet
  916.833333333 -5.83333333333 910 10.6666666667 910 30 c 6
  910 93 l 5
 EndSplineSet
-Validated: 1572869
+Validated: 5
 Layer: 2
 SplineSet
 490 1180 m 5
@@ -86327,7 +86176,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1D543
-Encoding: 1750 120131 1751
+Encoding: 1750 120131 1748
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -86377,7 +86226,7 @@ SplineSet
  766.666666667 1167.66666667 750 1161 730 1161 c 2
  550 1160 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 330 160 m 5
@@ -86411,7 +86260,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni276C
-Encoding: 1751 10092 1752
+Encoding: 1751 10092 1749
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86438,7 +86287,7 @@ SplineSet
  617 30 617 30 359 630 c 2
  356.333333333 635.333333333 355 642 355 650 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 355 650 m 4
@@ -86462,7 +86311,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni276D
-Encoding: 1752 10093 1753
+Encoding: 1752 10093 1750
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86489,7 +86338,7 @@ SplineSet
  841 670 l 6
  843.666666667 664.666666667 845 658 845 650 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 845 650 m 4
@@ -86513,7 +86362,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni276E
-Encoding: 1753 10094 1754
+Encoding: 1753 10094 1751
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86540,7 +86389,7 @@ SplineSet
  309 630 l 2
  306.333333333 635.333333333 305 642 305 650 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 305 650 m 4
@@ -86564,7 +86413,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni276F
-Encoding: 1754 10095 1755
+Encoding: 1754 10095 1752
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86591,7 +86440,7 @@ SplineSet
  891 670 l 6
  893.666666667 664.666666667 895 658 895 650 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 895 650 m 4
@@ -86615,7 +86464,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni169B
-Encoding: 1755 5787 1756
+Encoding: 1755 5787 1753
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86681,7 +86530,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2BD1
-Encoding: 1756 11217 1757
+Encoding: 1756 11217 1754
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86761,7 +86610,7 @@ SplineSet
  579.333333333 260 561.666666667 267.333333333 547 282 c 132
  532.333333333 296.666666667 525 314.333333333 525 335 c 132
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 1140 700 m 4
@@ -86819,7 +86668,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2370
-Encoding: 1757 9072 1758
+Encoding: 1757 9072 1755
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -86899,7 +86748,7 @@ SplineSet
  579.333333333 260 561.666666667 267.333333333 547 282 c 128
  532.333333333 296.666666667 525 314.333333333 525 335 c 128
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 130 1290 m 5
@@ -86949,7 +86798,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2117
-Encoding: 1758 8471 1759
+Encoding: 1758 8471 1756
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87016,7 +86865,7 @@ SplineSet
  272.333333333 1228.33333333 211.666666667 1167.66666667 167 1091 c 132
  122.333333333 1014.33333333 100 930.666666667 100 840 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 689 780 m 5
@@ -87056,7 +86905,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2641
-Encoding: 1759 9793 1760
+Encoding: 1759 9793 1757
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87102,7 +86951,7 @@ SplineSet
  522.666666667 660 456.666666667 632.666666667 402 578 c 132
  347.333333333 523.333333333 320 457.333333333 320 380 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 660 1080 m 5
@@ -87160,7 +87009,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2600
-Encoding: 1760 9728 1761
+Encoding: 1760 9728 1758
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87237,7 +87086,7 @@ SplineSet
  962 550 940 572 940 600 c 4
  940 628 962 650 990 650 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 359 289 m 5
@@ -87385,7 +87234,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2308
-Encoding: 1761 8968 1762
+Encoding: 1761 8968 1759
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87410,7 +87259,7 @@ SplineSet
  510.666666667 -250 494.166666667 -243.166666667 480.5 -229.5 c 132
  466.833333333 -215.833333333 460 -199.333333333 460 -180 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 460 -180 m 5
@@ -87428,7 +87277,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2309
-Encoding: 1762 8969 1763
+Encoding: 1762 8969 1760
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87453,7 +87302,7 @@ SplineSet
  733.166666667 1495.83333333 740 1479.33333333 740 1460 c 6
  740 -180 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 740 -180 m 5
@@ -87471,7 +87320,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni230A
-Encoding: 1763 8970 1764
+Encoding: 1763 8970 1761
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87513,7 +87362,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni230B
-Encoding: 1764 8971 1765
+Encoding: 1764 8971 1762
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87538,7 +87387,7 @@ SplineSet
  689.333333333 1550 705.833333333 1543.16666667 719.5 1529.5 c 132
  733.166666667 1515.83333333 740 1499.33333333 740 1480 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 740 1480 m 5
@@ -87556,7 +87405,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2329
-Encoding: 1765 9001 1766
+Encoding: 1765 9001 1763
 Width: 1200
 Flags: HW
 HStem: -20 21G<743.76 772.5> -20 21G<743.76 772.5> 1300 20G<743.76 772.5>
@@ -87579,7 +87428,7 @@ SplineSet
  816 1252.62207031 814.295898438 1245.54394531 811.831054688 1239 c 5
  592 650 l 5xb0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 592 650 m 5
@@ -87615,7 +87464,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni232A
-Encoding: 1766 9002 1767
+Encoding: 1766 9002 1764
 Width: 1200
 Flags: HW
 HStem: -20 21G<427.5 456.24> -20 21G<427.5 456.24> 1300 20G<427.5 456.24>
@@ -87638,7 +87487,7 @@ SplineSet
  384 47.3779296875 385.704101562 54.4560546875 388.168945312 61 c 5
  608 650 l 5xb0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 608 650 m 5
@@ -87658,7 +87507,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni20A3
-Encoding: 1767 8355 1768
+Encoding: 1767 8355 1765
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87769,7 +87618,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni20A4
-Encoding: 1768 8356 1769
+Encoding: 1768 8356 1766
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87812,7 +87661,7 @@ SplineSet
  960 339 991 370 1030 370 c 4
  1069 370 1100 339 1100 300 c 4
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 830 770 m 132
@@ -87854,7 +87703,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni20BF
-Encoding: 1769 8383 1770
+Encoding: 1769 8383 1767
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -87958,7 +87807,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2103
-Encoding: 1770 8451 1771
+Encoding: 1770 8451 1768
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88021,7 +87870,7 @@ SplineSet
  1357.33300781 1169 l 2
  1345.77766927 1131.79188347 1340 1085.79188347 1340 1031 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1340 1031 m 1
@@ -88060,7 +87909,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2109
-Encoding: 1771 8457 1772
+Encoding: 1771 8457 1769
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88176,7 +88025,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni212B
-Encoding: 1772 8491 1773
+Encoding: 1772 8491 1770
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 596 0 basechar 0
@@ -88231,7 +88080,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2107
-Encoding: 1773 8455 1774
+Encoding: 1773 8455 1771
 Width: 1200
 Flags: HW
 HStem: -20 140<432.511 779.855> 580 140<443.765 600 690 754.547> 1080 140<443.36 773.211>
@@ -88269,7 +88118,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2609
-Encoding: 1774 9737 1775
+Encoding: 1774 9737 1772
 Width: 1200
 Flags: HW
 HStem: 0 120<405.105 794.895> 440 320<492.565 707.435> 1080 120<405.105 794.895>
@@ -88317,7 +88166,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni22C6
-Encoding: 1775 8902 1776
+Encoding: 1775 8902 1773
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88356,7 +88205,7 @@ SplineSet
  551.333333333 1166.33333333 556.666666667 1177.5 566 1186.5 c 128
  575.333333333 1195.5 586.666666667 1200 600 1200 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 1200 m 0
@@ -88416,7 +88265,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2210
-Encoding: 1776 8720 1777
+Encoding: 1776 8720 1774
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88463,7 +88312,7 @@ SplineSet
  980 1160 l 5
  980 -70 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 980 -70 m 5
@@ -88527,7 +88376,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25E6
-Encoding: 1777 9702 1778
+Encoding: 1777 9702 1775
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88553,7 +88402,7 @@ SplineSet
  511.333333333 280 435.833333333 311.166666667 373.5 373.5 c 128
  311.166666667 435.833333333 280 511.333333333 280 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 380 600 m 0
@@ -88570,7 +88419,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.cv14
-Encoding: 1778 -1 1779
+Encoding: 1778 -1 1776
 Width: 1200
 Flags: HW
 HStem: -20 140<447.691 752.798> 1160 140<225.453 769>
@@ -88629,7 +88478,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.tosf.cv14
-Encoding: 1779 -1 1780
+Encoding: 1779 -1 1777
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88671,7 +88520,7 @@ SplineSet
  980 914.666666667 975 900.333333333 965 887 c 6
  693 530 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 693 530 m 5
@@ -88699,7 +88548,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.cv14.dnom
-Encoding: 1780 -1 1781
+Encoding: 1780 -1 1778
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88739,7 +88588,7 @@ SplineSet
  840 597 836 586 828 577 c 6
  699 428 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 428 m 5
@@ -88791,7 +88640,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.cv14.numr
-Encoding: 1781 -1 1782
+Encoding: 1781 -1 1779
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88831,7 +88680,7 @@ SplineSet
  840 1333 836 1322 828 1313 c 2
  699 1164 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 1164 m 5
@@ -88859,7 +88708,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.dnom.cv14
-Encoding: 1782 -1 1783
+Encoding: 1782 -1 1780
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88899,7 +88748,7 @@ SplineSet
  840 597 836 586 828 577 c 6
  699 428 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 428 m 5
@@ -88927,7 +88776,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2083.cv14
-Encoding: 1783 -1 1784
+Encoding: 1783 -1 1781
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -88967,7 +88816,7 @@ SplineSet
  840 211 836 200 828 191 c 6
  699 42 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 42 m 5
@@ -88995,7 +88844,7 @@ EndSplineSet
 EndChar
 
 StartChar: three.numr.cv14
-Encoding: 1784 -1 1785
+Encoding: 1784 -1 1782
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89035,7 +88884,7 @@ SplineSet
  840 1333 836 1322 828 1313 c 6
  699 1164 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 1164 m 5
@@ -89063,7 +88912,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni00B3.cv14
-Encoding: 1785 -1 1786
+Encoding: 1785 -1 1783
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89103,7 +88952,7 @@ SplineSet
  840 1227 836 1216 828 1207 c 6
  699 1058 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 699 1058 m 5
@@ -89131,7 +88980,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2605
-Encoding: 1786 9733 1787
+Encoding: 1786 9733 1784
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89201,7 +89050,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2606
-Encoding: 1787 9734 1788
+Encoding: 1787 9734 1785
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89243,7 +89092,7 @@ SplineSet
  562 1212 l 5
  567 1228 582 1240 600 1240 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 1000 m 5
@@ -89310,7 +89159,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni221D
-Encoding: 1788 8733 1789
+Encoding: 1788 8733 1786
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89361,7 +89210,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2213
-Encoding: 1789 8723 1790
+Encoding: 1789 8723 1787
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89405,7 +89254,7 @@ SplineSet
  530 869.333333333 536.833333333 885.833333333 550.5 899.5 c 128
  564.166666667 913.166666667 580.666666667 920 600 920 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1070 1050 m 132
@@ -89463,7 +89312,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni226A
-Encoding: 1790 8810 1791
+Encoding: 1790 8810 1788
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89537,7 +89386,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni226B
-Encoding: 1791 8811 1792
+Encoding: 1791 8811 1789
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89575,7 +89424,7 @@ SplineSet
  -20 364.333333333 -7 385.333333333 19 398 c 6
  423 600 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 993 600 m 5
@@ -89608,7 +89457,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni22D8
-Encoding: 1792 8920 1793
+Encoding: 1792 8920 1790
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89661,7 +89510,7 @@ SplineSet
  412 537 l 2
  386 549.666666667 373 570.666666667 373 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 883 600 m 132
@@ -89713,7 +89562,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni22D9
-Encoding: 1793 8921 1794
+Encoding: 1793 8921 1791
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89766,7 +89615,7 @@ SplineSet
  788 663 l 6
  814 650.333333333 827 629.333333333 827 600 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 317 600 m 132
@@ -89818,7 +89667,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni263F
-Encoding: 1794 9791 1795
+Encoding: 1794 9791 1792
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89882,7 +89731,7 @@ SplineSet
  522.666666667 1020 456.666666667 992.666666667 402 938 c 132
  347.333333333 883.333333333 320 817.333333333 320 740 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 200 740 m 4
@@ -89923,7 +89772,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2643
-Encoding: 1795 9795 1796
+Encoding: 1795 9795 1793
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -89988,7 +89837,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2644
-Encoding: 1796 9796 1797
+Encoding: 1796 9796 1794
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90053,7 +89902,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni26E2
-Encoding: 1797 9954 1798
+Encoding: 1797 9954 1795
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90139,7 +89988,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2645
-Encoding: 1798 9797 1799
+Encoding: 1798 9797 1796
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90209,7 +90058,7 @@ SplineSet
  660 720 l 5
  660 452 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 480 220 m 4
@@ -90291,7 +90140,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2646
-Encoding: 1799 9798 1800
+Encoding: 1799 9798 1797
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90428,7 +90277,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2647
-Encoding: 1800 9799 1801
+Encoding: 1800 9799 1798
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90471,7 +90320,7 @@ SplineSet
  375.833333333 1150.83333333 370 1136.66666667 370 1120 c 6
  370 760 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 3
 SplineSet
 815 0 m 5
@@ -90501,7 +90350,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2220
-Encoding: 1801 8736 1802
+Encoding: 1801 8736 1799
 Width: 1200
 Flags: HW
 HStem: 100 140<370 1064.55>
@@ -90522,7 +90371,7 @@ SplineSet
  1020 887.958007812 1004 874 1000 870 c 6
  370 240 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 370 240 m 5
@@ -90541,7 +90390,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21E1
-Encoding: 1803 8673 1803
+Encoding: 1803 8673 1800
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90592,7 +90441,7 @@ SplineSet
  580.666666667 340 564.166666667 346.833333333 550.5 360.5 c 132
  536.833333333 374.166666667 530 390.666666667 530 410 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 770 m 6
@@ -90630,7 +90479,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21E2
-Encoding: 1804 8674 1804
+Encoding: 1804 8674 1801
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90681,7 +90530,7 @@ SplineSet
  340 619.333333333 346.833333333 635.833333333 360.5 649.5 c 132
  374.166666667 663.166666667 390.666666667 670 410 670 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 770 670 m 6
@@ -90719,7 +90568,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21E3
-Encoding: 1805 8675 1805
+Encoding: 1805 8675 1802
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90770,7 +90619,7 @@ SplineSet
  619.333333333 860 635.833333333 853.166666667 649.5 839.5 c 132
  663.166666667 825.833333333 670 809.333333333 670 790 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 670 430 m 2
@@ -90808,7 +90657,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BA
-Encoding: 1806 8634 1806
+Encoding: 1806 8634 1803
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90855,7 +90704,7 @@ SplineSet
  869 1069 l 5
  969 969 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 969 969 m 5
@@ -90885,7 +90734,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BB
-Encoding: 1807 8635 1807
+Encoding: 1807 8635 1804
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90932,7 +90781,7 @@ SplineSet
  80 668 92.8333333333 734.166666667 118.5 798.5 c 132
  144.166666667 862.833333333 181.666666667 919.666666667 231 969 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 231 969 m 5
@@ -90962,7 +90811,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2607
-Encoding: 1808 9735 1808
+Encoding: 1808 9735 1805
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -90997,7 +90846,7 @@ SplineSet
  900 1100 900 1100 400 600 c 1
  660 340 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 3
 SplineSet
 660 340 m 5
@@ -91025,7 +90874,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2608
-Encoding: 1809 9736 1809
+Encoding: 1809 9736 1806
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91071,7 +90920,7 @@ SplineSet
  6.83333333333 104.166666667 0 120.666666667 0 140 c 6
  0 1130 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 0 1130 m 5
@@ -91106,7 +90955,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BC
-Encoding: 1810 8636 1810
+Encoding: 1810 8636 1807
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91130,7 +90979,7 @@ SplineSet
  1125.83333333 536.833333333 1109.33333333 530 1090 530 c 6
  110 530 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 110 530 m 5
@@ -91164,7 +91013,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BD
-Encoding: 1811 8637 1811
+Encoding: 1811 8637 1808
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91206,7 +91055,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BE
-Encoding: 1812 8638 1812
+Encoding: 1812 8638 1809
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91230,7 +91079,7 @@ SplineSet
  536.833333333 14.1666666667 530 30.6666666667 530 50 c 6
  530 1150 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 1150 m 5
@@ -91249,7 +91098,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21BF
-Encoding: 1813 8639 1813
+Encoding: 1813 8639 1810
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91273,7 +91122,7 @@ SplineSet
  619.333333333 1220 635.833333333 1213.16666667 649.5 1199.5 c 132
  663.166666667 1185.83333333 670 1169.33333333 670 1150 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 670 1150 m 5
@@ -91292,7 +91141,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C0
-Encoding: 1814 8640 1814
+Encoding: 1814 8640 1811
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91334,7 +91183,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C1
-Encoding: 1815 8641 1815
+Encoding: 1815 8641 1812
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91358,7 +91207,7 @@ SplineSet
  74.1666666667 663.166666667 90.6666666667 670 110 670 c 6
  1090 670 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1090 670 m 5
@@ -91377,7 +91226,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C2
-Encoding: 1816 8642 1816
+Encoding: 1816 8642 1813
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91401,7 +91250,7 @@ SplineSet
  580.666666667 -20 564.166666667 -13.1666666667 550.5 0.5 c 132
  536.833333333 14.1666666667 530 30.6666666667 530 50 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 50 m 5
@@ -91420,7 +91269,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C3
-Encoding: 1817 8643 1817
+Encoding: 1817 8643 1814
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91444,7 +91293,7 @@ SplineSet
  663.166666667 1185.83333333 670 1169.33333333 670 1150 c 6
  670 50 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 670 50 m 5
@@ -91463,7 +91312,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21DC
-Encoding: 1818 8668 1818
+Encoding: 1818 8668 1815
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91530,7 +91379,7 @@ SplineSet
  304 534 294.666666667 530 284 530 c 2
  220 530 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 220 530 m 5
@@ -91650,7 +91499,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21DD
-Encoding: 1819 8669 1819
+Encoding: 1819 8669 1816
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91778,7 +91627,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21AD
-Encoding: 1820 8621 1820
+Encoding: 1820 8621 1817
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91855,7 +91704,7 @@ SplineSet
  440 940 433.333333333 923.333333333 420 910 c 6
  180 670 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 3
 SplineSet
 180 670 m 5
@@ -91927,7 +91776,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni219A
-Encoding: 1821 8602 1821
+Encoding: 1821 8602 1818
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -91969,7 +91818,7 @@ SplineSet
  910 897.333333333 908 887.666666667 904 879 c 2
  768 571 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 220 670 m 5
@@ -92004,7 +91853,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni219B
-Encoding: 1822 8603 1822
+Encoding: 1822 8603 1819
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92046,7 +91895,7 @@ SplineSet
  702 897.333333333 700 887.666666667 696 879 c 2
  560 571 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 980 530 m 6
@@ -92081,7 +91930,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21AE
-Encoding: 1823 8622 1823
+Encoding: 1823 8622 1820
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92133,7 +91982,7 @@ SplineSet
  806 897.333333333 804 887.666666667 800 879 c 2
  664 571 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 980 670 m 5
@@ -92178,7 +92027,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni219C
-Encoding: 1824 8604 1824
+Encoding: 1824 8604 1821
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92217,7 +92066,7 @@ SplineSet
  621.333333333 501.333333333 543 469 451 469 c 128
  359 469 280.666666667 501.333333333 216 566 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 216 566 m 5
@@ -92323,7 +92172,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni219D
-Encoding: 1825 8605 1825
+Encoding: 1825 8605 1822
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92362,7 +92211,7 @@ SplineSet
  1060 642 l 5
  984 566 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 984 566 m 5
@@ -92394,7 +92243,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21AB
-Encoding: 1826 8619 1826
+Encoding: 1826 8619 1823
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92444,7 +92293,7 @@ SplineSet
  840 670 l 1
  960 670 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 700 260 m 5
@@ -92483,7 +92332,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21AC
-Encoding: 1827 8620 1827
+Encoding: 1827 8620 1824
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92533,7 +92382,7 @@ SplineSet
  120 756.666666667 131.666666667 728.333333333 155 705 c 132
  178.333333333 681.666666667 206.666666667 670 240 670 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 500 260 m 5
@@ -92572,7 +92421,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C7
-Encoding: 1828 8647 1828
+Encoding: 1828 8647 1825
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92617,7 +92466,7 @@ SplineSet
  333.333333333 686.666666667 340 670 340 650 c 4
  340 630.666666667 333 614 319 600 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 319 600 m 5
@@ -92675,7 +92524,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C8
-Encoding: 1829 8648 1829
+Encoding: 1829 8648 1826
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92720,7 +92569,7 @@ SplineSet
  686.666666667 926.666666667 670 920 650 920 c 0
  630.666666667 920 614 927 600 941 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 941 m 5
@@ -92758,7 +92607,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C9
-Encoding: 1830 8649 1830
+Encoding: 1830 8649 1827
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92803,7 +92652,7 @@ SplineSet
  866.666666667 513.333333333 860 530 860 550 c 4
  860 569.333333333 867 586 881 600 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 881 600 m 5
@@ -92841,7 +92690,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CA
-Encoding: 1831 8650 1831
+Encoding: 1831 8650 1828
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92886,7 +92735,7 @@ SplineSet
  513.333333333 273.333333333 530 280 550 280 c 4
  569.333333333 280 586 273 600 259 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 259 m 5
@@ -92924,7 +92773,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C4
-Encoding: 1832 8644 1832
+Encoding: 1832 8644 1829
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -92974,7 +92823,7 @@ SplineSet
  1153.33333333 846.666666667 1160 830 1160 810 c 128
  1160 790 1153.33333333 773.333333333 1140 760 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 280 460 m 5
@@ -93015,7 +92864,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C6
-Encoding: 1833 8646 1833
+Encoding: 1833 8646 1830
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93057,7 +92906,7 @@ SplineSet
  331 500 313 508 300 520 c 5
  60 760 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 920 460 m 5
@@ -93098,7 +92947,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21C5
-Encoding: 1834 8645 1834
+Encoding: 1834 8645 1831
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93140,7 +92989,7 @@ SplineSet
  847.038085938 -12.9619140625 830 -20 810 -20 c 128
  790 -20 772.974609375 -12.974609375 760 0 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 460 980 m 1
@@ -93181,7 +93030,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21F5
-Encoding: 1835 8693 1835
+Encoding: 1835 8693 1832
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93231,7 +93080,7 @@ SplineSet
  700 271.333333333 693.333333333 254.666666667 680 240 c 6
  440 0 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 740 980 m 5
@@ -93272,7 +93121,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21B9
-Encoding: 1836 8633 1836
+Encoding: 1836 8633 1833
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93344,7 +93193,7 @@ SplineSet
  491.333333333 500 474.666666667 506.666666667 460 520 c 2
  220 760 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1020 630 m 1
@@ -93399,7 +93248,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CB
-Encoding: 1837 8651 1837
+Encoding: 1837 8651 1834
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93439,7 +93288,7 @@ SplineSet
  1125.83333333 676.833333333 1109.33333333 670 1090 670 c 2
  110 670 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1090 530 m 5
@@ -93470,7 +93319,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CC
-Encoding: 1838 8652 1838
+Encoding: 1838 8652 1835
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93510,7 +93359,7 @@ SplineSet
  1160 720.666666667 1153.16666667 704.166666667 1139.5 690.5 c 132
  1125.83333333 676.833333333 1109.33333333 670 1090 670 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 110 530 m 5
@@ -93541,7 +93390,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D0
-Encoding: 1839 8656 1839
+Encoding: 1839 8656 1836
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93578,7 +93427,7 @@ SplineSet
  210 600 l 1
  280 530 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 280 530 m 5
@@ -93608,7 +93457,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D1
-Encoding: 1840 8657 1840
+Encoding: 1840 8657 1837
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93645,7 +93494,7 @@ SplineSet
  600 1050 l 5
  530 980 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 980 m 5
@@ -93675,7 +93524,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D2
-Encoding: 1841 8658 1841
+Encoding: 1841 8658 1838
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93712,7 +93561,7 @@ SplineSet
  74.1666666667 523.166666667 90.6666666667 530 110 530 c 6
  920 530 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 920 530 m 5
@@ -93742,7 +93591,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D3
-Encoding: 1842 8659 1842
+Encoding: 1842 8659 1839
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93779,7 +93628,7 @@ SplineSet
  523.166666667 1185.83333333 530 1169.33333333 530 1150 c 6
  530 220 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 220 m 5
@@ -93809,7 +93658,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D4
-Encoding: 1843 8660 1843
+Encoding: 1843 8660 1840
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93855,7 +93704,7 @@ SplineSet
  1080 670 l 1
  120 670 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 260 810 m 6
@@ -93926,7 +93775,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D5
-Encoding: 1844 8661 1844
+Encoding: 1844 8661 1841
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -93972,7 +93821,7 @@ SplineSet
  670 120 l 5
  670 1080 l 29
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 810 940 m 6
@@ -94043,7 +93892,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D6
-Encoding: 1845 8662 1845
+Encoding: 1845 8662 1842
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94080,7 +93929,7 @@ SplineSet
  280 920 l 5
  280 821 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 280 821 m 5
@@ -94109,7 +93958,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D7
-Encoding: 1846 8663 1846
+Encoding: 1846 8663 1843
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94146,7 +93995,7 @@ SplineSet
  249 140.333333333 256 157 270 171 c 6
  920 821 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 920 821 m 5
@@ -94175,7 +94024,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D8
-Encoding: 1847 8664 1847
+Encoding: 1847 8664 1844
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94212,7 +94061,7 @@ SplineSet
  920 280 l 5
  920 379 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 920 379 m 5
@@ -94241,7 +94090,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21D9
-Encoding: 1848 8665 1848
+Encoding: 1848 8665 1845
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94278,7 +94127,7 @@ SplineSet
  951 1059.66666667 944 1043 930 1029 c 6
  280 379 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 280 379 m 5
@@ -94307,7 +94156,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CD
-Encoding: 1849 8653 1849
+Encoding: 1849 8653 1846
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94357,7 +94206,7 @@ SplineSet
  150 600 l 5
  220 530 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 838 571 m 5
@@ -94398,7 +94247,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CE
-Encoding: 1850 8654 1850
+Encoding: 1850 8654 1847
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94457,7 +94306,7 @@ SplineSet
  1080 670 l 5
  120 670 l 29
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 664 571 m 5
@@ -94509,7 +94358,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21CF
-Encoding: 1851 8655 1851
+Encoding: 1851 8655 1848
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94559,7 +94408,7 @@ SplineSet
  14.1666666667 523.166666667 30.6666666667 530 50 530 c 6
  980 530 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 490 571 m 5
@@ -94600,7 +94449,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21E0
-Encoding: 1802 8672 1852
+Encoding: 1802 8672 1849
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94651,7 +94500,7 @@ SplineSet
  860 580.666666667 853.166666667 564.166666667 839.5 550.5 c 128
  825.833333333 536.833333333 809.333333333 530 790 530 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 430 530 m 6
@@ -94723,7 +94572,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21B7
-Encoding: 1852 8631 1853
+Encoding: 1852 8631 1850
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94764,7 +94613,7 @@ SplineSet
  10.6666666667 530 -5.83333333333 536.833333333 -19.5 550.5 c 128
  -33.1666666667 564.166666667 -40 580.666666667 -40 600 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 -40 600 m 5
@@ -94792,7 +94641,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21B6
-Encoding: 1853 8630 1854
+Encoding: 1853 8630 1851
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94833,7 +94682,7 @@ SplineSet
  1134.66666667 921.333333333 1171.66666667 866 1199 802 c 132
  1226.33333333 738 1240 670.666666667 1240 600 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1240 600 m 5
@@ -94861,7 +94710,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21F4
-Encoding: 1854 8692 1855
+Encoding: 1854 8692 1852
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -94908,7 +94757,7 @@ SplineSet
  825 365 831.666666667 381.666666667 845 395 c 6
  980 530 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 276 600 m 4
@@ -94943,7 +94792,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21F7
-Encoding: 1855 8695 1856
+Encoding: 1855 8695 1853
 Width: 1200
 Flags: HW
 HStem: 530 140<220 690 830 1198.86> 960 20G<750.333 769.667>
@@ -94988,7 +94837,7 @@ SplineSet
  1185.83333333 536.833333333 1169.33333333 530 1150 530 c 2
  830 530 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 830 530 m 5
@@ -95022,7 +94871,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21F8
-Encoding: 1856 8696 1857
+Encoding: 1856 8696 1854
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -95065,7 +94914,7 @@ SplineSet
  376.833333333 254.166666667 370 270.666666667 370 290 c 6
  370 530 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 370 530 m 5
@@ -95099,7 +94948,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21F9
-Encoding: 1857 8697 1858
+Encoding: 1857 8697 1855
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -95152,7 +95001,7 @@ SplineSet
  536.833333333 254.166666667 530 270.666666667 530 290 c 6
  530 530 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 530 m 5
@@ -95196,7 +95045,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2214
-Encoding: 1858 8724 1859
+Encoding: 1858 8724 1856
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -95226,7 +95075,7 @@ SplineSet
  530 850 l 6
  530 889.04296875 560.958984375 920 600 920 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 480 1120 m 4
@@ -95255,7 +95104,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2394
-Encoding: 1859 9108 1860
+Encoding: 1859 9108 1857
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -95330,7 +95179,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2721
-Encoding: 1860 10017 1861
+Encoding: 1860 10017 1858
 Width: 1200
 Flags: HW
 HStem: 240 104<156 332 512 688 868 1044> 856 104<156 332 512 688 868 1044>
@@ -95470,7 +95319,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni273F
-Encoding: 1861 10047 1862
+Encoding: 1861 10047 1859
 Width: 1200
 Flags: HW
 HStem: 99 281<372.432 827.568> 501 420<132.345 321.025 878.975 1067.66> 820 350<473.604 726.396>
@@ -95563,7 +95412,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2315
-Encoding: 1862 8981 1863
+Encoding: 1862 8981 1860
 Width: 1200
 Flags: HW
 HStem: 80 140<426.365 769.88> 980 140<430.12 769.88>
@@ -95595,7 +95444,7 @@ SplineSet
  120 372 80 482 80 600 c 0
  80 887 313 1120 600 1120 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 600 980 m 4
@@ -95624,7 +95473,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2316
-Encoding: 1863 8982 1864
+Encoding: 1863 8982 1861
 Width: 1200
 Flags: HW
 HStem: 0 21G<583.5 616.5> 180 140<455.112 744.888> 540 120<2.70923 540 660 1197.29> 880 140<455.112 744.888>
@@ -95696,7 +95545,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2744
-Encoding: 1864 10052 1865
+Encoding: 1864 10052 1862
 Width: 1200
 Flags: HW
 VStem: 236 100<139.567 391 809 1060.43> 550 100<-55.4331 162 272 514 686 928 1038 1255.43> 864 100<139.567 189 809 1060.43>
@@ -95815,7 +95664,7 @@ SplineSet
  84 953 93 950 100 946 c 1
  550 686 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 306 465 m 1
@@ -96033,7 +95882,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2312
-Encoding: 1865 8978 1866
+Encoding: 1865 8978 1863
 Width: 1200
 Flags: HW
 HStem: 640 120<419.713 780.287>
@@ -96068,7 +95917,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2313
-Encoding: 1866 8979 1867
+Encoding: 1866 8979 1864
 Width: 1200
 Flags: HW
 HStem: 140 120<164 1036> 640 120<417.619 782.381>
@@ -96104,7 +95953,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2314
-Encoding: 1867 8980 1868
+Encoding: 1867 8980 1865
 Width: 1200
 Flags: HW
 HStem: 150 114<513.43 686.57> 640 120<411.697 788.303>
@@ -96140,7 +95989,7 @@ Validated: 1
 EndChar
 
 StartChar: uni237B
-Encoding: 1868 9083 1869
+Encoding: 1868 9083 1866
 Width: 1200
 Flags: HW
 HStem: 950 20G<590.5 619.5 1074 1111>
@@ -96171,7 +96020,7 @@ SplineSet
  1160 381 1129 350 1090 350 c 4
  1070 350 1053 357 1040 370 c 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 10 530 m 132
@@ -96200,7 +96049,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2319
-Encoding: 1869 8985 1870
+Encoding: 1869 8985 1867
 Width: 1200
 Flags: HW
 HStem: 250 140<335.447 1004.55>
@@ -96221,7 +96070,7 @@ SplineSet
  299 690 330 659 330 620 c 5
  330 460 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 330 460 m 5
@@ -96239,7 +96088,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni231C
-Encoding: 1870 8988 1871
+Encoding: 1870 8988 1868
 Width: 1200
 Flags: HW
 HStem: 1390 140<205.453 554.547>
@@ -96278,7 +96127,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni231D
-Encoding: 1871 8989 1872
+Encoding: 1871 8989 1869
 Width: 1200
 Flags: HW
 HStem: 1390 140<645.453 994.547>
@@ -96317,7 +96166,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni231E
-Encoding: 1872 8990 1873
+Encoding: 1872 8990 1870
 Width: 1200
 Flags: HW
 HStem: -230 140<205.453 554.547>
@@ -96356,7 +96205,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni231F
-Encoding: 1873 8991 1874
+Encoding: 1873 8991 1871
 Width: 1200
 Flags: HW
 HStem: -230 140<645.453 710 930 994.547>
@@ -96394,7 +96243,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni221B
-Encoding: 1874 8731 1875
+Encoding: 1874 8731 1872
 Width: 1200
 Flags: HW
 HStem: 0 21G<585 616> 970 100<325.182 554.118> 1270 100<370.567 549.57> 1550 100<330.509 549.595> 1560 140<1085 1414.55>
@@ -96446,7 +96295,7 @@ SplineSet
  31 580 0 611 0 650 c 4
  0 676 14 698 34 710 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 420 1370 m 5
@@ -96495,7 +96344,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni221C
-Encoding: 1875 8732 1876
+Encoding: 1875 8732 1873
 Width: 1200
 Flags: HW
 HStem: 0 21G<585 616> 970 21G<476 504> 1100 100<275 440 540 689.433> 1560 140<1085 1414.55>
@@ -96546,7 +96395,7 @@ SplineSet
  490 1591.25195312 487.852539062 1583.08886719 484.044921875 1576 c 5
  275 1200 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 34 710 m 5
@@ -96594,7 +96443,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2BFE
-Encoding: 1876 11262 1877
+Encoding: 1876 11262 1874
 Width: 1200
 Flags: HW
 HStem: 100 140<135.453 924.547>
@@ -96633,7 +96482,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni221F
-Encoding: 1877 8735 1878
+Encoding: 1877 8735 1875
 Width: 1200
 Flags: HW
 HStem: 100 140<275.453 1064.55>
@@ -96672,7 +96521,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2221
-Encoding: 1878 8737 1879
+Encoding: 1878 8737 1876
 Width: 1200
 Flags: HW
 HStem: 0 21G<744 770> 100 140<370 1064.55>
@@ -96705,7 +96554,7 @@ SplineSet
  1020 887.958007812 1004 874 1000 870 c 2
  370 240 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 807 39 m 1
@@ -96735,7 +96584,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni299B
-Encoding: 1879 10651 1880
+Encoding: 1879 10651 1877
 Width: 1200
 Flags: HW
 HStem: 0 21G<430 456> 100 140<135.453 830>
@@ -96768,7 +96617,7 @@ SplineSet
  130 209 161 240 200 240 c 6
  830 240 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 Layer: 2
 SplineSet
 393 39 m 5
@@ -96798,7 +96647,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni29F5
-Encoding: 1880 10741 1881
+Encoding: 1880 10741 1878
 Width: 1200
 Flags: HW
 HStem: 960 20G<83.5 105>
@@ -96836,7 +96685,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2216
-Encoding: 1881 8726 1882
+Encoding: 1881 8726 1879
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -96873,7 +96722,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2222
-Encoding: 1882 8738 1883
+Encoding: 1882 8738 1880
 Width: 1200
 Flags: HW
 VStem: 720 100<420.085 779.915>
@@ -96958,7 +96807,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni29A0
-Encoding: 1883 10656 1884
+Encoding: 1883 10656 1881
 Width: 1200
 Flags: HW
 VStem: 380 100<420.085 779.915>
@@ -97022,7 +96871,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2223
-Encoding: 1884 8739 1885
+Encoding: 1884 8739 1882
 Width: 1200
 Flags: HW
 HStem: -20 21G<580.5 619.5> -20 21G<580.5 619.5>
@@ -97053,7 +96902,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2224
-Encoding: 1885 8740 1886
+Encoding: 1885 8740 1883
 Width: 1200
 Flags: HW
 HStem: -20 21G<580.5 619.5> -20 21G<580.5 619.5>
@@ -97102,7 +96951,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2225
-Encoding: 1886 8741 1887
+Encoding: 1886 8741 1884
 Width: 1200
 Flags: HW
 HStem: -20 21G<430.5 469.5 730.5 769.5> -20 21G<430.5 469.5 730.5 769.5>
@@ -97147,7 +96996,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2226
-Encoding: 1887 8742 1888
+Encoding: 1887 8742 1885
 Width: 1200
 Flags: HW
 HStem: -20 21G<430.5 469.5 730.5 769.5> -20 21G<430.5 469.5 730.5 769.5>
@@ -97210,7 +97059,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni222C
-Encoding: 1888 8748 1889
+Encoding: 1888 8748 1886
 Width: 1200
 Flags: HW
 HStem: -370 140<84.56 270.102 544.56 730.102> 1530 140<469.898 655.44 929.898 1115.44>
@@ -97303,7 +97152,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni222D
-Encoding: 1889 8749 1890
+Encoding: 1889 8749 1887
 Width: 1200
 Flags: HW
 HStem: -370 140<-145.44 40.1023 314.56 500.102 774.56 960.102> 1530 140<239.898 425.44 699.898 885.44 1159.9 1345.44>
@@ -97495,7 +97344,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni222E
-Encoding: 1890 8750 1891
+Encoding: 1890 8750 1888
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 330 100<474.096 725.904> 870 100<474.096 725.904> 1530 140<699.898 885.44>
@@ -97571,7 +97420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni222F
-Encoding: 1891 8751 1892
+Encoding: 1891 8751 1889
 Width: 1200
 Flags: HW
 HStem: -370 140<84.56 270.102 544.56 730.102> 330 100<245.328 954.672> 870 100<245.328 954.672> 1530 140<469.898 655.44 929.898 1115.44>
@@ -97692,7 +97541,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2230
-Encoding: 1892 8752 1893
+Encoding: 1892 8752 1890
 Width: 1200
 Flags: HW
 HStem: -370 140<-145.44 40.1023 314.56 500.102 774.56 960.102> 330 100<15.3281 1184.67> 870 100<15.3281 1184.67> 1530 140<239.898 425.44 699.898 885.44 1159.9 1345.44>
@@ -97851,7 +97700,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2231
-Encoding: 1893 8753 1894
+Encoding: 1893 8753 1891
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 910 100<459.74 740.26> 1530 140<699.898 885.44>
@@ -97992,7 +97841,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2232
-Encoding: 1894 8754 1895
+Encoding: 1894 8754 1892
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 290 100<459.74 741.748> 910 100<459.74 740.26> 1530 140<699.898 885.44>
@@ -98090,7 +97939,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2233
-Encoding: 1895 8755 1896
+Encoding: 1895 8755 1893
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 290 100<459.74 740.26> 910 100<459.74 741.748> 1530 140<699.898 885.44>
@@ -98188,7 +98037,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2238
-Encoding: 1896 8760 1897
+Encoding: 1896 8760 1894
 Width: 1200
 Flags: HW
 HStem: 530 140<135.453 200 1000 1064.55> 820 240<509.355 690.645>
@@ -98232,7 +98081,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2239
-Encoding: 1897 8761 1898
+Encoding: 1897 8761 1895
 Width: 1200
 Flags: HW
 HStem: 185 240<809.355 990.645> 530 140<135.453 200 670 734.547> 775 240<809.355 990.645>
@@ -98283,7 +98132,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223A
-Encoding: 1898 8762 1899
+Encoding: 1898 8762 1896
 Width: 1200
 Flags: HW
 HStem: 140 240<164.355 345.645 854.355 1035.65> 530 140<135.453 200 1000 1064.55> 820 240<164.355 345.645 854.355 1035.65>
@@ -98358,7 +98207,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223B
-Encoding: 1899 8763 1900
+Encoding: 1899 8763 1897
 Width: 1200
 Flags: HW
 HStem: 140 240<509.355 690.645> 460 140<674.796 928.324> 600 140<271.676 525.204> 820 240<509.355 690.645>
@@ -98391,7 +98240,7 @@ SplineSet
  1110 614.782226562 1101.45800781 597.713867188 1088 585 c 5
  1014.43457031 515.803710938 886.462890625 460 790 460 c 4xd8
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 480 260 m 4
@@ -98421,7 +98270,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223C
-Encoding: 1900 8764 1901
+Encoding: 1900 8764 1898
 Width: 1200
 Flags: HW
 HStem: 460 140<674.796 928.324> 600 140<271.676 525.204>
@@ -98443,7 +98292,7 @@ SplineSet
  1110 614.782226562 1101.45800781 597.713867188 1088 585 c 5
  1014.43457031 515.803710938 886.462890625 460 790 460 c 4x80
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 790 460 m 4
@@ -98463,7 +98312,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223D
-Encoding: 1901 8765 1902
+Encoding: 1901 8765 1899
 Width: 1200
 Flags: HW
 HStem: 460 140<271.676 525.204> 600 140<674.796 928.324>
@@ -98485,7 +98334,7 @@ SplineSet
  944.4453125 559.916015625 847.860351562 600 790 600 c 4x40
  680 600 598 460 410 460 c 4x80
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 410 460 m 4
@@ -98505,7 +98354,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223E
-Encoding: 1902 8766 1903
+Encoding: 1902 8766 1900
 Width: 1200
 Flags: HW
 HStem: 320 140<223.582 384.547 774.574 977.646> 740 140<222.354 425.426 815.453 976.418>
@@ -98552,7 +98401,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni223F
-Encoding: 1903 8767 1904
+Encoding: 1903 8767 1901
 Width: 1200
 Flags: HW
 HStem: 180 140<770.188 911.054> 880 140<288.946 429.812>
@@ -98595,7 +98444,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2240
-Encoding: 1904 8768 1905
+Encoding: 1904 8768 1902
 Width: 1200
 Flags: HW
 VStem: 460 140<271.676 525.204> 600 140<674.796 928.324>
@@ -98617,7 +98466,7 @@ SplineSet
  585.217773438 1110 602.286132812 1101.45800781 615 1088 c 5
  684.196289062 1014.43457031 740 886.462890625 740 790 c 4x40
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 740 790 m 4
@@ -98637,7 +98486,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni224C
-Encoding: 1905 8780 1906
+Encoding: 1905 8780 1903
 Width: 1200
 Flags: HW
 HStem: 220 140<135.447 1064.55> 530 140<136.447 1065.55> 780 140<277.698 540.708> 900 140<659.292 922.302>
@@ -98673,7 +98522,7 @@ SplineSet
  904.4453125 879.916015625 827.860351562 900 770 900 c 4xd0
  660 900 618 780 430 780 c 4xe0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 131 600 m 132
@@ -98707,7 +98556,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2031
-Encoding: 1906 8241 1907
+Encoding: 1906 8241 1904
 Width: 1200
 Flags: HW
 HStem: -160 100<230.396 369.604> 40 100<650.396 789.604> 220 100<230.396 369.604> 240 100<1070.4 1209.6> 420 100<650.396 789.604> 620 100<1070.4 1209.6> 780 100<230.396 369.604> 960 20G<1095 1116.5> 1160 100<230.396 369.604>
@@ -98826,7 +98675,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni203B
-Encoding: 1907 8251 1908
+Encoding: 1907 8251 1905
 Width: 1200
 Flags: HW
 HStem: 20 240<509.355 690.645> 480 240<49.3547 230.645 969.355 1150.65> 940 240<509.355 690.645>
@@ -98878,7 +98727,7 @@ SplineSet
  309 211 l 2
  295 197 278.666992188 190 260 190 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 260 600 m 4
@@ -98928,7 +98777,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2160
-Encoding: 1908 8544 1909
+Encoding: 1908 8544 1906
 Width: 1200
 Flags: HW
 HStem: 0 140<145.312 530 670 1054.69> 1060 140<145.312 530 670 1054.69>
@@ -98955,7 +98804,7 @@ SplineSet
  140 110.333007812 170 140 210 140 c 6
  530 140 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 530 140 m 5
@@ -98979,7 +98828,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2161
-Encoding: 1909 8545 1910
+Encoding: 1909 8545 1907
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -99009,7 +98858,7 @@ SplineSet
  810 1060 l 5
  810 140 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 670 140 m 5
@@ -99038,7 +98887,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2162
-Encoding: 1910 8546 1911
+Encoding: 1910 8546 1908
 Width: 1200
 Flags: HW
 HStem: 0 140<65.3412 250 390 530 670 810 950 1134.66> 1060 140<65.3412 250 390 530 670 810 950 1134.66>
@@ -99076,7 +98925,7 @@ SplineSet
  1109.79589844 140 1140 110.333007812 1140 70 c 4
  1140 29.6650390625 1110 0 1070 0 c 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 810 140 m 5
@@ -99110,7 +98959,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2163
-Encoding: 1911 8547 1912
+Encoding: 1911 8547 1909
 Width: 1200
 Flags: HW
 HStem: -20 21G<678 782> -20 21G<678 782> 0 140<-34.6875 120 260 414.688> 1060 140<-34.6875 120 260 352 497 684.547 775.453 963 1108 1274.55>
@@ -99153,7 +99002,7 @@ SplineSet
  -10 1060 -40 1089.66503906 -40 1130 c 4
  -40 1170.33300781 -10.3349609375 1200 30 1200 c 5x38
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 30 1200 m 1
@@ -99193,7 +99042,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2164
-Encoding: 1912 8548 1913
+Encoding: 1912 8548 1910
 Width: 1200
 Flags: HW
 HStem: -20 21G<548 652> -20 21G<548 652> 1060 140<55.4531 222 367 554.547 645.453 833 978 1144.55>
@@ -99255,7 +99104,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2165
-Encoding: 1913 8549 1914
+Encoding: 1913 8549 1911
 Width: 1200
 Flags: HW
 HStem: -20 21G<418 522> -20 21G<418 522> 0 140<785.312 940 1080 1234.69> 1060 140<-74.5469 92 237 424.547 515.453 703 848 940 1080 1234.69>
@@ -99298,7 +99147,7 @@ SplineSet
  510 1169 541 1200 580 1200 c 1
  1170 1200 l 1x98
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1170 1200 m 5
@@ -99338,7 +99187,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2166
-Encoding: 1914 8550 1915
+Encoding: 1914 8550 1912
 Width: 1200
 Flags: HW
 HStem: -20 21G<258 362> -20 21G<258 362> 0 140<625.312 780 920 1060 1200 1354.69> 1060 140<-234.547 -68 77 264.547 355.453 543 688 780 920 1060 1200 1354.69>
@@ -99386,7 +99235,7 @@ SplineSet
  920 140 l 1
  1060 140 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1290 0 m 5
@@ -99431,7 +99280,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2167
-Encoding: 1915 8551 1916
+Encoding: 1915 8551 1913
 Width: 1200
 Flags: HW
 HStem: -20 21G<118 222> -20 21G<118 222> 0 140<485.312 640 780 920 1060 1200 1340 1494.69> 1060 140<-374.547 -208 -63 124.547 215.453 403 548 640 780 920 1060 1200 1340 1494.69>
@@ -99485,7 +99334,7 @@ SplineSet
  1200 1060 l 5
  1060 1060 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1430 0 m 5
@@ -99535,7 +99384,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2168
-Encoding: 1916 8552 1917
+Encoding: 1916 8552 1914
 Width: 1200
 Flags: HW
 HStem: 0 140<-34.6875 120 260 322 488 629.547 796.453 938 1104 1245.55> 1060 140<-34.6875 120 260 352 518 659.547 766.453 908 1074 1215.55>
@@ -99587,7 +99436,7 @@ SplineSet
  604 140 635 109 635 70 c 3
  635 31 604 0 565 0 c 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 322 140 m 6
@@ -99636,7 +99485,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2169
-Encoding: 1917 8553 1918
+Encoding: 1917 8553 1915
 Width: 1200
 Flags: HW
 HStem: 0 140<67.4531 209 375 516.547 683.453 825 991 1132.55> 1060 140<97.4531 239 405 546.547 653.453 795 961 1102.55>
@@ -99726,7 +99575,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni216A
-Encoding: 1918 8554 1919
+Encoding: 1918 8554 1916
 Width: 1200
 Flags: HW
 HStem: 0 140<-45.5469 96 262 403.547 570.453 712 878 940 1080 1234.69> 1060 140<-15.5469 126 292 433.547 540.453 682 848 940 1080 1234.69>
@@ -99778,7 +99627,7 @@ SplineSet
  1240 29.6650390625 1210 0 1170 0 c 6
  635 0 l 6
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 878 140 m 6
@@ -99827,7 +99676,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni216B
-Encoding: 1919 8555 1920
+Encoding: 1919 8555 1917
 Width: 1200
 Flags: HW
 HStem: 0 140<-205.547 -64 102 243.547 410.453 552 718 780 920 1060 1200 1354.69> 1060 140<-175.547 -34 132 273.547 380.453 522 688 780 920 1060 1200 1354.69>
@@ -99884,11 +99733,11 @@ SplineSet
  410 624 l 1
  718 140 l 2
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni216C
-Encoding: 1920 8556 1921
+Encoding: 1920 8556 1918
 Width: 1200
 Flags: HW
 HStem: 0 340<955.453 1084.08> 0 140<95.2664 340 480 950> 1060 140<95.3125 340 480 814.025>
@@ -99918,11 +99767,11 @@ SplineSet
  820 1090.66503906 790 1061 750 1061 c 2
  480 1060 l 1x78
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni216D
-Encoding: 1921 8557 1922
+Encoding: 1921 8557 1919
 Width: 1200
 Flags: HW
 HStem: -20 140<457.303 768.194> 1080 140<457.303 769.85>
@@ -99954,7 +99803,7 @@ SplineSet
  1057.33300781 1069 l 5
  1045.06347656 1029.4921875 1040 987 1040 931 c 5xf0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1040 931 m 5
@@ -99983,7 +99832,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni216E
-Encoding: 1922 8558 1923
+Encoding: 1922 8558 1920
 Width: 1200
 Flags: HW
 HStem: 0 140<110.453 355 495 792.075> 1060 140<110.453 355 495 792.075>
@@ -100011,11 +99860,11 @@ SplineSet
  994 1200 1125 962.627929688 1125 600 c 4
  1125 237.372070312 994 0 595 0 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni216F
-Encoding: 1923 8559 1924
+Encoding: 1923 8559 1921
 Width: 1200
 Flags: HW
 HStem: 0 140<5.2667 160 300 454.734 745.266 900 1040 1194.73> 1060 140<5.26636 160 1040 1194.73>
@@ -100060,7 +99909,7 @@ SplineSet
  900 948 l 5
  665 384 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 665 384 m 5
@@ -100102,7 +99951,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2170
-Encoding: 1924 8560 1925
+Encoding: 1924 8560 1922
 Width: 1200
 Flags: HW
 HStem: 0 140<145.312 210 990 1054.69> 720 140<145.312 210> 1050 240<509.355 690.645>
@@ -100158,7 +100007,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2171
-Encoding: 1925 8561 1926
+Encoding: 1925 8561 1923
 Width: 1200
 Flags: HW
 HStem: 0 140<145.315 210 990 1054.69> 720 140<145.315 210> 1050 240<369.355 550.645 649.355 830.645>
@@ -100236,7 +100085,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2172
-Encoding: 1926 8562 1927
+Encoding: 1926 8562 1924
 Width: 1200
 Flags: HW
 HStem: 0 140<5.3147 250 390 530 670 810 950 1194.69> 720 140<5.3147 250 390 530 670 810> 1050 240<229.355 410.645 509.355 690.645 789.355 970.645>
@@ -100287,7 +100136,7 @@ SplineSet
  440 1104 386 1050 320 1050 c 4
  254 1050 200 1104 200 1170 c 4xf0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 480 1170 m 4
@@ -100335,7 +100184,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2173
-Encoding: 1927 8563 1928
+Encoding: 1927 8563 1925
 Width: 1200
 Flags: HW
 HStem: 0 140<5.3147 70 570 634.688> 720 140<5.3147 70 710 774.547 851.453 916 1256 1320.55> 1050 240<229.355 410.645>
@@ -100427,7 +100276,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2174
-Encoding: 1928 8564 1929
+Encoding: 1928 8564 1926
 Width: 1200
 Flags: HW
 HStem: 720 140<92.4531 157 497 561.547 638.453 703 1043 1107.55>
@@ -100486,7 +100335,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2175
-Encoding: 1929 8565 1930
+Encoding: 1929 8565 1927
 Width: 1200
 Flags: HW
 HStem: -20 21G<351.917 422.083> -20 21G<351.917 422.083> 0 140<565.312 810 950 1194.69> 720 140<-120.547 40 189 348.547 425.453 585 734 810> 1050 240<789.355 970.645>
@@ -100531,7 +100380,7 @@ SplineSet
  760 1236 814 1290 880 1290 c 4
  946 1290 1000 1236 1000 1170 c 4x1c
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 950 140 m 5
@@ -100573,7 +100422,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2176
-Encoding: 1930 8566 1931
+Encoding: 1930 8566 1928
 Width: 1200
 Flags: HW
 HStem: -19 21G<321.917 392.083> -19 21G<321.917 392.083> 1 140<625.312 780 920 1060 1200 1354.69> 721 140<-150.547 10 159 318.547 395.453 555 704 780 920 1060> 1051 240<759.355 940.645 1039.35 1220.65>
@@ -100628,11 +100477,11 @@ SplineSet
  730 1237 784 1291 850 1291 c 0
  916 1291 970 1237 970 1171 c 0x1c
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2177
-Encoding: 1931 8567 1932
+Encoding: 1931 8567 1929
 Width: 1200
 Flags: HW
 HStem: -19 21G<181.917 252.083> -19 21G<181.917 252.083> 1 140<485.312 640 780 920 1060 1200 1340 1494.69> 721 140<-290.547 -130 19 178.547 255.453 415 564 640 780 920 1060 1200> 1051 240<619.355 800.645 899.355 1080.65 1179.35 1360.65>
@@ -100697,7 +100546,7 @@ SplineSet
  590 1237 644 1291 710 1291 c 4
  776 1291 830 1237 830 1171 c 4x1c
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1150 1171 m 4
@@ -100759,7 +100608,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2178
-Encoding: 1932 8568 1933
+Encoding: 1932 8568 1930
 Width: 1200
 Flags: HW
 HStem: 0 140<-34.6875 210 350 406 578 697.547 801.453 920 1092 1250.55> 720 140<-34.6875 210 350 426 598 716.547 781.453 900 1072 1230.55> 1050 240<189.355 370.645>
@@ -100820,7 +100669,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2179
-Encoding: 1933 8569 1934
+Encoding: 1933 8569 1931
 Width: 1200
 Flags: HW
 HStem: 0 140<98.4531 257 429 547.547 651.453 771 943 1101.55> 720 140<118.453 277 449 567.547 631.453 751 923 1081.55>
@@ -100910,7 +100759,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni217A
-Encoding: 1934 8570 1935
+Encoding: 1934 8570 1932
 Width: 1200
 Flags: HW
 HStem: 0 140<-50.5469 108 280 398.547 502.453 622 794 850 990 1234.69> 720 140<-30.5469 128 300 418.547 482.453 602 774 850> 1050 240<829.355 1010.65>
@@ -100965,7 +100814,7 @@ SplineSet
  800 1236 854 1290 920 1290 c 0
  986 1290 1040 1236 1040 1170 c 0xf0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1170 0 m 5
@@ -101017,7 +100866,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni217B
-Encoding: 1935 8571 1936
+Encoding: 1935 8571 1933
 Width: 1200
 Flags: HW
 HStem: 0 140<-120.547 38 210 328.547 432.453 552 724 780 920 1060 1200 1354.02> 720 140<-100.547 58 230 348.547 412.453 532 704 780 920 1060> 1050 240<759.355 940.645 1039.35 1220.65>
@@ -101082,7 +100931,7 @@ SplineSet
  730 1236 784 1290 850 1290 c 4
  916 1290 970 1236 970 1170 c 4xf0
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1010 1171 m 4
@@ -101144,7 +100993,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni217C
-Encoding: 1936 8572 1937
+Encoding: 1936 8572 1934
 Width: 1200
 Flags: HW
 HStem: 0 140<225.312 550 690 1014.69> 1200 140<255.312 550>
@@ -101169,11 +101018,11 @@ SplineSet
  620 1340 l 5
  660.333007812 1340 690 1310.33496094 690 1270 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni217D
-Encoding: 1937 8573 1938
+Encoding: 1937 8573 1935
 Width: 1200
 Flags: HW
 HStem: -20 141<409.569 773.763> 469 389<885.845 1013.16> 739 141<409.569 764.446>
@@ -101227,7 +101076,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni217E
-Encoding: 1938 8574 1939
+Encoding: 1938 8574 1936
 Width: 1200
 Flags: HW
 HStem: -20 140<384.52 655.096> 0 140<930 1084.55> 740 140<384.52 655.096> 1200 140<635.453 790>
@@ -101261,7 +101110,7 @@ SplineSet
  264 231 375 120 519 120 c 7xb8
  634.017578125 120 746 211 794 330 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 930 1270 m 5
@@ -101293,7 +101142,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni217F
-Encoding: 1939 8575 1940
+Encoding: 1939 8575 1937
 Width: 1200
 Flags: HW
 HStem: 0 140<25.4531 90 370 434.547 740 804.547 1110 1174.55> 720 140<25.4531 90> 741 140<391.337 513.903 762.232 882.864>
@@ -101387,7 +101236,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2189
-Encoding: 1940 8585 1941
+Encoding: 1940 8585 1938
 Width: 1200
 Flags: HW
 HStem: -60 100<835.182 1064.12> 240 100<880.567 1059.57> 520 100<840.509 1059.6> 730 100<139.123 360.877> 960 20G<1095 1116.5> 1000 140<185.453 314.547> 1310 100<139.123 360.877>
@@ -101446,7 +101295,7 @@ SplineSet
  1160 897 1147 877 1128 867 c 1
  628 597 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 50 1070 m 4
@@ -101502,7 +101351,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2150
-Encoding: 1941 8528 1942
+Encoding: 1941 8528 1939
 Width: 1200
 Flags: HW
 HStem: 510 100<766.739 1105> 740 100<0.566895 200 300 499.433> 960 20G<1095 1116.5> 1170 100<0.566895 180.42>
@@ -101556,7 +101405,7 @@ SplineSet
  1160 897 1147 877 1128 867 c 1
  628 597 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 701.354492188 558 m 1
@@ -101607,7 +101456,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2151
-Encoding: 1942 8529 1943
+Encoding: 1942 8529 1940
 Width: 1200
 Flags: HW
 HStem: -60 100<785.567 979.062> 220 100<835.882 1076.5> 520 100<835.882 1058.62> 740 100<0.566895 200 300 499.433> 960 20G<1095 1116.5> 1170 100<0.566895 180.42>
@@ -101658,7 +101507,7 @@ SplineSet
  810 365 873 320 950 320 c 4
  1027 320 1090 347.990234375 1090 400 c 7
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 200 1207 m 5
@@ -101706,7 +101555,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2152
-Encoding: 1943 8530 1944
+Encoding: 1943 8530 1941
 Width: 1200
 Flags: HW
 HStem: -100 100<410.567 610 710 849.433 1005.3 1234.7> 160 140<1055.45 1184.55> 330 100<410.567 590.42> 470 100<1016.94 1223.06> 740 100<0.566895 200 300 499.433> 960 20G<1095 1116.5> 1170 100<0.566895 180.42>
@@ -101839,7 +101688,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2023
-Encoding: 1944 8227 1945
+Encoding: 1944 8227 1942
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -101882,7 +101731,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25D8
-Encoding: 1945 9688 1946
+Encoding: 1945 9688 1943
 Width: 1200
 Flags: HW
 HStem: 0 280<440.598 759.402> 920 280<440.598 759.402>
@@ -101927,7 +101776,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni203C
-Encoding: 1946 8252 1947
+Encoding: 1946 8252 1944
 Width: 1200
 Flags: HW
 HStem: -20 250<307.689 492.311 707.689 892.311> 1300 20G<367.759 432.241 767.759 832.241>
@@ -101965,11 +101814,11 @@ SplineSet
  469.94921875 228.655273438 523.655273438 174.943359375 525 105 c 4
  523.655273438 35.05078125 469.943359375 -18.6552734375 400 -20 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2047
-Encoding: 1949 8263 1948
+Encoding: 1949 8263 1945
 Width: 1200
 Flags: HW
 HStem: -20 250<237.485 422.515 777.485 962.515> 1180 140<209.862 452.633 747.367 990.138>
@@ -102019,7 +101868,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2048
-Encoding: 1948 8264 1949
+Encoding: 1948 8264 1946
 Width: 1200
 Flags: HW
 HStem: -20 250<257.485 442.515 792.689 977.311> 1180 140<229.67 470.325>
@@ -102064,7 +101913,7 @@ SplineSet
  475 36 419 -20 350 -20 c 4
  281 -20 225 36 225 105 c 4xca
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 885 1320 m 132
@@ -102106,7 +101955,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2049
-Encoding: 1947 8265 1950
+Encoding: 1947 8265 1947
 Width: 1200
 Flags: HW
 HStem: -20 250<222.485 407.515 757.689 942.311> 1180 140<729.67 970.325>
@@ -102151,7 +102000,7 @@ SplineSet
  440 36 384 -20 315 -20 c 4
  246 -20 190 36 190 105 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 315 1320 m 132
@@ -102193,7 +102042,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni204E
-Encoding: 1950 8270 1951
+Encoding: 1950 8270 1948
 Width: 1200
 Flags: HW
 HStem: 55 131<231.537 261 939 968.463> 414 131<231.537 261 939 968.463>
@@ -102268,7 +102117,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2051
-Encoding: 1951 8273 1952
+Encoding: 1951 8273 1949
 Width: 1200
 Flags: HW
 HStem: -145 131<231.537 261 939 968.463> 214 131<231.537 261 939 968.463> 795 131<231.537 261 939 968.463> 1154 131<231.537 261 939 968.463>
@@ -102340,7 +102189,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2042
-Encoding: 1952 8258 1953
+Encoding: 1952 8258 1950
 Width: 1200
 Flags: HW
 HStem: 55 131<-168.463 -139 539 568.463 631.537 661 1339 1368.46> 414 131<-168.463 -139 539 568.463 631.537 661 1339 1368.46> 735 131<231.537 261 939 968.463> 1094 131<231.537 261 939 968.463>
@@ -102442,7 +102291,7 @@ Validated: 1
 EndChar
 
 StartChar: uni204C
-Encoding: 1953 8268 1954
+Encoding: 1953 8268 1951
 Width: 1200
 Flags: HW
 HStem: 340 140<440 620 760 884.547> 720 140<440 620 760 884.547>
@@ -102479,7 +102328,7 @@ Validated: 1
 EndChar
 
 StartChar: uni204D
-Encoding: 1954 8269 1955
+Encoding: 1954 8269 1952
 Width: 1200
 Flags: HW
 HStem: 340 140<315.453 440 580 760> 720 140<315.453 440 580 760>
@@ -102542,7 +102391,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni205A
-Encoding: 1955 8282 1956
+Encoding: 1955 8282 1953
 Width: 1200
 Flags: HW
 HStem: 30 240<509.355 690.645> 920 240<509.355 690.645>
@@ -102566,7 +102415,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2056
-Encoding: 1956 8278 1957
+Encoding: 1956 8278 1954
 Width: 1200
 Flags: HW
 HStem: 30 240<629.355 810.645> 480 240<199.355 380.645> 920 240<629.355 810.645>
@@ -102595,7 +102444,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2058
-Encoding: 1957 8280 1958
+Encoding: 1957 8280 1955
 Width: 1200
 Flags: HW
 HStem: 30 240<509.355 690.645> 480 240<79.3547 260.645 941.27 1118.73> 920 240<509.355 690.645>
@@ -102630,7 +102479,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2059
-Encoding: 1958 8281 1959
+Encoding: 1958 8281 1956
 Width: 1200
 Flags: HW
 HStem: 30 240<149.355 330.645 869.355 1050.65> 480 240<509.355 690.645> 930 240<149.355 330.645 869.355 1050.65>
@@ -102670,7 +102519,7 @@ Validated: 1
 EndChar
 
 StartChar: uni205B
-Encoding: 1959 8283 1960
+Encoding: 1959 8283 1957
 Width: 1200
 Flags: HW
 HStem: -20 240<509.355 690.645> 480 240<149.355 330.645 869.355 1050.65> 980 240<509.355 690.645>
@@ -102705,7 +102554,7 @@ Validated: 1
 EndChar
 
 StartChar: uni205C
-Encoding: 1960 8284 1961
+Encoding: 1960 8284 1958
 Width: 1200
 Flags: HW
 HStem: 100 240<149.355 330.645 869.355 1050.65> 530 140<15.4474 530 670 1184.55> 860 240<149.355 330.645 869.355 1050.65>
@@ -102753,11 +102602,11 @@ SplineSet
  360 154 306 100 240 100 c 0
  174 100 120 154 120 220 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni205D
-Encoding: 1961 8285 1962
+Encoding: 1961 8285 1959
 Width: 1200
 Flags: HW
 HStem: -20 240<509.355 690.645> 480 240<509.355 690.645> 980 240<509.355 690.645>
@@ -102787,7 +102636,7 @@ Validated: 1
 EndChar
 
 StartChar: uni205E
-Encoding: 1962 8286 1963
+Encoding: 1962 8286 1960
 Width: 1200
 Flags: HW
 HStem: -30 240<509.355 690.645> 310 240<509.355 690.645> 650 240<509.355 690.645> 990 240<509.355 690.645>
@@ -102821,7 +102670,7 @@ Validated: 1
 EndChar
 
 StartChar: uni20A7
-Encoding: 1963 8359 1964
+Encoding: 1963 8359 1961
 Width: 1200
 Flags: HW
 HStem: 0 140<115.453 270 410 654.688> 490 140<410 758.624> 825 140<85.3126 1154.69> 1160 140<115.453 270 410 758.624>
@@ -102861,11 +102710,11 @@ SplineSet
  410 630 l 1
  635 630 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2045
-Encoding: 1964 8261 1965
+Encoding: 1964 8261 1962
 Width: 1200
 Flags: HW
 HStem: -230 140<605.453 934.547> 580 140<605.453 834.547> 1390 140<605.453 934.547>
@@ -102905,7 +102754,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2046
-Encoding: 1965 8262 1966
+Encoding: 1965 8262 1963
 Width: 1200
 Flags: HW
 HStem: -230 140<265.453 594.547> 580 140<365.453 594.547> 1390 140<265.453 594.547>
@@ -102973,7 +102822,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni204B
-Encoding: 1966 8267 1967
+Encoding: 1966 8267 1964
 Width: 1200
 Flags: HW
 HStem: -440 140<55.3125 210 350 530 670 824.688> 500 140<670 847.568> 1160 140<55.3125 210 350 530 670 847.568>
@@ -103012,11 +102861,11 @@ SplineSet
  530 -300 l 1
  530 1160 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni204F
-Encoding: 1967 8271 1968
+Encoding: 1967 8271 1965
 Width: 1200
 Flags: HW
 HStem: -20 340<578.326 711.298> 680 340<488.702 711.298>
@@ -103045,7 +102894,7 @@ Validated: 9
 EndChar
 
 StartChar: uni0258
-Encoding: 1968 600 1969
+Encoding: 1968 600 1966
 Width: 1200
 Flags: HW
 HStem: -20 141<387.295 759.841> 430 140<287 913> 839 141<434.991 761.021>
@@ -103073,11 +102922,11 @@ SplineSet
  882 748 753 839 600 839 c 4
  447 839 318 748 287 570 c 5
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni29B0
-Encoding: 1969 10672 1970
+Encoding: 1969 10672 1967
 Width: 1200
 Flags: HW
 HStem: 60 140<426.721 736.222> 1000 140<463.778 773.279> 1280 20G<265.5 298.5>
@@ -103110,7 +102959,7 @@ Validated: 5
 EndChar
 
 StartChar: uni0190
-Encoding: 1970 400 1971
+Encoding: 1970 400 1968
 Width: 1200
 Flags: HW
 HStem: -20 140<451.021 779.855> 640 140<455.723 600 690 754.547> 1180 140<452.045 773.211>
@@ -103148,7 +102997,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni025B
-Encoding: 1971 603 1972
+Encoding: 1971 603 1969
 Width: 1200
 Flags: HW
 HStem: -20 140<434.911 773.776> 420 140<452.059 744.547> 840 140<453.795 773.211>
@@ -103183,11 +103032,11 @@ SplineSet
  600 420 l 1
  468 420 360 353 360 270 c 0xf0
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni2126
-Encoding: 1972 8486 1973
+Encoding: 1972 8486 1970
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 602 0 basechar 0
@@ -103199,7 +103048,7 @@ Refer: 399 937 N 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni2127
-Encoding: 1973 8487 1974
+Encoding: 1973 8487 1971
 Width: 1200
 Flags: HW
 HStem: -20 140<421.283 778.717> 920 280<35.9753 164.547 1035.45 1164.02> 1060 140<170 380 820 1030>
@@ -103244,7 +103093,7 @@ Validated: 1
 EndChar
 
 StartChar: uniA7FD
-Encoding: 1974 43005 1975
+Encoding: 1974 43005 1972
 Width: 1200
 Flags: HW
 HStem: 0 140<5.26636 160 1040 1194.73> 1160 140<5.26677 160 300 454.734 745.266 900 1040 1194.73>
@@ -103291,11 +103140,11 @@ SplineSet
  545.20703125 841.91796875 570.213867188 860 600 860 c 0
  629.786132812 860 654.79296875 841.91796875 665 816 c 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni018E
-Encoding: 1975 398 1976
+Encoding: 1975 398 1973
 Width: 1200
 Flags: HW
 HStem: 0 340<115.923 244.547> 0 140<250 780 920 1074.73> 470 420<305.923 434.547> 610 140<440 780> 960 340<115.923 244.547> 1160 140<250 780 920 1074.73>
@@ -103340,11 +103189,11 @@ SplineSet
  780 610 l 1
  440 610 l 1x5380
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni01B7
-Encoding: 1976 439 1977
+Encoding: 1976 439 1974
 Width: 1200
 Flags: HW
 HStem: -20 140<447.691 752.798> 960 340<185.923 314.547> 1160 140<320 769>
@@ -103380,11 +103229,11 @@ SplineSet
  769 1160 l 5
  320 1160 l 5xb8
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni01B8
-Encoding: 1977 440 1978
+Encoding: 1977 440 1975
 Width: 1200
 Flags: HW
 HStem: -20 140<447.202 752.309> 960 340<885.453 1014.08> 1160 140<431 880>
@@ -103420,11 +103269,11 @@ SplineSet
  911 960 880 991 880 1030 c 5
  880 1160 l 5xb8
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni01B9
-Encoding: 1978 441 1979
+Encoding: 1978 441 1976
 Width: 1200
 Flags: HW
 HStem: -460 140<447.202 752.309> 620 340<845.453 974.025> 820 140<417 840>
@@ -103464,7 +103313,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0292
-Encoding: 1979 658 1980
+Encoding: 1979 658 1977
 Width: 1200
 Flags: HW
 HStem: -460 140<447.691 752.798> 620 340<225.975 354.547> 820 140<360 783>
@@ -103509,7 +103358,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0182
-Encoding: 1980 386 1981
+Encoding: 1980 386 1978
 Width: 1200
 Flags: HW
 HStem: 0 140<155.453 310 450 843.895> 610 140<450 843.895> 960 340<935.453 1064.08> 1160 140<155.453 310 450 930>
@@ -103549,11 +103398,11 @@ SplineSet
  450 610 l 1
  450 140 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni0183
-Encoding: 1981 387 1982
+Encoding: 1981 387 1979
 Width: 1200
 Flags: HW
 HStem: -20 140<549.067 801.584> 0 140<115.453 180> 840 140<549.067 801.584> 1100 340<895.453 1024.08> 1300 140<115.453 180>
@@ -103599,7 +103448,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni201B
-Encoding: 1982 8219 1983
+Encoding: 1982 8219 1980
 Width: 1200
 Flags: HW
 HStem: 970 21G<685.335 706.5> 1270 300<588.439 703.552>
@@ -103619,11 +103468,11 @@ SplineSet
  680.669921875 970 671.819335938 972.158203125 663.923828125 976 c 4
  643.890625 985.747070312 450 1069.98730469 450 1420 c 7
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29A3
-Encoding: 1983 10659 1984
+Encoding: 1983 10659 1981
 Width: 1200
 Flags: HW
 HStem: 100 140<135.453 830>
@@ -103644,11 +103493,11 @@ SplineSet
  130 209 161 240 200 240 c 6
  830 240 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29A2
-Encoding: 1984 10658 1985
+Encoding: 1984 10658 1982
 Width: 1200
 Flags: HW
 HStem: 960 140<135.453 830>
@@ -103669,11 +103518,11 @@ SplineSet
  180 312.041992188 196 326 200 330 c 6
  830 960 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29A4
-Encoding: 1985 10660 1986
+Encoding: 1985 10660 1983
 Width: 1200
 Flags: HW
 HStem: 0 140<135.447 1064.55> 280 140<370 1064.55>
@@ -103701,11 +103550,11 @@ SplineSet
  1020 1067.95800781 1004 1054 1000 1050 c 6
  370 420 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29A5
-Encoding: 1986 10661 1987
+Encoding: 1986 10661 1984
 Width: 1200
 Flags: HW
 HStem: 0 140<135.447 1064.55> 280 140<135.453 830>
@@ -103733,11 +103582,11 @@ SplineSet
  130 389 161 420 200 420 c 6
  830 420 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29BF
-Encoding: 1988 10687 1988
+Encoding: 1988 10687 1985
 Width: 1200
 Flags: HW
 HStem: -100 120<389.763 810.237> 280 640<440.598 759.402> 1180 120<389.763 810.237>
@@ -103766,7 +103615,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni29BE
-Encoding: 1987 10686 1989
+Encoding: 1987 10686 1986
 Width: 1200
 Flags: HW
 HStem: -100 120<389.763 810.237> 280 100<474.096 725.904> 820 100<474.096 725.904> 1180 120<389.763 810.237>
@@ -103800,7 +103649,7 @@ Validated: 1
 EndChar
 
 StartChar: uni29C0
-Encoding: 1989 10688 1990
+Encoding: 1989 10688 1987
 Width: 1200
 Flags: HW
 HStem: -100 120<389.763 810.237> 940 20G<844.5 869.5> 1180 120<389.763 810.237>
@@ -103837,7 +103686,7 @@ Validated: 1
 EndChar
 
 StartChar: uni29C1
-Encoding: 1990 10689 1991
+Encoding: 1990 10689 1988
 Width: 1200
 Flags: HW
 HStem: -100 120<389.763 810.237> 940 20G<330.5 355.5> 1180 120<389.763 810.237>
@@ -103874,7 +103723,7 @@ Validated: 1
 EndChar
 
 StartChar: uniA7FB
-Encoding: 1991 43003 1992
+Encoding: 1991 43003 1989
 Width: 1200
 Flags: HW
 HStem: 0 140<535.312 780 920 1074.69> 470 420<315.923 444.547> 610 140<450 780> 960 340<125.923 254.547> 1160 140<260 780 920 1074.73>
@@ -103916,11 +103765,11 @@ SplineSet
  419 890 450 859 450 820 c 5
  450 750 l 5xa7
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uniA7FC
-Encoding: 1992 43004 1993
+Encoding: 1992 43004 1990
 Width: 1200
 Flags: HW
 HStem: 0 140<505.312 750 890 1044.55> 530 140<392.476 750> 1160 140<392.476 750 890 1044.55>
@@ -103955,11 +103804,11 @@ SplineSet
  390 1160 280 1050 280 915 c 4
  280 780 390 670 525 670 c 5
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uniAB31
-Encoding: 1993 43825 1994
+Encoding: 1993 43825 1991
 Width: 1200
 Flags: HW
 HStem: -20 140<123.456 386.676 753.14 1024.77> 390 140<655 1121> 427 143<256.299 530> 445 140<115.336 527.509> 840 140<92.735 470.171 749.445 1036.77>
@@ -104005,11 +103854,11 @@ SplineSet
  70 196 129 120 250 120 c 4
  343 120 471 201 530 281 c 5
 EndSplineSet
-Validated: 1048577
+Validated: 1
 EndChar
 
 StartChar: uni22CD
-Encoding: 1994 8909 1995
+Encoding: 1994 8909 1992
 Width: 1200
 Flags: HW
 HStem: 320 140<135.447 1064.55> 680 140<277.698 540.708> 800 140<659.292 922.302>
@@ -104059,11 +103908,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniAB40
-Encoding: 1995 43840 1996
+Encoding: 1995 43840 1993
 Width: 1200
 Flags: HW
 HStem: -20 140<162.475 438.527 751.874 1024.77> 390 140<655 1121> 840 140<162.475 436.823 749.209 1036.77>
@@ -104100,7 +103949,7 @@ SplineSet
  686 212 735 121 888 121 c 4
  1041 121 1090 212 1121 390 c 5
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 2
 SplineSet
 300 120 m 132
@@ -104132,7 +103981,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni224D
-Encoding: 1996 8781 1997
+Encoding: 1996 8781 1994
 Width: 1200
 Flags: HW
 HStem: 277 135<135.461 307.602 892.398 1064.54> 350 140<302.301 897.699> 710 140<302.301 897.699> 788 135<135.461 307.602 892.398 1064.54>
@@ -104217,7 +104066,7 @@ EndSplineSet
 EndChar
 
 StartChar: Uuni224e
-Encoding: 1997 8782 1998
+Encoding: 1997 8782 1995
 Width: 1200
 Flags: HW
 HStem: 90 140<492.748 707.252> 320 140<105.447 321.245 878.755 1094.55> 620 140<105.447 321.245 878.755 1094.55> 850 160<492.748 707.252>
@@ -104257,11 +104106,11 @@ SplineSet
  791 620 760 651 760 690 c 1
  760 778 688 850 600 850 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni224F
-Encoding: 1998 8783 1999
+Encoding: 1998 8783 1996
 Width: 1200
 Flags: HW
 HStem: 320 140<105.447 1094.55> 620 140<105.447 321.245 878.755 1094.55> 850 160<492.748 707.252>
@@ -104293,11 +104142,11 @@ SplineSet
  170 320 l 2
  130.958007812 320 100 350.95703125 100 390 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2B59
-Encoding: 1999 11097 2000
+Encoding: 1999 11097 1997
 Width: 1200
 Flags: HW
 HStem: 100 120<427.482 772.518> 980 120<427.482 772.518>
@@ -104336,7 +104185,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2250
-Encoding: 2000 8784 2001
+Encoding: 2000 8784 1998
 Width: 1200
 Flags: HW
 HStem: 320 140<135.447 1064.55> 620 140<135.447 1064.55> 910 240<509.355 690.645>
@@ -104407,11 +104256,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2251
-Encoding: 2001 8785 2002
+Encoding: 2001 8785 1999
 Width: 1200
 Flags: HW
 HStem: -70 240<509.355 690.645> 320 140<135.447 1064.55> 620 140<135.447 1064.55> 910 240<509.355 690.645>
@@ -104487,11 +104336,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2252
-Encoding: 2002 8786 2003
+Encoding: 2002 8786 2000
 Width: 1200
 Flags: HW
 HStem: -70 240<159.355 340.645> 320 140<135.447 1064.55> 620 140<135.447 1064.55> 910 240<859.355 1040.65>
@@ -104567,11 +104416,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2253
-Encoding: 2003 8787 2004
+Encoding: 2003 8787 2001
 Width: 1200
 Flags: HW
 HStem: -70 240<859.355 1040.65> 320 140<135.447 1064.55> 620 140<135.447 1064.55> 910 240<159.355 340.645>
@@ -104647,11 +104496,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2254
-Encoding: 2004 8788 2005
+Encoding: 2004 8788 2002
 Width: 1200
 Flags: HW
 HStem: 270 240<89.3547 270.645> 320 140<425.447 1094.55> 570 240<89.3547 270.645> 620 140<425.447 1094.55>
@@ -104685,11 +104534,11 @@ SplineSet
  1030 760 l 2x18
  1069.03613281 760 1100 729.041992188 1100 690 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2255
-Encoding: 2005 8789 2006
+Encoding: 2005 8789 2003
 Width: 1200
 Flags: HW
 HStem: 270 240<929.355 1110.65> 320 140<105.448 774.553> 570 240<929.355 1110.65> 620 140<105.448 774.553>
@@ -104723,11 +104572,11 @@ SplineSet
  170 620 l 2x18
  130.964977479 620 100 650.95703125 100 690 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2256
-Encoding: 2006 8790 2007
+Encoding: 2006 8790 2004
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -104801,11 +104650,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2257
-Encoding: 2007 8791 2008
+Encoding: 2007 8791 2005
 Width: 1200
 Flags: HW
 HStem: 320 140<135.447 1064.55> 620 140<135.447 1064.55> 910 240<509.355 690.645>
@@ -104881,11 +104730,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2258
-Encoding: 2008 8792 2009
+Encoding: 2008 8792 2006
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -104963,7 +104812,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2756
-Encoding: 2025 10070 2010
+Encoding: 2025 10070 2007
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -105082,7 +104931,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E8B
-Encoding: 2026 7819 2011
+Encoding: 2026 7819 2008
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105133,7 +104982,7 @@ Refer: 1669 729 S 1 0 0 1 -13 0 2
 EndChar
 
 StartChar: uni1E8A
-Encoding: 2027 7818 2012
+Encoding: 2027 7818 2009
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105184,7 +105033,7 @@ Refer: 1685 -1 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E8D
-Encoding: 2028 7821 2013
+Encoding: 2028 7821 2010
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105235,7 +105084,7 @@ Refer: 1668 168 S 1 0 0 1 -0.675848 4.06945e-06 2
 EndChar
 
 StartChar: uni1E8C
-Encoding: 2029 7820 2014
+Encoding: 2029 7820 2011
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105286,7 +105135,7 @@ Refer: 1684 -1 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E8E
-Encoding: 2030 7822 2015
+Encoding: 2030 7822 2012
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105325,11 +105174,11 @@ SplineSet
  280 110.333007812 309.669921875 140 350 140 c 1
 EndSplineSet
 Refer: 1685 -1 S 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E8F
-Encoding: 2031 7823 2016
+Encoding: 2031 7823 2013
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 800 0 basechar 0
@@ -105363,11 +105212,11 @@ SplineSet
  675 35 l 1
 EndSplineSet
 Refer: 1669 729 S 1 0 0 1 -13 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E02
-Encoding: 2032 7682 2017
+Encoding: 2032 7682 2014
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105408,7 +105257,7 @@ Validated: 1
 EndChar
 
 StartChar: uni1E03
-Encoding: 2033 7683 2018
+Encoding: 2033 7683 2015
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105446,7 +105295,7 @@ Refer: 1685 -1 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0A
-Encoding: 2034 7690 2019
+Encoding: 2034 7690 2016
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105487,11 +105336,11 @@ SplineSet
  1095 287.372070312 964 0 565 0 c 1
 EndSplineSet
 Refer: 1685 -1 S 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E0B
-Encoding: 2035 7691 2020
+Encoding: 2035 7691 2017
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105527,11 +105376,11 @@ SplineSet
  634.017578125 120 746 211 794 330 c 1
 EndSplineSet
 Refer: 1685 -1 S 1 0 0 1 0 0 2
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni1E1E
-Encoding: 2036 7710 2021
+Encoding: 2036 7710 2018
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 470 0 basechar 0
@@ -105572,11 +105421,11 @@ SplineSet
  750 750 l 1
 EndSplineSet
 Refer: 1685 -1 S 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E1F
-Encoding: 2037 7711 2022
+Encoding: 2037 7711 2019
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 523 0 basechar 0
@@ -105614,11 +105463,11 @@ SplineSet
  600 960 l 1
 EndSplineSet
 Refer: 1685 -1 S 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E22
-Encoding: 2038 7714 2023
+Encoding: 2038 7714 2020
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105666,11 +105515,11 @@ SplineSet
  980 140 l 5
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E23
-Encoding: 2039 7715 2024
+Encoding: 2039 7715 2021
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105713,7 +105562,7 @@ Refer: 1685 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E26
-Encoding: 2040 7718 2025
+Encoding: 2040 7718 2022
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105761,11 +105610,11 @@ SplineSet
  980 140 l 5
 EndSplineSet
 Refer: 1684 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E27
-Encoding: 2041 7719 2026
+Encoding: 2041 7719 2023
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105808,7 +105657,7 @@ Refer: 1684 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E40
-Encoding: 2042 7744 2027
+Encoding: 2042 7744 2024
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105854,11 +105703,11 @@ SplineSet
  665 484 l 5
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E41
-Encoding: 2043 7745 2028
+Encoding: 2043 7745 2025
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105911,7 +105760,7 @@ Refer: 1669 729 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E44
-Encoding: 2044 7748 2029
+Encoding: 2044 7748 2026
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -105951,11 +105800,11 @@ SplineSet
  389.013375834 1300 413.599264608 1282.84348764 424.288085938 1258 c 1
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E45
-Encoding: 2045 7749 2030
+Encoding: 2045 7749 2027
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 602 0 basechar 0
@@ -105998,7 +105847,7 @@ Refer: 1669 729 N 1 0 0 1 -13 0 2
 EndChar
 
 StartChar: uni1E56
-Encoding: 2046 7766 2031
+Encoding: 2046 7766 2028
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -106032,11 +105881,11 @@ SplineSet
  675 670 l 5
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E57
-Encoding: 2047 7767 2032
+Encoding: 2047 7767 2029
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 920 0 basechar 0
@@ -106073,11 +105922,11 @@ SplineSet
  569.982421875 840 458 749 410 630 c 5
 EndSplineSet
 Refer: 1669 729 N 1 0 0 1 -13 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E58
-Encoding: 2048 7768 2033
+Encoding: 2048 7768 2030
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 597 0 basechar 0
@@ -106189,7 +106038,7 @@ Refer: 1685 -1 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E59
-Encoding: 2049 7769 2034
+Encoding: 2049 7769 2031
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 640 0 basechar 0
@@ -106223,11 +106072,11 @@ SplineSet
  983.697265625 735 964.780273438 744.25 952 759 c 5
 EndSplineSet
 Refer: 1669 729 N 1 0 0 1 -13 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E60
-Encoding: 2050 7776 2035
+Encoding: 2050 7776 2032
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 593 0 basechar 0
@@ -106276,7 +106125,7 @@ Refer: 1685 -1 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E61
-Encoding: 2051 7777 2036
+Encoding: 2051 7777 2033
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 593 0 basechar 0
@@ -106311,11 +106160,11 @@ SplineSet
  795 722 l 5
 EndSplineSet
 Refer: 1669 729 N 1 0 0 1 -13 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E6A
-Encoding: 2052 7786 2037
+Encoding: 2052 7786 2034
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 598 0 basechar 0
@@ -106352,7 +106201,7 @@ Refer: 1685 -1 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E6B
-Encoding: 2053 7787 2038
+Encoding: 2053 7787 2035
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 743 0 basechar 0
@@ -106385,11 +106234,11 @@ SplineSet
  589 1300 620 1269 620 1230 c 5
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E86
-Encoding: 2054 7814 2039
+Encoding: 2054 7814 2036
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -106432,11 +106281,11 @@ SplineSet
  620.08203125 862 l 5
 EndSplineSet
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E87
-Encoding: 2055 7815 2040
+Encoding: 2055 7815 2037
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -106482,7 +106331,7 @@ Refer: 1669 729 S 1 0 0 1 -13 0 2
 EndChar
 
 StartChar: uni1E97
-Encoding: 2056 7831 2041
+Encoding: 2056 7831 2038
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 743 0 basechar 0
@@ -106515,11 +106364,11 @@ SplineSet
  589 1300 620 1269 620 1230 c 1
 EndSplineSet
 Refer: 1684 -1 S 1 0 0 1 0 0 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni1E98
-Encoding: 2057 7832 2042
+Encoding: 2057 7832 2039
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -106574,7 +106423,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E99
-Encoding: 2058 7833 2043
+Encoding: 2058 7833 2040
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 800 0 basechar 0
@@ -106617,11 +106466,11 @@ SplineSet
  986 820 l 1
  675 35 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2259
-Encoding: 2009 8793 2044
+Encoding: 2009 8793 2041
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106660,7 +106509,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni225A
-Encoding: 2010 8794 2045
+Encoding: 2010 8794 2042
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106718,7 +106567,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni225F
-Encoding: 2024 8799 2046
+Encoding: 2024 8799 2043
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106808,11 +106657,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2E41
-Encoding: 2059 11841 2047
+Encoding: 2059 11841 2044
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106830,11 +106679,11 @@ SplineSet
  680.693359375 -400 663.34765625 -392.403320312 650.752929688 -380 c 1
  637.905273438 -367.34765625 430 -181 430 150 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E2E
-Encoding: 2060 11822 2048
+Encoding: 2060 11822 2045
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106866,7 +106715,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni211E
-Encoding: 2061 8478 2049
+Encoding: 2061 8478 2046
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -106981,11 +106830,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni214B
-Encoding: 2062 8523 2050
+Encoding: 2062 8523 2047
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107031,11 +106880,11 @@ SplineSet
  1130 629 1099 660 1060 660 c 5
  760 660 l 5
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2263
-Encoding: 2063 8803 2051
+Encoding: 2063 8803 2048
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107155,11 +107004,11 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni225D
-Encoding: 2011 8797 2052
+Encoding: 2011 8797 2049
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107226,14 +107075,14 @@ EndSplineSet
 Refer: 157 100 N 0.3 0 0 0.3 100 900 2
 Refer: 171 102 N 0.3 0 0 0.3 700 900 2
 Refer: 161 101 N 0.3 0 0 0.3 400 900 2
-Validated: 524289
+Validated: 1
 Layer: 3
 Refer: 161 101 N 1 0 0 1 -6 0 2
 Refer: 161 101 N 1 0 0 1 -6 0 2
 EndChar
 
 StartChar: uni225B
-Encoding: 2012 8795 2053
+Encoding: 2012 8795 2050
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107297,12 +107146,12 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
-Refer: 1787 9733 N 0.4 0 0 0.4 360 800 2
-Validated: 524289
+Refer: 1784 9733 N 0.4 0 0 0.4 360 800 2
+Validated: 1
 EndChar
 
 StartChar: uni225C
-Encoding: 2013 8796 2054
+Encoding: 2013 8796 2051
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107367,11 +107216,11 @@ SplineSet
   EndSpiro
 EndSplineSet
 Refer: 379 916 S 0.4 0 0 0.4 360 850 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni225E
-Encoding: 2014 8798 2055
+Encoding: 2014 8798 2052
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107436,11 +107285,11 @@ SplineSet
   EndSpiro
 EndSplineSet
 Refer: 204 109 S 0.4 0 0 0.4 360 850 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2266
-Encoding: 2015 8806 2056
+Encoding: 2015 8806 2053
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107478,7 +107327,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2267
-Encoding: 2016 8807 2057
+Encoding: 2016 8807 2054
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107516,7 +107365,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2268
-Encoding: 2017 8808 2058
+Encoding: 2017 8808 2055
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107560,11 +107409,11 @@ SplineSet
  969 1330 1000 1299 1000 1260 c 0
  1000 1232 984 1208 961 1197 c 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2269
-Encoding: 2018 8809 2059
+Encoding: 2018 8809 2056
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107608,11 +107457,11 @@ SplineSet
  773 930 l 1
  239 1197 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni226C
-Encoding: 2019 8812 2060
+Encoding: 2019 8812 2057
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107646,7 +107495,7 @@ Validated: 9
 EndChar
 
 StartChar: uni226D
-Encoding: 2020 8813 2061
+Encoding: 2020 8813 2058
 Width: 1200
 Flags: HW
 HStem: 277 135<135.461 307.602 892.398 1064.54> 350 140<302.301 897.699> 710 140<302.301 897.699> 788 135<135.461 307.602 892.398 1064.54>
@@ -107690,7 +107539,7 @@ Validated: 5
 EndChar
 
 StartChar: uni226E
-Encoding: 2021 8814 2062
+Encoding: 2021 8814 2059
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107724,7 +107573,7 @@ Validated: 5
 EndChar
 
 StartChar: uni226F
-Encoding: 2022 8815 2063
+Encoding: 2022 8815 2060
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107758,7 +107607,7 @@ Validated: 5
 EndChar
 
 StartChar: uni203D
-Encoding: 2023 8253 2064
+Encoding: 2023 8253 2061
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107794,7 +107643,7 @@ Validated: 1
 EndChar
 
 StartChar: uni229E
-Encoding: 2064 8862 2065
+Encoding: 2064 8862 2062
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107845,7 +107694,7 @@ SplineSet
  670 240 l 2
  670 200.958984375 639.04296875 170 600 170 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 1020 140 m 6
@@ -107878,7 +107727,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni229F
-Encoding: 2065 8863 2066
+Encoding: 2065 8863 2063
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107921,11 +107770,11 @@ SplineSet
  170 639.041015625 201 670 240 670 c 2
  530 670 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni22A0
-Encoding: 2066 8864 2067
+Encoding: 2066 8864 2064
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -107980,11 +107829,11 @@ SplineSet
  389 291 l 2
  375 277 358.666992188 270 340 270 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni22A1
-Encoding: 2067 8865 2068
+Encoding: 2067 8865 2065
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108023,11 +107872,11 @@ SplineSet
  770 506 694 430 600 430 c 0
  506 430 430 506 430 600 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni22C7
-Encoding: 2068 8903 2069
+Encoding: 2068 8903 2066
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108074,11 +107923,11 @@ SplineSet
  720 994 666 940 600 940 c 0
  534 940 480 994 480 1060 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2140
-Encoding: 2069 8512 2070
+Encoding: 2069 8512 2067
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108130,7 +107979,7 @@ Validated: 1
 EndChar
 
 StartChar: uni232C
-Encoding: 2070 9004 2071
+Encoding: 2070 9004 2068
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108210,7 +108059,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni23E3
-Encoding: 2071 9187 2072
+Encoding: 2071 9187 2069
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108262,7 +108111,7 @@ Validated: 1
 EndChar
 
 StartChar: uni23DA
-Encoding: 2072 9178 2073
+Encoding: 2072 9178 2070
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108296,11 +108145,11 @@ SplineSet
  70 249 101 280 140 280 c 1
  530 280 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2621
-Encoding: 2073 9761 2074
+Encoding: 2073 9761 2071
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108331,7 +108180,7 @@ Validated: 1
 EndChar
 
 StartChar: uni262E
-Encoding: 2074 9774 2075
+Encoding: 2074 9774 2072
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108373,7 +108222,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2622
-Encoding: 2075 9762 2076
+Encoding: 2075 9762 2073
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108416,7 +108265,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni27EA
-Encoding: 2077 10218 2077
+Encoding: 2077 10218 2074
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108454,7 +108303,7 @@ Validated: 1
 EndChar
 
 StartChar: uni27EB
-Encoding: 2078 10219 2078
+Encoding: 2078 10219 2075
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108492,7 +108341,7 @@ Validated: 1
 EndChar
 
 StartChar: uni27E6
-Encoding: 2079 10214 2079
+Encoding: 2079 10214 2076
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108526,7 +108375,7 @@ Validated: 1
 EndChar
 
 StartChar: uni27E7
-Encoding: 2080 10215 2080
+Encoding: 2080 10215 2077
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108560,7 +108409,7 @@ Validated: 1
 EndChar
 
 StartChar: uni27D1
-Encoding: 2076 10193 2081
+Encoding: 2076 10193 2078
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108592,7 +108441,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2024
-Encoding: 2081 8228 2082
+Encoding: 2081 8228 2079
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108609,7 +108458,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2025
-Encoding: 2082 8229 2083
+Encoding: 2082 8229 2080
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108631,7 +108480,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2027
-Encoding: 2083 8231 2084
+Encoding: 2083 8231 2081
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108646,11 +108495,11 @@ SplineSet
  760 670 l 2
  799.041015625 670 830 639.04296875 830 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni26A0
-Encoding: 2084 9888 2085
+Encoding: 2084 9888 2082
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108675,11 +108524,11 @@ SplineSet
  563 1239 580 1250 601.130859375 1250 c 0
 EndSplineSet
 Refer: 836 33 S 0.5 0 0 0.5 300 180 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni22C5
-Encoding: 2085 8901 2086
+Encoding: 2085 8901 2083
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108696,7 +108545,7 @@ Validated: 1
 EndChar
 
 StartChar: uni232F
-Encoding: 2086 9007 2087
+Encoding: 2086 9007 2084
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108725,11 +108574,11 @@ SplineSet
  1000 670 l 2
  1039.04147347 670 1070 639.043131878 1070 600 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2038
-Encoding: 2087 8248 2088
+Encoding: 2087 8248 2085
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108752,11 +108601,11 @@ SplineSet
  951.333007812 -460 934.666992188 -453.333007812 920 -440 c 2
  600 -120 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2032
-Encoding: 2088 8242 2089
+Encoding: 2088 8242 2086
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108777,7 +108626,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2033
-Encoding: 2089 8243 2090
+Encoding: 2089 8243 2087
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108807,7 +108656,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2034
-Encoding: 2090 8244 2091
+Encoding: 2090 8244 2088
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108846,7 +108695,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2035
-Encoding: 2091 8245 2092
+Encoding: 2091 8245 2089
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108867,7 +108716,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2036
-Encoding: 2092 8246 2093
+Encoding: 2092 8246 2090
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108896,7 +108745,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2037
-Encoding: 2093 8247 2094
+Encoding: 2093 8247 2091
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108934,7 +108783,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni203E
-Encoding: 2094 8254 2095
+Encoding: 2094 8254 2092
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108953,7 +108802,7 @@ Validated: 1
 EndChar
 
 StartChar: uniFE49
-Encoding: 2095 65097 2096
+Encoding: 2095 65097 2093
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -108986,7 +108835,7 @@ Validated: 1
 EndChar
 
 StartChar: uniFE4A
-Encoding: 2096 65098 2097
+Encoding: 2096 65098 2094
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109017,7 +108866,7 @@ Validated: 1
 EndChar
 
 StartChar: uniFE4D
-Encoding: 2097 65101 2098
+Encoding: 2097 65101 2095
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109050,7 +108899,7 @@ Validated: 1
 EndChar
 
 StartChar: uniFE4E
-Encoding: 2098 65102 2099
+Encoding: 2098 65102 2096
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109081,7 +108930,7 @@ Validated: 1
 EndChar
 
 StartChar: uni22EE
-Encoding: 2099 8942 2100
+Encoding: 2099 8942 2097
 Width: 1200
 Flags: HW
 HStem: -20 240<509.355 690.645> 480 240<509.355 690.645> 980 240<509.355 690.645>
@@ -109110,7 +108959,7 @@ Validated: 1
 EndChar
 
 StartChar: uni22EF
-Encoding: 2100 8943 2101
+Encoding: 2100 8943 2098
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109137,7 +108986,7 @@ Validated: 1
 EndChar
 
 StartChar: uni22F0
-Encoding: 2101 8944 2102
+Encoding: 2101 8944 2099
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109164,7 +109013,7 @@ Validated: 1
 EndChar
 
 StartChar: uni22F1
-Encoding: 2102 8945 2103
+Encoding: 2102 8945 2100
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109191,7 +109040,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B8
-Encoding: 2103 9656 2104
+Encoding: 2103 9656 2101
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109213,7 +109062,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B3
-Encoding: 2104 9651 2105
+Encoding: 2104 9651 2102
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109245,7 +109094,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B4
-Encoding: 2105 9652 2106
+Encoding: 2105 9652 2103
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109267,7 +109116,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B5
-Encoding: 2106 9653 2107
+Encoding: 2106 9653 2104
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109299,7 +109148,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B7
-Encoding: 2107 9655 2108
+Encoding: 2107 9655 2105
 Width: 1200
 Flags: HW
 HStem: -20 21G<129 143.5 129 143.5>
@@ -109332,7 +109181,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B9
-Encoding: 2108 9657 2109
+Encoding: 2108 9657 2106
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109364,7 +109213,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25BB
-Encoding: 2109 9659 2110
+Encoding: 2109 9659 2107
 Width: 1200
 Flags: HW
 HStem: -20 21G<129 143.5> -20 21G<129 143.5>
@@ -109393,11 +109242,11 @@ SplineSet
  150 221 145 220 140 220 c 4
  118 220 100 238 100 260 c 5
 EndSplineSet
-Validated: 8388609
+Validated: 1
 EndChar
 
 StartChar: uni25BD
-Encoding: 2110 9661 2111
+Encoding: 2110 9661 2108
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109451,7 +109300,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25BE
-Encoding: 2111 9662 2112
+Encoding: 2111 9662 2109
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109472,7 +109321,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25BF
-Encoding: 2112 9663 2113
+Encoding: 2112 9663 2110
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109503,7 +109352,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25C1
-Encoding: 2113 9665 2114
+Encoding: 2113 9665 2111
 Width: 1200
 Flags: HW
 HStem: -20 21G<129 143.5 129 143.5>
@@ -109536,7 +109385,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25C3
-Encoding: 2114 9667 2115
+Encoding: 2114 9667 2112
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109568,7 +109417,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25C5
-Encoding: 2115 9669 2116
+Encoding: 2115 9669 2113
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109600,7 +109449,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25C2
-Encoding: 2116 9666 2117
+Encoding: 2116 9666 2114
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109622,7 +109471,7 @@ Validated: 1
 EndChar
 
 StartChar: uni21AF
-Encoding: 2117 8623 2118
+Encoding: 2117 8623 2115
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109658,7 +109507,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21B4
-Encoding: 2118 8628 2119
+Encoding: 2118 8628 2116
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109690,7 +109539,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni21B5
-Encoding: 2119 8629 2120
+Encoding: 2119 8629 2117
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109746,7 +109595,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni1E93
-Encoding: 2120 7827 2121
+Encoding: 2120 7827 2118
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 621 1053 basechar 0
@@ -109754,11 +109603,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 266 122 N 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0323
-Encoding: 2121 803 2122
+Encoding: 2121 803 2119
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -109777,7 +109626,7 @@ Validated: 1
 EndChar
 
 StartChar: uni23B2
-Encoding: 2122 9138 2123
+Encoding: 2122 9138 2120
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109808,7 +109657,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni23B3
-Encoding: 2123 9139 2124
+Encoding: 2123 9139 2121
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -109853,7 +109702,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0325
-Encoding: 2124 805 2125
+Encoding: 2124 805 2122
 Width: 0
 GlyphClass: 4
 Flags: HW
@@ -109877,31 +109726,31 @@ Validated: 1
 EndChar
 
 StartChar: uni1E00
-Encoding: 2125 7680 2126
+Encoding: 2125 7680 2123
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1378 basechar 0
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 2125 805 S 1 0 0 1 0 0 2
+Refer: 2122 805 S 1 0 0 1 0 0 2
 Refer: 1 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E01
-Encoding: 2126 7681 2127
+Encoding: 2126 7681 2124
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 584 1053 basechar 0
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 2125 805 S 1 0 0 1 0 0 2
+Refer: 2122 805 S 1 0 0 1 0 0 2
 Refer: 138 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0259
-Encoding: 2127 601 2128
+Encoding: 2127 601 2125
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -109927,11 +109776,11 @@ SplineSet
  753 121 882 212 913 390 c 1
  287 390 l 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni018F
-Encoding: 2128 399 2129
+Encoding: 2128 399 2126
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 620 0 basechar 0
@@ -109957,7 +109806,7 @@ SplineSet
  818 120 958 310 985 560 c 5
  255 560 l 5
 EndSplineSet
-Validated: 1048577
+Validated: 1
 Layer: 2
 SplineSet
 1130 670 m 5
@@ -109980,7 +109829,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni02A7
-Encoding: 2129 679 2130
+Encoding: 2129 679 2127
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 595 1477 basechar 0
@@ -110058,7 +109907,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0250
-Encoding: 2130 592 2131
+Encoding: 2130 592 2128
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 570 0 basechar 0
@@ -110094,11 +109943,11 @@ SplineSet
  880 764 811 840 690 840 c 0
  596.860351562 840 458.690429688 758.826171875 400 678.573242188 c 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni0252
-Encoding: 2131 594 2132
+Encoding: 2131 594 2129
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 570 0 basechar 0
@@ -110110,7 +109959,7 @@ Refer: 524 945 N -1 0 0 -1 1200 960 2
 EndChar
 
 StartChar: uni1E04
-Encoding: 2132 7684 2133
+Encoding: 2132 7684 2130
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110118,11 +109967,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 13 66 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E05
-Encoding: 2133 7685 2134
+Encoding: 2133 7685 2131
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1477 basechar 0
@@ -110130,11 +109979,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 150 98 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0C
-Encoding: 2134 7692 2135
+Encoding: 2134 7692 2132
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 567 1377 basechar 0
@@ -110142,11 +109991,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 20 68 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E0D
-Encoding: 2135 7693 2136
+Encoding: 2135 7693 2133
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1477 basechar 0
@@ -110154,11 +110003,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 157 100 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E24
-Encoding: 2136 7716 2137
+Encoding: 2136 7716 2134
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110166,11 +110015,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 40 72 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E25
-Encoding: 2137 7717 2138
+Encoding: 2137 7717 2135
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1477 basechar 0
@@ -110178,11 +110027,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 177 104 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E32
-Encoding: 2138 7730 2139
+Encoding: 2138 7730 2136
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 653 1377 basechar 0
@@ -110190,11 +110039,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 56 75 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E33
-Encoding: 2139 7731 2140
+Encoding: 2139 7731 2137
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1477 basechar 0
@@ -110202,11 +110051,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 195 107 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E36
-Encoding: 2140 7734 2141
+Encoding: 2140 7734 2138
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 359 1377 basechar 0
@@ -110214,11 +110063,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 58 76 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E37
-Encoding: 2141 7735 2142
+Encoding: 2141 7735 2139
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 530 1477 basechar 0
@@ -110226,11 +110075,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 198 108 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E42
-Encoding: 2142 7746 2143
+Encoding: 2142 7746 2140
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110238,11 +110087,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 64 77 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E43
-Encoding: 2143 7747 2144
+Encoding: 2143 7747 2141
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1053 basechar 0
@@ -110250,11 +110099,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 204 109 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E46
-Encoding: 2144 7750 2145
+Encoding: 2144 7750 2142
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 597 1377 basechar 0
@@ -110262,11 +110111,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 65 78 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E47
-Encoding: 2145 7751 2146
+Encoding: 2145 7751 2143
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1053 basechar 0
@@ -110274,11 +110123,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 205 110 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E5A
-Encoding: 2152 7770 2147
+Encoding: 2152 7770 2144
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110286,11 +110135,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 86 82 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E5B
-Encoding: 2153 7771 2148
+Encoding: 2153 7771 2145
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 665 1053 basechar 0
@@ -110298,11 +110147,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 227 114 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E62
-Encoding: 2154 7778 2149
+Encoding: 2154 7778 2146
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 611 1353 basechar 0
@@ -110310,11 +110159,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 90 83 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E63
-Encoding: 2155 7779 2150
+Encoding: 2155 7779 2147
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 615 1053 basechar 0
@@ -110322,11 +110171,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 231 115 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E68
-Encoding: 2156 7784 2151
+Encoding: 2156 7784 2148
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110335,11 +110184,11 @@ LayerCount: 6
 Fore
 Refer: 90 83 S 1 0 0 1 0 0 2
 Refer: 1685 -1 N 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E69
-Encoding: 2157 7785 2152
+Encoding: 2157 7785 2149
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110348,11 +110197,11 @@ LayerCount: 6
 Fore
 Refer: 231 115 S 1 0 0 1 0 0 2
 Refer: 1669 729 N 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E88
-Encoding: 2158 7816 2153
+Encoding: 2158 7816 2150
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110360,11 +110209,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 114 87 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E89
-Encoding: 2159 7817 2154
+Encoding: 2159 7817 2151
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1053 basechar 0
@@ -110372,11 +110221,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 255 119 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1E92
-Encoding: 2160 7826 2155
+Encoding: 2160 7826 2152
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 637 1377 basechar 0
@@ -110384,11 +110233,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 125 90 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EB8
-Encoding: 2161 7864 2156
+Encoding: 2161 7864 2153
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 642 1377 basechar 0
@@ -110396,11 +110245,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 24 69 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EB9
-Encoding: 2162 7865 2157
+Encoding: 2162 7865 2154
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 621 1053 basechar 0
@@ -110408,11 +110257,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 161 101 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1ECA
-Encoding: 2150 7882 2158
+Encoding: 2150 7882 2155
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110420,11 +110269,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 43 73 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1ECB
-Encoding: 2151 7883 2159
+Encoding: 2151 7883 2156
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 640 1477 basechar 0
@@ -110432,11 +110281,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 180 105 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1ECC
-Encoding: 2148 7884 2160
+Encoding: 2148 7884 2157
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1377 basechar 0
@@ -110444,11 +110293,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 71 79 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1ECD
-Encoding: 2149 7885 2161
+Encoding: 2149 7885 2158
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1053 basechar 0
@@ -110456,11 +110305,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 212 111 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EF4
-Encoding: 2146 7924 2162
+Encoding: 2146 7924 2159
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 607 1377 basechar 0
@@ -110468,11 +110317,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 120 89 S 1 0 0 1 0 0 2
-Refer: 2122 803 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni1EF5
-Encoding: 2147 7925 2163
+Encoding: 2147 7925 2160
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1055 basechar 0
@@ -110480,11 +110329,11 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 Refer: 261 121 N 1 0 0 1 0 0 2
-Refer: 2122 803 S 1 0 0 1 200 0 2
+Refer: 2119 803 S 1 0 0 1 200 0 2
 EndChar
 
 StartChar: uni25B0
-Encoding: 2163 9648 2164
+Encoding: 2163 9648 2161
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110507,7 +110356,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25B1
-Encoding: 2164 9649 2165
+Encoding: 2164 9649 2162
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110566,7 +110415,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25C8
-Encoding: 2165 9672 2166
+Encoding: 2165 9672 2163
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110613,11 +110462,11 @@ SplineSet
  1140 636 l 1
  1149 627 1154 613.7421875 1154 600 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni25EE
-Encoding: 2168 9710 2167
+Encoding: 2168 9710 2164
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110648,7 +110497,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25EC
-Encoding: 2166 9708 2168
+Encoding: 2166 9708 2165
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110685,7 +110534,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25ED
-Encoding: 2167 9709 2169
+Encoding: 2167 9709 2166
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110716,7 +110565,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25CC
-Encoding: 2169 9676 2170
+Encoding: 2169 9676 2167
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 -20 basechar 0
@@ -110785,7 +110634,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni25FB
-Encoding: 2170 9723 2171
+Encoding: 2170 9723 2168
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110815,7 +110664,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25FE
-Encoding: 2171 9726 2172
+Encoding: 2171 9726 2169
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110836,7 +110685,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25F8
-Encoding: 2172 9720 2173
+Encoding: 2172 9720 2170
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110866,7 +110715,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25F9
-Encoding: 2173 9721 2174
+Encoding: 2173 9721 2171
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110896,7 +110745,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25FA
-Encoding: 2174 9722 2175
+Encoding: 2174 9722 2172
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110926,7 +110775,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25FF
-Encoding: 2175 9727 2176
+Encoding: 2175 9727 2173
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -110956,7 +110805,7 @@ Validated: 1
 EndChar
 
 StartChar: uni25CD
-Encoding: 2176 9677 2177
+Encoding: 2176 9677 2174
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111009,7 +110858,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2271
-Encoding: 2178 8817 2178
+Encoding: 2178 8817 2175
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111050,7 +110899,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A1B
-Encoding: 2179 10779 2179
+Encoding: 2179 10779 2176
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 1530 140<699.898 885.44>
@@ -111090,7 +110939,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2270
-Encoding: 2177 8816 2180
+Encoding: 2177 8816 2177
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111131,7 +110980,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A1C
-Encoding: 2180 10780 2181
+Encoding: 2180 10780 2178
 Width: 1200
 Flags: HW
 HStem: -370 140<314.56 500.102> 1530 140<699.898 885.44>
@@ -111171,7 +111020,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2A0C
-Encoding: 2181 10764 2182
+Encoding: 2181 10764 2179
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111338,7 +111187,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2278
-Encoding: 2182 8824 2183
+Encoding: 2182 8824 2180
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111385,7 +111234,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2279
-Encoding: 2183 8825 2184
+Encoding: 2183 8825 2181
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111432,7 +111281,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2276
-Encoding: 2184 8822 2185
+Encoding: 2184 8822 2182
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111470,7 +111319,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2277
-Encoding: 2185 8823 2186
+Encoding: 2185 8823 2183
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111508,7 +111357,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2272
-Encoding: 2186 8818 2187
+Encoding: 2186 8818 2184
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111542,7 +111391,7 @@ SplineSet
  1000 970 981 945 955 935 c 1
  466 750 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 740 140 m 7
@@ -111571,7 +111420,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2273
-Encoding: 2187 8819 2188
+Encoding: 2187 8819 2185
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111605,11 +111454,11 @@ SplineSet
  200 530 219 555 245 565 c 1
  734 750 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2274
-Encoding: 2188 8820 2189
+Encoding: 2188 8820 2186
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111652,11 +111501,11 @@ SplineSet
  1000 970 981 945 955 935 c 1
  466 750 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2275
-Encoding: 2189 8821 2190
+Encoding: 2189 8821 2187
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111699,11 +111548,11 @@ SplineSet
  200 530 219 555 245 565 c 1
  734 750 l 1
 EndSplineSet
-Validated: 524293
+Validated: 5
 EndChar
 
 StartChar: uni2A0A
-Encoding: 2190 10762 2191
+Encoding: 2190 10762 2188
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111750,7 +111599,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A0B
-Encoding: 2191 10763 2192
+Encoding: 2191 10763 2189
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111806,7 +111655,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A0D
-Encoding: 2192 10765 2193
+Encoding: 2192 10765 2190
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111844,7 +111693,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A0E
-Encoding: 2193 10766 2194
+Encoding: 2193 10766 2191
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111889,7 +111738,7 @@ Validated: 5
 EndChar
 
 StartChar: uni2A3F
-Encoding: 2194 10815 2195
+Encoding: 2194 10815 2192
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111957,7 +111806,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2A3C
-Encoding: 2195 10812 2196
+Encoding: 2195 10812 2193
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111976,11 +111825,11 @@ SplineSet
  800 670 l 5
  839.04296875 670 870 700.958984375 870 740 c 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2A3D
-Encoding: 2196 10813 2197
+Encoding: 2196 10813 2194
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -111999,11 +111848,11 @@ SplineSet
  299 970 330 939 330 900 c 5
  330 740 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2A75
-Encoding: 2197 10869 2198
+Encoding: 2197 10869 2195
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112039,11 +111888,11 @@ SplineSet
  170 740 l 5
  130.958007812 740 100 770.95703125 100 810 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2A76
-Encoding: 2198 10870 2199
+Encoding: 2198 10870 2196
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112093,11 +111942,11 @@ SplineSet
  475 320 l 5
  435.958007812 320 405 350.95703125 405 390 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2A6E
-Encoding: 2199 10862 2200
+Encoding: 2199 10862 2197
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112162,11 +112011,11 @@ SplineSet
   EndSpiro
 EndSplineSet
 Refer: 849 42 S 0.667 0 0 0.667 200 750 2
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni115CF
-Encoding: 2200 71119 2201
+Encoding: 2200 71119 2198
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112198,7 +112047,7 @@ Validated: 1
 EndChar
 
 StartChar: uni115D0
-Encoding: 2201 71120 2202
+Encoding: 2201 71120 2199
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112250,11 +112099,11 @@ SplineSet
  1020 832 832 1020 600 1020 c 0
  368 1020 180 832 180 600 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E1B
-Encoding: 2202 11803 2203
+Encoding: 2202 11803 2200
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112285,7 +112134,7 @@ SplineSet
  799 910 709 820 599 820 c 4
  489 820 399 910 399 1020 c 4
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 480 940 m 0
@@ -112310,7 +112159,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2E30
-Encoding: 2203 11824 2204
+Encoding: 2203 11824 2201
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112332,7 +112181,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E18
-Encoding: 2204 11800 2205
+Encoding: 2204 11800 2202
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112368,7 +112217,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E1E
-Encoding: 2205 11806 2206
+Encoding: 2205 11806 2203
 Width: 1200
 Flags: HW
 HStem: 140 240<509.355 690.645> 460 140<674.796 928.324> 600 140<271.676 525.204> 820 240<509.355 690.645>
@@ -112396,11 +112245,11 @@ SplineSet
  1110 614.782226562 1101.45800781 597.713867188 1088 585 c 5
  1014.43457031 515.803710938 886.462890625 460 790 460 c 4xd8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E1F
-Encoding: 2206 11807 2207
+Encoding: 2206 11807 2204
 Width: 1200
 Flags: HW
 HStem: 140 240<509.355 690.645> 460 140<674.796 928.324> 600 140<271.676 525.204> 820 240<509.355 690.645>
@@ -112428,11 +112277,11 @@ SplineSet
  1110 614.782226562 1101.45800781 597.713867188 1088 585 c 1
  1014.43457031 515.803710938 886.462890625 460 790 460 c 0xd8
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E2A
-Encoding: 2207 11818 2208
+Encoding: 2207 11818 2205
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112459,7 +112308,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E2B
-Encoding: 2208 11819 2209
+Encoding: 2208 11819 2206
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112486,7 +112335,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E2C
-Encoding: 2209 11820 2210
+Encoding: 2209 11820 2207
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112518,7 +112367,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E2D
-Encoding: 2210 11821 2211
+Encoding: 2210 11821 2208
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112555,7 +112404,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E31
-Encoding: 2211 11825 2212
+Encoding: 2211 11825 2209
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112572,7 +112421,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E4B
-Encoding: 2212 11851 2213
+Encoding: 2212 11851 2210
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112641,11 +112490,11 @@ SplineSet
  530 440 l 1
  530 490 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E33
-Encoding: 2213 11827 2214
+Encoding: 2213 11827 2211
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112662,7 +112511,7 @@ Validated: 1
 EndChar
 
 StartChar: uni30FB
-Encoding: 2214 12539 2215
+Encoding: 2214 12539 2212
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112679,7 +112528,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E34
-Encoding: 2215 11828 2216
+Encoding: 2215 11828 2213
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112697,11 +112546,11 @@ SplineSet
  430 474 506 550 600 550 c 0
  694 550 770 474 770 380 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E32
-Encoding: 2216 11826 2217
+Encoding: 2216 11826 2214
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112719,11 +112568,11 @@ SplineSet
  770 -244 694 -320 600 -320 c 0
  506 -320 430 -244 430 -150 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2E35
-Encoding: 2217 11829 2218
+Encoding: 2217 11829 2215
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112750,7 +112599,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E3D
-Encoding: 2218 11837 2219
+Encoding: 2218 11837 2216
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112792,7 +112641,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2E40
-Encoding: 2219 11840 2220
+Encoding: 2219 11840 2217
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112814,7 +112663,7 @@ SplineSet
  425 390 l 5
  385.958007812 390 355 420.95703125 355 460 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 355 740 m 132
@@ -112835,7 +112684,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni0283
-Encoding: 2220 643 2221
+Encoding: 2220 643 2218
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-0" 600 1477 basechar 0
@@ -112860,7 +112709,7 @@ Validated: 1
 EndChar
 
 StartChar: uni0265
-Encoding: 2221 613 2222
+Encoding: 2221 613 2219
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 590 0 basechar 0
@@ -112902,7 +112751,7 @@ EndSplineSet
 EndChar
 
 StartChar: uni2057
-Encoding: 2222 8279 2223
+Encoding: 2222 8279 2220
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -112950,7 +112799,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2132
-Encoding: 2223 8498 2224
+Encoding: 2223 8498 2221
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-1" 600 0 basechar 0
@@ -112990,11 +112839,11 @@ SplineSet
  780 550 l 5
  450 550 l 5
 EndSplineSet
-Validated: 1572865
+Validated: 1
 EndChar
 
 StartChar: uni2141
-Encoding: 2225 8513 2225
+Encoding: 2225 8513 2222
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -113032,11 +112881,11 @@ SplineSet
  259 1340 290 1309 290 1270 c 1
  290 1207 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni2129
-Encoding: 2224 8489 2226
+Encoding: 2224 8489 2223
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -113060,11 +112909,11 @@ SplineSet
  920 31 889 0 850 0 c 5
  670 0 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29E7
-Encoding: 2226 10727 2227
+Encoding: 2226 10727 2224
 Width: 1200
 Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
@@ -113099,11 +112948,11 @@ SplineSet
  670 740 l 5
  670 460 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uni29B6
-Encoding: 2227 10678 2228
+Encoding: 2227 10678 2225
 Width: 1200
 Flags: HW
 HStem: -100 120<389.763 810.237> 280 100<474.096 725.904> 820 100<474.096 725.904> 1180 120<389.763 810.237>
@@ -113127,6 +112976,1635 @@ SplineSet
  986 1300 1300 986 1300 600 c 4
 EndSplineSet
 Validated: 1
+EndChar
+
+StartChar: hookabove
+Encoding: 2283 -1 2226
+Width: 1200
+VWidth: 0
+Flags: HW
+LayerCount: 6
+Fore
+SplineSet
+810 1355 m 0
+ 810 1288 774 1217 670 1182 c 1
+ 670 1160 l 2
+ 670 1121 639 1090 600 1090 c 0
+ 561 1090 530 1121 530 1160 c 2
+ 530 1220 l 2
+ 530 1255 550 1295 603 1308 c 0
+ 619 1312 651 1322 664 1337 c 0
+ 668 1341 670 1345 670 1355 c 0
+ 670 1373 664 1384 653 1392 c 0
+ 644 1399 628 1405 605 1405 c 0
+ 570 1405 540 1392 540 1345 c 0
+ 540 1306 509 1275 470 1275 c 0
+ 431 1275 400 1306 400 1345 c 0
+ 400 1465 488 1545 605 1545 c 0
+ 729 1545 810 1458 810 1355 c 0
+EndSplineSet
+EndChar
+
+StartChar: hookabove.case
+Encoding: 2284 -1 2227
+Width: 1200
+VWidth: 0
+Flags: HW
+LayerCount: 6
+Fore
+SplineSet
+604 1882 m 0
+ 720 1882 796 1800 796 1704 c 0
+ 796 1678 791 1579 655 1538 c 1
+ 642 1522 622 1511 600 1511 c 0
+ 561 1511 530 1542 530 1581 c 2
+ 530 1582 l 2
+ 530 1614 548 1655 601 1668 c 0
+ 612 1671 643 1679 653 1692 c 0
+ 655 1695 656 1696 656 1704 c 0
+ 656 1718 651 1725 643 1731 c 0
+ 636 1736 623 1742 604 1742 c 0
+ 553 1742 553 1706 553 1694 c 0
+ 553 1655 522 1624 483 1624 c 0
+ 444 1624 413 1655 413 1694 c 0
+ 413 1806 494 1882 604 1882 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0309
+Encoding: 2285 777 2228
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Anchor-4" 600 1053 mark 0
+AnchorPoint: "Anchor-0" 600 1053 mark 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 -211 2
+EndChar
+
+StartChar: uni031B
+Encoding: 2286 795 2229
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1053 mark 0
+LayerCount: 6
+Fore
+SplineSet
+880 740 m 0
+ 841 740 810 771 810 810 c 0
+ 810 837 825 861 849 873 c 0
+ 942 919 982 973 985 1063 c 0
+ 986 1100 1017 1130 1055 1130 c 0
+ 1094 1130 1125 1099 1125 1060 c 0
+ 1125 1059 1125 1007 1106 952 c 0
+ 1068 839 978 781 911 747 c 0
+ 901 742 891 740 880 740 c 0
+EndSplineSet
+EndChar
+
+StartChar: ohorn
+Encoding: 2287 417 2230
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uhorn
+Encoding: 2288 432 2231
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ohorn
+Encoding: 2289 416 2232
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Uhorn
+Encoding: 2290 431 2233
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA0
+Encoding: 2291 7840 2234
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1378 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 -4 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA1
+Encoding: 2292 7841 2235
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 584 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EA1.cv01
+EndChar
+
+StartChar: uni1EA2
+Encoding: 2293 7842 2236
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA3
+Encoding: 2294 7843 2237
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EA3.cv01
+EndChar
+
+StartChar: uni1EA4
+Encoding: 2295 7844 2238
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2051 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 -9 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA5
+Encoding: 2296 7845 2239
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1811 basechar 0
+LayerCount: 6
+Fore
+Refer: 1652 769 N 1 0 0 1 -22 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EA5.cv01
+EndChar
+
+StartChar: uni1EA6
+Encoding: 2297 7846 2240
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2058 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 12 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA7
+Encoding: 2298 7847 2241
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1811 basechar 0
+LayerCount: 6
+Fore
+Refer: 1651 768 N 1 0 0 1 22 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EA7.cv01
+EndChar
+
+StartChar: uni1EA8
+Encoding: 2299 7848 2242
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2121 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 -4 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA9
+Encoding: 2300 7849 2243
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1902 basechar 0
+LayerCount: 6
+Fore
+Refer: 2228 777 N 1 0 0 1 -4 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EA9.cv01
+EndChar
+
+StartChar: uni1EAA
+Encoding: 2301 7850 2244
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 1970 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 310 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAB
+Encoding: 2302 7851 2245
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1751 basechar 0
+LayerCount: 6
+Fore
+Refer: 1658 771 N 1 0 0 1 -2 331 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EAB.cv01
+EndChar
+
+StartChar: uni1EAC
+Encoding: 2303 7852 2246
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 -4 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAD
+Encoding: 2304 7853 2247
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 584 1471 basechar 0
+LayerCount: 6
+Fore
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EAD.cv01
+EndChar
+
+StartChar: uni1EAE
+Encoding: 2305 7854 2248
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2036 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 32 344 2
+Refer: 1691 -1 N 1 0 0 1 40 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EAF
+Encoding: 2306 7855 2249
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1765 basechar 0
+LayerCount: 6
+Fore
+Refer: 1652 769 N 1 0 0 1 -38 305 2
+Refer: 1676 728 N 1 0 0 1 -16 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EAF.cv01
+EndChar
+
+StartChar: uni1EB0
+Encoding: 2307 7856 2250
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2043 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 54 344 2
+Refer: 1691 -1 N 1 0 0 1 40 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB1
+Encoding: 2308 7857 2251
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1765 basechar 0
+LayerCount: 6
+Fore
+Refer: 1651 768 N 1 0 0 1 6 305 2
+Refer: 1676 728 N 1 0 0 1 -16 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EB1.cv01
+EndChar
+
+StartChar: uni1EB2
+Encoding: 2309 7858 2252
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 2106 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 36 344 2
+Refer: 1691 -1 N 1 0 0 1 40 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB3
+Encoding: 2310 7859 2253
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1856 basechar 0
+LayerCount: 6
+Fore
+Refer: 2228 777 N 1 0 0 1 -20 305 2
+Refer: 1676 728 N 1 0 0 1 -16 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EB3.cv01
+EndChar
+
+StartChar: uni1EB4
+Encoding: 2311 7860 2254
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 1955 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 41 295 2
+Refer: 1691 -1 N 1 0 0 1 40 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB5
+Encoding: 2312 7861 2255
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1705 basechar 0
+LayerCount: 6
+Fore
+Refer: 1658 771 N 1 0 0 1 -18 285 2
+Refer: 1676 728 N 1 0 0 1 -16 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EB5.cv01
+EndChar
+
+StartChar: uni1EB6
+Encoding: 2313 7862 2256
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1675 basechar 0
+LayerCount: 6
+Fore
+Refer: 1691 -1 N 1 0 0 1 40 0 2
+Refer: 2119 803 N 1 0 0 1 -4 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EB7
+Encoding: 2314 7863 2257
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 584 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 1676 728 N 1 0 0 1 -16 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni1EB7.cv01
+EndChar
+
+StartChar: uni1EBA
+Encoding: 2315 7866 2258
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBB
+Encoding: 2316 7867 2259
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBC
+Encoding: 2317 7868 2260
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 1660 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBD
+Encoding: 2318 7869 2261
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1421 basechar 0
+LayerCount: 6
+Fore
+Refer: 1678 732 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBE
+Encoding: 2319 7870 2262
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 2051 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 -9 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EBF
+Encoding: 2320 7871 2263
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1811 basechar 0
+LayerCount: 6
+Fore
+Refer: 1652 769 N 1 0 0 1 -22 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC0
+Encoding: 2321 7872 2264
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 2058 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 12 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC1
+Encoding: 2322 7873 2265
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1811 basechar 0
+LayerCount: 6
+Fore
+Refer: 1651 768 N 1 0 0 1 22 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC2
+Encoding: 2323 7874 2266
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 2121 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 -4 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC3
+Encoding: 2324 7875 2267
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1902 basechar 0
+LayerCount: 6
+Fore
+Refer: 2228 777 N 1 0 0 1 -4 351 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC4
+Encoding: 2325 7876 2268
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 1970 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 310 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC5
+Encoding: 2326 7877 2269
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1751 basechar 0
+LayerCount: 6
+Fore
+Refer: 1658 771 N 1 0 0 1 -2 331 2
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC6
+Encoding: 2327 7878 2270
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 642 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 24 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC7
+Encoding: 2328 7879 2271
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 621 1471 basechar 0
+LayerCount: 6
+Fore
+Refer: 1673 710 N 1 0 0 1 0 1 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 161 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC8
+Encoding: 2329 7880 2272
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 43 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EC9
+Encoding: 2330 7881 2273
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 181 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ECE
+Encoding: 2331 7886 2274
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ECF
+Encoding: 2332 7887 2275
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED0
+Encoding: 2333 7888 2276
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2051 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 -9 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED1
+Encoding: 2334 7889 2277
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1810 basechar 0
+LayerCount: 6
+Fore
+Refer: 1652 769 N 1 0 0 1 -22 350 2
+Refer: 1673 710 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED2
+Encoding: 2335 7890 2278
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2058 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 12 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED3
+Encoding: 2336 7891 2279
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1810 basechar 0
+LayerCount: 6
+Fore
+Refer: 1651 768 N 1 0 0 1 22 350 2
+Refer: 1673 710 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED4
+Encoding: 2337 7892 2280
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2121 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 -4 359 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED5
+Encoding: 2338 7893 2281
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1901 basechar 0
+LayerCount: 6
+Fore
+Refer: 2228 777 N 1 0 0 1 -4 350 2
+Refer: 1673 710 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED6
+Encoding: 2339 7894 2282
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1970 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 310 2
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED7
+Encoding: 2340 7895 2283
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1750 basechar 0
+LayerCount: 6
+Fore
+Refer: 1658 771 N 1 0 0 1 -2 330 2
+Refer: 1673 710 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED8
+Encoding: 2341 7896 2284
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1689 -1 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1ED9
+Encoding: 2342 7897 2285
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1470 basechar 0
+LayerCount: 6
+Fore
+Refer: 1673 710 N 1 0 0 1 0 0 2
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDA
+Encoding: 2343 7898 2286
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1692 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDB
+Encoding: 2344 7899 2287
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1430 basechar 0
+LayerCount: 6
+Fore
+Refer: 1671 180 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDC
+Encoding: 2345 7900 2288
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1699 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDD
+Encoding: 2346 7901 2289
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1680 basechar 0
+LayerCount: 6
+Fore
+Refer: 1670 96 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDE
+Encoding: 2347 7902 2290
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EDF
+Encoding: 2348 7903 2291
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE0
+Encoding: 2349 7904 2292
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1660 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE1
+Encoding: 2350 7905 2293
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1420 basechar 0
+LayerCount: 6
+Fore
+Refer: 1678 732 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE2
+Encoding: 2351 7906 2294
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 70 360 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE3
+Encoding: 2352 7907 2295
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE4
+Encoding: 2353 7908 2296
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE5
+Encoding: 2354 7909 2297
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 10 0 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE6
+Encoding: 2355 7910 2298
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE7
+Encoding: 2356 7911 2299
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE8
+Encoding: 2357 7912 2300
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1692 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EE9
+Encoding: 2358 7913 2301
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1430 basechar 0
+LayerCount: 6
+Fore
+Refer: 1671 180 N 1 0 0 1 79 0 2
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EEA
+Encoding: 2359 7914 2302
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1699 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EEB
+Encoding: 2360 7915 2303
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1680 basechar 0
+LayerCount: 6
+Fore
+Refer: 1670 96 N 1 0 0 1 79 0 2
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EEC
+Encoding: 2361 7916 2304
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EED
+Encoding: 2362 7917 2305
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EEE
+Encoding: 2363 7918 2306
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1660 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 1 0 2
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EEF
+Encoding: 2364 7919 2307
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1420 basechar 0
+LayerCount: 6
+Fore
+Refer: 1678 732 N 1 0 0 1 79 0 2
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF0
+Encoding: 2365 7920 2308
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 2229 795 N 1 0 0 1 80 440 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF1
+Encoding: 2366 7921 2309
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 2119 803 N 1 0 0 1 10 0 2
+Refer: 2229 795 N 1 0 0 1 25 80 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF6
+Encoding: 2367 7926 2310
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 607 1762 basechar 0
+LayerCount: 6
+Fore
+Refer: 2227 -1 N 1 0 0 1 0 0 2
+Refer: 120 89 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF7
+Encoding: 2368 7927 2311
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 800 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1426 basechar 0
+LayerCount: 6
+Fore
+Refer: 2226 -1 N 1 0 0 1 0 1 2
+Refer: 261 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF8
+Encoding: 2369 7928 2312
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 607 1660 basechar 0
+LayerCount: 6
+Fore
+Refer: 1693 -1 N 1 0 0 1 0 0 2
+Refer: 120 89 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EF9
+Encoding: 2370 7929 2313
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 800 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1421 basechar 0
+LayerCount: 6
+Fore
+Refer: 1678 732 N 1 0 0 1 0 1 2
+Refer: 261 121 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01CD
+Encoding: 2371 461 2314
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1690 -1 N 1 0 0 1 0 0 2
+Refer: 1 65 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01CE
+Encoding: 2372 462 2315
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1441 basechar 0
+LayerCount: 6
+Fore
+Refer: 1675 711 N 1 0 0 1 0 1 2
+Refer: 138 97 N 1 0 0 1 0 0 3
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni01CE.cv01
+EndChar
+
+StartChar: uni01CF
+Encoding: 2373 463 2316
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1690 -1 N 1 0 0 1 0 0 2
+Refer: 43 73 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D0
+Encoding: 2374 464 2317
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1441 basechar 0
+LayerCount: 6
+Fore
+Refer: 1675 711 N 1 0 0 1 0 1 2
+Refer: 181 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D1
+Encoding: 2375 465 2318
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1690 -1 N 1 0 0 1 0 0 2
+Refer: 71 79 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D2
+Encoding: 2376 466 2319
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+AnchorPoint: "Anchor-0" 600 1440 basechar 0
+LayerCount: 6
+Fore
+Refer: 1675 711 N 1 0 0 1 0 0 2
+Refer: 212 111 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D3
+Encoding: 2377 467 2320
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1690 basechar 0
+LayerCount: 6
+Fore
+Refer: 1690 -1 N 1 0 0 1 0 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D4
+Encoding: 2378 468 2321
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1441 basechar 0
+LayerCount: 6
+Fore
+Refer: 1675 711 N 1 0 0 1 0 1 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D5
+Encoding: 2379 469 2322
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1840 basechar 0
+LayerCount: 6
+Fore
+Refer: 1694 -1 N 1 0 0 1 1 260 2
+Refer: 1684 -1 N 1 0 0 1 1 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D6
+Encoding: 2380 470 2323
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1600 basechar 0
+LayerCount: 6
+Fore
+Refer: 1659 772 N 1 0 0 1 -16 360 2
+Refer: 1668 168 N 1 0 0 1 -16 0 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D7
+Encoding: 2381 471 2324
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2001 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 -8 309 2
+Refer: 1684 -1 N 1 0 0 1 1 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D8
+Encoding: 2382 472 2325
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1740 basechar 0
+LayerCount: 6
+Fore
+Refer: 1652 769 N 1 0 0 1 -38 280 2
+Refer: 1668 168 N 1 0 0 1 -16 0 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01D9
+Encoding: 2383 473 2326
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2010 basechar 0
+LayerCount: 6
+Fore
+Refer: 1690 -1 N 1 0 0 1 1 320 2
+Refer: 1684 -1 N 1 0 0 1 1 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01DA
+Encoding: 2384 474 2327
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1770 basechar 0
+LayerCount: 6
+Fore
+Refer: 1655 780 N 1 0 0 1 -16 430 2
+Refer: 1668 168 N 1 0 0 1 -16 0 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01DB
+Encoding: 2385 475 2328
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 2008 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 14 309 2
+Refer: 1684 -1 N 1 0 0 1 1 0 2
+Refer: 102 85 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni01DC
+Encoding: 2386 476 2329
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1740 basechar 0
+LayerCount: 6
+Fore
+Refer: 1651 768 N 1 0 0 1 6 280 2
+Refer: 1668 168 N 1 0 0 1 -16 0 2
+Refer: 243 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: uni1EA1.cv01
+Encoding: 2387 -1 2330
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 2119 803 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni1EA3.cv01
+Encoding: 2388 -1 2331
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1426 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 2226 -1 N 1 0 0 1 -16 1 2
+EndChar
+
+StartChar: uni1EA5.cv01
+Encoding: 2389 -1 2332
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1811 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1673 710 N 1 0 0 1 -16 1 2
+Refer: 1652 769 N 1 0 0 1 -38 351 2
+EndChar
+
+StartChar: uni1EA7.cv01
+Encoding: 2390 -1 2333
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1811 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1673 710 N 1 0 0 1 -16 1 2
+Refer: 1651 768 N 1 0 0 1 6 351 2
+EndChar
+
+StartChar: uni1EA9.cv01
+Encoding: 2391 -1 2334
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1902 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1673 710 N 1 0 0 1 -16 1 2
+Refer: 2228 777 N 1 0 0 1 -20 351 2
+EndChar
+
+StartChar: uni1EAB.cv01
+Encoding: 2392 -1 2335
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1751 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1673 710 N 1 0 0 1 -16 1 2
+Refer: 1658 771 N 1 0 0 1 -18 331 2
+EndChar
+
+StartChar: uni1EAD.cv01
+Encoding: 2393 -1 2336
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1471 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 1673 710 N 1 0 0 1 -16 1 2
+EndChar
+
+StartChar: uni1EAF.cv01
+Encoding: 2394 -1 2337
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1765 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1676 728 N 1 0 0 1 -32 0 2
+Refer: 1652 769 N 1 0 0 1 -54 305 2
+EndChar
+
+StartChar: uni1EB1.cv01
+Encoding: 2395 -1 2338
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1765 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1676 728 N 1 0 0 1 -32 0 2
+Refer: 1651 768 N 1 0 0 1 -10 305 2
+EndChar
+
+StartChar: uni1EB3.cv01
+Encoding: 2396 -1 2339
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1856 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1676 728 N 1 0 0 1 -32 0 2
+Refer: 2228 777 N 1 0 0 1 -36 305 2
+EndChar
+
+StartChar: uni1EB5.cv01
+Encoding: 2397 -1 2340
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1705 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1676 728 N 1 0 0 1 -32 0 2
+Refer: 1658 771 N 1 0 0 1 -34 285 2
+EndChar
+
+StartChar: uni1EB7.cv01
+Encoding: 2398 -1 2341
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 2119 803 N 1 0 0 1 0 0 2
+Refer: 1676 728 N 1 0 0 1 -32 0 2
+EndChar
+
+StartChar: uni01CE.cv01
+Encoding: 2399 -1 2342
+Width: 1200
+VWidth: 0
+Flags: HW
+AnchorPoint: "Anchor-0" 568 1441 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 3
+Refer: 1675 711 N 1 0 0 1 -16 1 2
 EndChar
 EndChars
 EndSplineFont
