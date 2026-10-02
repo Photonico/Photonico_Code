@@ -4,7 +4,7 @@ FullName: Photonico Code Regular
 FamilyName: Photonico Code
 Weight: Regular
 Copyright: Copyright 2022-2027 Lu Niu (https://github.com/Photonico)
-Version: 1.6_alpha
+Version: 1.6
 ItalicAngle: 0
 UnderlinePosition: -125
 UnderlineWidth: 50
@@ -26,7 +26,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1790764996
+ModificationTime: 1790973806
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -59,7 +59,7 @@ OS2StrikeYPos: 318
 OS2CapHeight: 1300
 OS2XHeight: 960
 OS2Vendor: 'CTDB'
-OS2CodePages: 6000019b.ddd50000
+OS2CodePages: 6000019f.dfd70000
 OS2UnicodeRanges: e00002ef.1201f9fb.02002038.00000000
 Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > 'zinh' <'dflt' > 'zyyy' <'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'AFK ' 'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'PLK ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > 'zinh' <'dflt' > 'zyyy' <'dflt' > ) ]
@@ -4424,15 +4424,15 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 338 26 10
+WinInfo: 1274 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
-0 0 m 5
- 0 480 l 5
- 600 480 l 5
- 600 0 l 5
- 0 0 l 5
+0 0 m 1
+ 0 480 l 1
+ 600 480 l 1
+ 600 0 l 1
+ 0 0 l 1
 600 590 m 1
  600 650 l 1
  660 650 l 1
@@ -4451,7 +4451,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 645278 322638 215092 566231 1048576 215092 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-5" "'mark' Overlay Attachment lookup subtable" "Anchor-0" "'mark' Mark Positioning lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 1 subtable" "Anchor-2" "'mark' Mark Positioning lookup 1 subtable" "Anchor-3" "'mkmk' Mark to Mark lookup 2 subtable" "Anchor-4" "'mkmk' Mark to Mark lookup 3 subtable"
-BeginChars: 2400 2343
+BeginChars: 2507 2450
 
 StartChar: .notdef
 Encoding: 193 -1 0
@@ -16569,37 +16569,35 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 SplineSet
-900 1220 m 2
- 900 810 l 1
- 950 810 l 2
- 978 810 1000 788 1000 760 c 0
- 1000 732 978 710 950 710 c 2
- 850 710 l 1
- 750 710 l 2
- 722 710 700 732 700 760 c 0
- 700 788 722 810 750 810 c 2
- 800 810 l 1
- 800 1220 l 2
- 800 1286 738 1340 650 1340 c 0
- 540 1340 450 1232 450 1100 c 2
- 450 810 l 1
- 500 810 l 2
- 528 810 550 788 550 760 c 0
- 550 732 528 710 500 710 c 2
- 400 710 l 1
- 300 710 l 2
- 272 710 250 732 250 760 c 0
- 250 788 272 810 300 810 c 2
- 350 810 l 1
- 350 1330 l 1
- 300 1330 l 2
- 272 1330 250 1352 250 1380 c 0
- 250 1408 272 1430 300 1430 c 2
- 400 1430 l 2
- 428 1430 450 1408 450 1380 c 2
- 450 1315 l 1
- 490 1391 574 1435 650 1435 c 0
- 794 1435 900 1339 900 1220 c 2
+981 640 m 2
+ 716 640 l 2
+ 683 640 656 667 656 700 c 0
+ 656 733 683 760 716 760 c 2
+ 789 760 l 1
+ 789 1193 l 2
+ 789 1305 734 1337 633 1337 c 0
+ 525 1337 428 1197 428 1050 c 2
+ 428 760 l 1
+ 500 760 l 2
+ 534 760 560 733 560 700 c 0
+ 560 667 534 640 500 640 c 2
+ 235 640 l 2
+ 202 640 175 667 175 700 c 0
+ 175 733 202 760 235 760 c 2
+ 308 760 l 1
+ 308 1320 l 1
+ 235 1320 l 2
+ 202 1320 175 1347 175 1380 c 0
+ 175 1413 202 1440 235 1440 c 2
+ 368 1440 l 2
+ 401 1440 428 1413 428 1380 c 2
+ 428 1305 l 1
+ 459 1364 524 1457 641 1457 c 0
+ 813 1457 909 1365 909 1193 c 2
+ 909 760 l 1
+ 981 760 l 2
+ 1015 760 1041 733 1041 700 c 0
+ 1041 667 1015 640 981 640 c 2
 EndSplineSet
 Layer: 2
 SplineSet
@@ -29024,7 +29022,7 @@ SplineSet
  600 90 l 1
  600 407 755 808 862 1046 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 3
 SplineSet
 770 1035 m 132
@@ -30827,14 +30825,10 @@ Encoding: 823 8320 756
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: -396 100<489.123 710.877> -126 140<535.453 664.547> 184 100<489.123 710.877>
-VStem: 300 100<-202.343 90.3433> 530 140<-120.547 8.54688> 800 100<-202.343 90.3433>
-CounterMasks: 1 fc
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 746 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 776 8304 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2081
@@ -30845,8 +30839,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 747 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 777 185 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2082
@@ -30857,8 +30850,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 748 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 778 178 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2083
@@ -30866,13 +30858,10 @@ Encoding: 826 8323 759
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: -396 100<485.182 714.118> -96 100<530.567 709.57> 184 100<490.509 709.595>
-VStem: 740 100<-265.604 -125.921 35.0098 151.771>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 749 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 779 179 N 1 0 0 1 0 -1080 2
 Substitution2: "'cv14' Character Variants 14 lookup 374 subtable" uni2083.cv14
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni2083.cv14
 EndChar
@@ -30885,8 +30874,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 750 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 780 8308 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2085
@@ -30894,13 +30882,10 @@ Encoding: 828 8325 761
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: -396 100<485.182 704.782> -46 100<501.702 716.383> 174 100<500 839.433>
-VStem: 400 100<28 174> 740 100<-258.75 -69.617>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 751 -1 S 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 781 8309 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2086
@@ -30911,8 +30896,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 752 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 782 8310 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2087
@@ -30923,8 +30907,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 753 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 783 8311 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2088
@@ -30935,8 +30918,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 754 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 784 8312 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni2089
@@ -30944,13 +30926,10 @@ Encoding: 832 8329 765
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: -396 100<435.567 629.062> -116 100<485.882 726.498> 184 100<485.882 708.621>
-VStem: 360 100<14.3957 153.604> 740 100<-80.5171 151.437>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 755 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 785 8313 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: zero.numr
@@ -31118,14 +31097,26 @@ Encoding: 843 8304 776
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: 620 100<489.123 710.877> 890 140<535.453 664.547> 1200 100<489.123 710.877>
-VStem: 300 100<813.657 1106.34> 530 140<895.453 1024.55> 800 100<813.657 1106.34>
-CounterMasks: 1 fc
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 746 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+499 1180 m 0
+ 499 1236 544 1281 600 1281 c 0
+ 656 1281 701 1236 701 1180 c 0
+ 701 1124 656 1079 600 1079 c 0
+ 544 1079 499 1124 499 1180 c 0
+370 1180 m 0
+ 370 888 447 743 600 743 c 0
+ 753 743 830 888 830 1180 c 0
+ 830 1472 753 1617 600 1617 c 0
+ 447 1617 370 1472 370 1180 c 0
+250 1180 m 0
+ 250 1550 366 1737 600 1737 c 0
+ 834 1737 950 1550 950 1180 c 0
+ 950 810 834 623 600 623 c 0
+ 366 623 250 810 250 1180 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni00B9
@@ -31136,8 +31127,25 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 747 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+660 1660 m 2
+ 660 698 l 1
+ 540 698 l 1
+ 540 1464 l 1
+ 485 1429 419 1410 343 1410 c 0
+ 309 1410 283 1435 283 1470 c 0
+ 283 1504 309 1530 343 1530 c 0
+ 448 1530 540 1588 540 1660 c 0
+ 540 1695 565 1720 600 1720 c 0
+ 635 1720 660 1695 660 1660 c 2
+343 640 m 2
+ 310 640 283 667 283 700 c 0
+ 283 733 310 760 343 760 c 2
+ 857 760 l 2
+ 890 760 917 733 917 700 c 0
+ 917 667 890 640 857 640 c 2
+ 343 640 l 2
+EndSplineSet
 EndChar
 
 StartChar: uni00B2
@@ -31148,8 +31156,32 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 748 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+957 759 m 0
+ 908 680 864 623 724 623 c 0
+ 570 623 588 706 468 706 c 0
+ 424 706 380 684 337 641 c 0
+ 325 629 311 623 294 623 c 0
+ 262 623 234 646 234 683 c 0
+ 234 807 258 907 304 982 c 0
+ 388 1115 474 1164 616 1241 c 0
+ 732 1303 813 1349 813 1442 c 0
+ 813 1539 723 1617 600 1617 c 0
+ 474 1617 387 1536 387 1445 c 0
+ 387 1401 394 1402 395 1373 c 0
+ 395 1355 374 1322 336 1322 c 0
+ 289 1322 267 1364 267 1445 c 0
+ 267 1608 411 1737 600 1737 c 0
+ 794 1737 933 1602 933 1451 c 0
+ 933 1325 880 1235 631 1112 c 0
+ 476 1036 388 936 364 805 c 1
+ 399 820 429 826 464 826 c 0
+ 631 826 631 743 724 743 c 0
+ 810 743 822 768 856 823 c 0
+ 866 840 884 851 906 851 c 0
+ 940 851 966 824 966 791 c 0
+ 966 779 962 768 957 759 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni00B3
@@ -31157,13 +31189,32 @@ Encoding: 116 179 779
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: 620 100<485.182 714.118> 920 100<530.567 709.57> 1200 100<490.509 709.595>
-VStem: 740 100<750.396 890.079 1051.01 1167.77>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 749 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+272 851 m 0
+ 272 884 298 911 332 911 c 0
+ 337 911 373 909 388 873 c 0
+ 393 860 451 743 600 743 c 0
+ 728 743 830 837 830 957 c 0
+ 830 1076 728 1170 600 1170 c 2
+ 567 1170 l 2
+ 533 1170 507 1196 507 1230 c 0
+ 507 1263 533 1290 567 1290 c 2
+ 600 1290 l 2
+ 698 1290 776 1362 776 1453 c 0
+ 776 1544 698 1617 600 1617 c 0
+ 507 1617 455 1556 438 1518 c 0
+ 437 1516 422 1480 382 1480 c 0
+ 348 1480 322 1507 322 1540 c 0
+ 322 1578 408 1737 600 1737 c 0
+ 762 1737 896 1615 896 1449 c 0
+ 896 1341 871 1316 791 1237 c 1
+ 834 1210 950 1123 950 957 c 0
+ 950 770 795 623 600 623 c 0
+ 372 623 272 812 272 851 c 0
+EndSplineSet
 Substitution2: "'cv14' Character Variants 14 lookup 374 subtable" uni00B3.cv14
 Substitution2: "'aalt' Access All Alternates lookup 0 subtable" uni00B3.cv14
 EndChar
@@ -31176,8 +31227,32 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 750 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+545 1701 m 2
+ 555 1722 575 1737 600 1737 c 0
+ 633 1737 660 1710 660 1677 c 0
+ 660 1668 658 1659 655 1652 c 2
+ 387 1058 l 1
+ 906 1058 l 2
+ 940 1058 966 1031 966 998 c 0
+ 966 965 940 938 906 938 c 2
+ 294 938 l 2
+ 260 938 234 965 234 998 c 0
+ 234 1006 235 1015 239 1023 c 2
+ 545 1701 l 2
+743 1304 m 2
+ 743 760 l 1
+ 848 760 l 2
+ 882 760 908 733 908 700 c 0
+ 908 667 882 640 848 640 c 2
+ 517 640 l 2
+ 484 640 457 667 457 700 c 0
+ 457 733 484 760 517 760 c 2
+ 623 760 l 1
+ 623 1304 l 2
+ 623 1338 649 1364 683 1364 c 0
+ 716 1364 743 1338 743 1304 c 2
+EndSplineSet
 EndChar
 
 StartChar: uni2075
@@ -31185,13 +31260,32 @@ Encoding: 845 8309 781
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: 620 100<485.182 704.782> 970 100<501.702 716.383> 1190 100<500 839.433>
-VStem: 400 100<1044 1190> 740 100<757.25 946.383>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 751 -1 S 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+857 1720 m 2
+ 890 1720 917 1693 917 1660 c 0
+ 917 1627 890 1600 857 1600 c 2
+ 445 1600 l 1
+ 445 1304 l 1
+ 493 1327 543 1339 600 1339 c 0
+ 803 1339 966 1177 966 981 c 0
+ 966 786 803 623 600 623 c 0
+ 528 623 396 648 299 777 c 0
+ 292 787 289 799 289 811 c 0
+ 289 844 316 871 349 871 c 0
+ 369 871 388 861 399 844 c 1
+ 463 761 550 743 600 743 c 0
+ 744 743 846 860 846 981 c 0
+ 846 1103 744 1219 600 1219 c 0
+ 534 1219 475 1195 428 1152 c 0
+ 417 1140 402 1133 385 1133 c 0
+ 351 1133 325 1160 325 1193 c 2
+ 325 1660 l 2
+ 325 1693 351 1720 385 1720 c 2
+ 857 1720 l 2
+EndSplineSet
 EndChar
 
 StartChar: uni2076
@@ -31202,8 +31296,22 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 752 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+267 957 m 0
+ 267 1404 516 1737 823 1737 c 0
+ 857 1737 883 1710 883 1677 c 0
+ 883 1643 857 1617 823 1617 c 0
+ 649 1617 492 1460 430 1243 c 1
+ 481 1274 536 1290 600 1290 c 0
+ 784 1290 933 1141 933 957 c 0
+ 933 773 784 623 600 623 c 0
+ 416 623 267 773 267 957 c 0
+387 957 m 0
+ 387 839 482 743 600 743 c 0
+ 718 743 813 839 813 957 c 0
+ 813 1075 718 1170 600 1170 c 0
+ 482 1170 387 1075 387 957 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni2077
@@ -31214,8 +31322,27 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 753 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+813 1505 m 1
+ 793 1499 777 1497 757 1497 c 0
+ 597 1497 589 1600 484 1600 c 0
+ 430 1600 341 1535 316 1510 c 0
+ 305 1499 290 1492 273 1492 c 0
+ 240 1492 213 1519 213 1552 c 0
+ 213 1569 218 1582 229 1594 c 0
+ 265 1629 381 1720 484 1720 c 0
+ 644 1720 653 1617 757 1617 c 0
+ 803 1617 873 1662 910 1692 c 0
+ 920 1701 933 1705 948 1705 c 0
+ 981 1705 1008 1679 1008 1645 c 0
+ 1008 1633 1004 1622 998 1613 c 0
+ 988 1597 718 1087 718 717 c 2
+ 718 683 l 2
+ 718 650 691 623 658 623 c 0
+ 625 623 598 650 598 683 c 2
+ 598 717 l 2
+ 598 979 725 1308 813 1505 c 1
+EndSplineSet
 EndChar
 
 StartChar: uni2078
@@ -31226,8 +31353,27 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 754 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+776 1461 m 0
+ 776 1553 698 1617 600 1617 c 0
+ 502 1617 424 1553 424 1461 c 0
+ 424 1363 502 1322 600 1286 c 1
+ 698 1323 776 1363 776 1461 c 0
+896 1459 m 0
+ 896 1334 835 1271 753 1229 c 1
+ 860 1182 950 1110 950 944 c 0
+ 950 757 795 623 600 623 c 0
+ 405 623 250 757 250 944 c 0
+ 250 1110 340 1182 447 1229 c 1
+ 365 1271 304 1334 304 1459 c 0
+ 304 1624 438 1737 600 1737 c 0
+ 762 1737 896 1625 896 1459 c 0
+830 944 m 0
+ 830 1083 720 1127 600 1169 c 1
+ 480 1127 370 1083 370 944 c 0
+ 370 825 472 743 600 743 c 0
+ 728 743 830 825 830 944 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni2079
@@ -31235,13 +31381,25 @@ Encoding: 849 8313 785
 Width: 1200
 GlyphClass: 1
 Flags: HW
-HStem: 620 100<435.567 629.062> 900 100<485.882 726.498> 1200 100<485.882 708.621>
-VStem: 360 100<1030.4 1169.6> 740 100<935.483 1167.44>
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 755 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+933 1403 m 0
+ 933 956 743 623 434 623 c 0
+ 401 623 374 650 374 683 c 0
+ 374 717 401 743 434 743 c 0
+ 608 743 707 900 770 1117 c 1
+ 719 1086 664 1070 600 1070 c 0
+ 416 1070 267 1219 267 1403 c 0
+ 267 1587 416 1737 600 1737 c 0
+ 784 1737 933 1587 933 1403 c 0
+813 1403 m 0
+ 813 1521 718 1617 600 1617 c 0
+ 482 1617 387 1521 387 1403 c 0
+ 387 1285 482 1190 600 1190 c 0
+ 718 1190 813 1285 813 1403 c 0
+EndSplineSet
 EndChar
 
 StartChar: fraction
@@ -38502,7 +38660,7 @@ SplineSet
  1010 -190 l 2
  1049.04101562 -190 1080 -220.95703125 1080 -260 c 128
 EndSplineSet
-Validated: 524289
+Validated: 1
 Substitution2: "Single Substitution lookup 315 subtable" underscore_start.seq
 Substitution2: "Single Substitution lookup 314 subtable" underscore_start.seq
 Substitution2: "Single Substitution lookup 313 subtable" underscore_end.seq
@@ -38629,8 +38787,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 883 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 954 8317 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni208E
@@ -38641,7 +38798,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 884 -1 N 1 0 0 1 0 -386 3
+Refer: 955 8318 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: parenleft
@@ -39142,8 +39299,19 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 883 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+660 575 m 0
+ 476 736 381 938 381 1180 c 0
+ 381 1422 476 1624 660 1785 c 0
+ 670 1795 683 1800 697 1800 c 0
+ 726 1800 750 1776 750 1747 c 0
+ 750 1733 744 1720 734 1710 c 1
+ 580 1577 501 1399 501 1180 c 0
+ 501 961 580 783 734 650 c 1
+ 744 640 750 627 750 613 c 0
+ 750 584 726 560 697 560 c 0
+ 683 560 670 565 660 575 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni207E
@@ -39154,7 +39322,19 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 884 -1 N 1 0 0 1 0 630 3
+SplineSet
+466 650 m 1
+ 620 783 699 961 699 1180 c 0
+ 699 1399 620 1577 466 1710 c 1
+ 456 1720 450 1733 450 1747 c 0
+ 450 1776 474 1800 503 1800 c 0
+ 517 1800 530 1795 540 1785 c 0
+ 724 1624 819 1422 819 1180 c 0
+ 819 938 724 736 540 575 c 0
+ 530 565 517 560 503 560 c 0
+ 474 560 450 584 450 613 c 0
+ 450 627 456 640 466 650 c 1
+EndSplineSet
 EndChar
 
 StartChar: parenleft.case
@@ -39326,7 +39506,7 @@ SplineSet
  330.666666667 580 314.166666667 586.833333333 300.5 600.5 c 132
  286.833333333 614.166666667 280 630.666666667 280 650 c 132
 EndSplineSet
-Validated: 524289
+Validated: 1
 Layer: 2
 SplineSet
 280 650 m 0
@@ -41987,7 +42167,7 @@ SplineSet
  233.333333333 714.666666667 286.333333333 777.833333333 355 845.5 c 128
  423.666666667 913.166666667 505.333333333 990.666666667 600 1078 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: club
@@ -42030,7 +42210,7 @@ SplineSet
  360 952 382 999.666666667 426 1031 c 128
  470 1062.33333333 528 1078 600 1078 c 256
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: heart
@@ -42058,7 +42238,7 @@ SplineSet
  630 939.333333333 665 989.666666667 705 1025 c 128
  745 1060.33333333 799.333333333 1078 868 1078 c 0
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: diamond
@@ -53049,7 +53229,7 @@ SplineSet
  390 659 950 856 950 450 c 131
  950 331 883 181 670 154 c 1
 EndSplineSet
-Validated: 1572865
+Validated: 1
 Layer: 4
 SplineSet
 225 373 m 4
@@ -54784,8 +54964,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1142 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 1248 8316 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni207C
@@ -54796,8 +54975,22 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1142 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+991 1354 m 0
+ 991 1320 964 1294 931 1294 c 2
+ 269 1294 l 2
+ 236 1294 209 1320 209 1354 c 0
+ 209 1387 236 1414 269 1414 c 2
+ 931 1414 l 2
+ 964 1414 991 1387 991 1354 c 0
+991 1006 m 0
+ 991 973 964 946 931 946 c 2
+ 269 946 l 2
+ 236 946 209 973 209 1006 c 0
+ 209 1040 236 1066 269 1066 c 2
+ 931 1066 l 2
+ 964 1066 991 1040 991 1006 c 0
+EndSplineSet
 EndChar
 
 StartChar: equivalence
@@ -55363,8 +55556,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1141 -1 N 1 0 0 1 0 -386 3
-Validated: 1
+Refer: 1262 8315 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni207B
@@ -55375,8 +55567,15 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1141 -1 N 1 0 0 1 0 630 3
-Validated: 1
+SplineSet
+933 1180 m 0
+ 933 1147 907 1120 873 1120 c 2
+ 327 1120 l 2
+ 293 1120 267 1147 267 1180 c 0
+ 267 1213 293 1240 327 1240 c 2
+ 873 1240 l 2
+ 907 1240 933 1213 933 1180 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni2242
@@ -58340,7 +58539,7 @@ SplineSet
  500 888 410 780 300 780 c 0
  190 780 100 888 100 1020 c 0
 EndSplineSet
-Refer: 786 8260 N 1 0 0 1 600 0 2
+Refer: 786 8260 N 1 0 0 1 600 80 2
 Layer: 2
 SplineSet
 940 280 m 4
@@ -58397,8 +58596,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1140 -1 N 1 0 0 1 0 -386 3
-Validated: 5
+Refer: 1315 8314 N 1 0 0 1 0 -1080 2
 EndChar
 
 StartChar: uni207A
@@ -58409,8 +58607,25 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1140 -1 N 1 0 0 1 0 630 3
-Validated: 5
+SplineSet
+600 789 m 0
+ 567 789 540 816 540 849 c 2
+ 540 1120 l 1
+ 269 1120 l 2
+ 236 1120 209 1147 209 1180 c 0
+ 209 1213 236 1240 269 1240 c 2
+ 540 1240 l 1
+ 540 1511 l 2
+ 540 1544 567 1571 600 1571 c 0
+ 633 1571 660 1544 660 1511 c 2
+ 660 1240 l 1
+ 931 1240 l 2
+ 964 1240 991 1213 991 1180 c 0
+ 991 1147 964 1120 931 1120 c 2
+ 660 1120 l 1
+ 660 849 l 2
+ 660 816 633 789 600 789 c 0
+EndSplineSet
 EndChar
 
 StartChar: uni2237
@@ -59560,7 +59775,7 @@ SplineSet
  500 888 410 780 300 780 c 0
  190 780 100 888 100 1020 c 0
 EndSplineSet
-Refer: 786 8260 N 1 0 0 1 600 0 2
+Refer: 786 8260 N 1 0 0 1 600 80 2
 Layer: 2
 SplineSet
 400 280 m 4
@@ -73121,7 +73336,7 @@ SplineSet
  689.333333333 1336 773.5 1319 852.5 1285 c 128
  931.5 1251 1000.33333333 1204.66666667 1059 1146 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEE07
@@ -73148,7 +73363,7 @@ SplineSet
  779.5 1172.16666667 694 1195 600 1195 c 1
  600 1336 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEE08
@@ -73177,7 +73392,7 @@ SplineSet
  774.166666667 52.8333333333 690 36 600 36 c 0
  544 36 487.666666667 43.3333333333 431 58 c 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEE09
@@ -73207,7 +73422,7 @@ SplineSet
  1086.16666667 506.5 1109 592 1109 686 c 1
  1250 686 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: uniEE0A
@@ -76609,7 +76824,29 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1783 -1 N 1 0 0 1 0 -630 2
+SplineSet
+699 428 m 1
+ 786 400 840 323 840 220 c 0
+ 840 88 732 -10 600 -10 c 0
+ 510 -10 429 31 388 93 c 0
+ 383 101 380 110 380 120 c 0
+ 380 148 402 170 430 170 c 0
+ 448 170 463 161 472 147 c 0
+ 494 113 544 90 600 90 c 0
+ 677 90 740 143 740 220 c 0
+ 740 297 697 340 620 340 c 2
+ 600.222050863 340 l 2
+ 572.441805433 340 549.9214669 362.520338532 549.9214669 390.30058396 c 0
+ 549.9214669 402.34942672 554.246447352 413.99799396 562.109658843 423.12731578 c 2
+ 680 560 l 1
+ 450 560 l 2
+ 422 560 400 582 400 610 c 0
+ 400 638 422 660 450 660 c 2
+ 789.777164633 660 l 2
+ 817.557410063 660 840.077748596 637.47966147 840.077748596 609.69941604 c 0
+ 840.077748596 597.60636936 835.721036503 585.91809643 827.805604045 576.77546514 c 2
+ 699 428 l 1
+EndSplineSet
 Layer: 2
 SplineSet
 699 428 m 5
@@ -76668,7 +76905,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1783 -1 N 1 0 0 1 0 106 2
+Refer: 1778 -1 N 1 0 0 1 0 736 2
 Layer: 2
 SplineSet
 699 1164 m 5
@@ -76703,7 +76940,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1783 -1 N 1 0 0 1 0 -630 2
+Refer: 1778 -1 N 1 0 0 1 0 0 2
 Layer: 2
 SplineSet
 699 428 m 5
@@ -76738,7 +76975,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1783 -1 N 1 0 0 1 0 -1016 2
+Refer: 1783 -1 N 1 0 0 1 0 -1080 2
 Layer: 2
 SplineSet
 699 42 m 5
@@ -76773,7 +77010,7 @@ Flags: HW
 AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
-Refer: 1783 -1 N 1 0 0 1 0 106 2
+Refer: 1778 -1 N 1 0 0 1 0 736 2
 Layer: 2
 SplineSet
 699 1164 m 5
@@ -76808,27 +77045,27 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 6
 Fore
 SplineSet
-699 1058 m 1
- 786 1030 840 953 840 850 c 0
- 840 718 732 620 600 620 c 0
- 510 620 429 661 388 723 c 0
- 383 731 380 740 380 750 c 0
- 380 778 402 800 430 800 c 0
- 448 800 463 791 472 777 c 0
- 494 743 544 720 600 720 c 0
- 677 720 740 773 740 850 c 0
- 740 927 697 970 620 970 c 2
- 600.222050863 970 l 2
- 572.441805433 970 549.9214669 992.520338532 549.9214669 1020.30058396 c 0
- 549.9214669 1032.34942672 554.246447352 1043.99799396 562.109658843 1053.12731578 c 2
- 680 1190 l 1
- 450 1190 l 2
- 422 1190 400 1212 400 1240 c 0
- 400 1268 422 1290 450 1290 c 2
- 789.777164633 1290 l 2
- 817.557410063 1290 840.077748596 1267.47966147 840.077748596 1239.69941604 c 0
- 840.077748596 1227.60636936 835.721036503 1215.91809643 827.805604045 1206.77546514 c 2
- 699 1058 l 1
+681 1330 m 1
+ 846 1295 966 1151 966 981 c 0
+ 966 786 803 623 600 623 c 0
+ 528 623 396 648 299 777 c 0
+ 292 787 289 799 289 811 c 0
+ 289 844 316 871 349 871 c 0
+ 369 871 388 861 399 844 c 1
+ 463 761 550 743 600 743 c 0
+ 744 743 846 860 846 981 c 0
+ 846 1103 744 1219 600 1219 c 2
+ 567 1219 l 2
+ 533 1219 507 1246 507 1279 c 0
+ 507 1293 512 1306 520 1316 c 2
+ 736 1600 l 1
+ 343 1600 l 2
+ 310 1600 283 1627 283 1660 c 0
+ 283 1693 310 1720 343 1720 c 2
+ 857 1720 l 2
+ 890 1720 917 1693 917 1660 c 0
+ 917 1647 912 1635 905 1624 c 1
+ 681 1330 l 1
 EndSplineSet
 Layer: 2
 SplineSet
@@ -96256,21 +96493,19 @@ Flags: HW
 LayerCount: 6
 Fore
 SplineSet
-810 1355 m 0
- 810 1288 774 1217 670 1182 c 1
- 670 1160 l 2
- 670 1121 639 1090 600 1090 c 0
- 561 1090 530 1121 530 1160 c 2
- 530 1220 l 2
- 530 1255 550 1295 603 1308 c 0
- 619 1312 651 1322 664 1337 c 0
- 668 1341 670 1345 670 1355 c 0
- 670 1392.85351357 638.170136336 1405 605 1405 c 0
- 570 1405 540 1392 540 1345 c 0
- 540 1306 509 1275 470 1275 c 0
- 431 1275 400 1306 400 1345 c 0
- 400 1465 488 1545 605 1545 c 0
- 729 1545 810 1458 810 1355 c 0
+380 1380 m 0
+ 380 1502 478 1600 600 1600 c 0
+ 722 1600 820 1502 820 1380 c 0
+ 820 1274 741 1221 660 1190 c 1
+ 660 1150 l 2
+ 660 1117 633 1090 600 1090 c 0
+ 567 1090 540 1117 540 1150 c 2
+ 540 1220 l 2
+ 540 1324 700 1286 700 1380 c 0
+ 700 1435 655 1480 600 1480 c 0
+ 545 1480 500 1435 500 1380 c 0
+ 500 1347 473 1320 440 1320 c 0
+ 407 1320 380 1347 380 1380 c 0
 EndSplineSet
 EndChar
 
@@ -96282,20 +96517,17 @@ Flags: HW
 LayerCount: 6
 Fore
 SplineSet
-604 1882 m 0
- 720 1882 796 1800 796 1704 c 0
- 796 1678 791 1579 655 1538 c 1
- 641.786859032 1520.89455195 621.392631492 1510.8779926 599.778204658 1510.8779926 c 0
- 561.240766355 1510.8779926 530 1542.11875896 530 1580.65619726 c 2
- 530 1582 l 2
- 530 1614 548 1655 601 1668 c 0
- 612 1671 643 1679 653 1692 c 0
- 655 1695 656 1696 656 1704 c 0
- 656 1732.39296664 628.398222995 1742 604 1742 c 0
- 553 1742 553 1706 553 1694 c 0
- 553 1655 522 1624 483 1624 c 0
- 444 1624 413 1655 413 1694 c 0
- 413 1806 494 1882 604 1882 c 0
+380 1740 m 0
+ 380 1862 478 1960 600 1960 c 0
+ 722 1960 820 1862 820 1740 c 0
+ 820 1632 742 1572 652 1540 c 1
+ 641 1522 621 1510 600 1510 c 0
+ 567 1510 540 1537 540 1570 c 0
+ 540 1686 700 1633 700 1740 c 0
+ 700 1795 655 1840 600 1840 c 0
+ 545 1840 500 1795 500 1740 c 0
+ 500 1707 473 1680 440 1680 c 0
+ 407 1680 380 1707 380 1740 c 0
 EndSplineSet
 EndChar
 
@@ -97873,6 +98105,3167 @@ LayerCount: 6
 Fore
 Refer: 270 -1 N 1 0 0 1 0 0 3
 Refer: 1675 711 N 1 0 0 1 -16 1 2
+EndChar
+
+StartChar: uni0410
+Encoding: 2400 1040 2343
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1378 basechar 0
+AnchorPoint: "Anchor-1" 596 1 basechar 0
+LayerCount: 6
+Fore
+Refer: 1 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0412
+Encoding: 2401 1042 2344
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 13 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0415
+Encoding: 2402 1045 2345
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 642 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 24 69 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0401
+Encoding: 2403 1025 2346
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-0" 642 1640.08 basechar 0
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 651 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 29 203 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni041A
+Encoding: 2404 1050 2347
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 653 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 56 75 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni041C
+Encoding: 2405 1052 2348
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 64 77 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni041D
+Encoding: 2406 1053 2349
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 40 72 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni041E
+Encoding: 2407 1054 2350
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 71 79 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0420
+Encoding: 2408 1056 2351
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 83 80 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0421
+Encoding: 2409 1057 2352
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 731 1377 basechar 0
+AnchorPoint: "Anchor-1" 598 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 14 67 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0422
+Encoding: 2410 1058 2353
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 598 1377 basechar 0
+AnchorPoint: "Anchor-1" 598 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 97 84 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0425
+Encoding: 2411 1061 2354
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 119 88 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0413
+Encoding: 2412 1043 2355
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 697 1377 basechar 0
+AnchorPoint: "Anchor-1" 359 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 378 915 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni041F
+Encoding: 2413 1055 2356
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 391 928 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0424
+Encoding: 2414 1060 2357
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 396 934 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni042C
+Encoding: 2415 1068 2358
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 620 0 basechar 0
+AnchorPoint: "Anchor-0" 620 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+220 140 m 2
+ 310 140 l 1
+ 310 1160 l 1
+ 220 1160 l 2
+ 181.34 1160 150 1191.34 150 1230 c 0
+ 150 1268.66 181.34 1300 220 1300 c 2
+ 540 1300 l 2
+ 578.66 1300 610 1268.66 610 1230 c 0
+ 610 1191.34 578.66 1160 540 1160 c 2
+ 450 1160 l 1
+ 450 750 l 1
+ 715 750 l 2
+ 922.107 750 1090 582.107 1090 375 c 0
+ 1090 167.893 922.107 0 715 0 c 2
+ 220 0 l 2
+ 181.34 0 150 31.34 150 70 c 0
+ 150 108.66 181.34 140 220 140 c 2
+450 140 m 1
+ 715 140 l 2
+ 844.787 140 950 245.213 950 375 c 0
+ 950 504.787 844.787 610 715 610 c 2
+ 450 610 l 1
+ 450 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0411
+Encoding: 2416 1041 2359
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 620 0 basechar 0
+AnchorPoint: "Anchor-0" 620 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+220 140 m 2
+ 310 140 l 1
+ 310 1160 l 1
+ 220 1160 l 2
+ 181.34 1160 150 1191.34 150 1230 c 0
+ 150 1268.66 181.34 1300 220 1300 c 2
+ 1020 1300 l 2
+ 1058.66 1300 1090 1268.66 1090 1230 c 2
+ 1090 1030 l 2
+ 1090 991.34 1058.66 960 1020 960 c 0
+ 981.34 960 950 991.34 950 1030 c 2
+ 950 1160 l 1
+ 450 1160 l 1
+ 450 750 l 1
+ 715 750 l 2
+ 922.107 750 1090 582.107 1090 375 c 0
+ 1090 167.893 922.107 0 715 0 c 2
+ 220 0 l 2
+ 181.34 0 150 31.34 150 70 c 0
+ 150 108.66 181.34 140 220 140 c 2
+450 140 m 1
+ 715 140 l 2
+ 844.787 140 950 245.213 950 375 c 0
+ 950 504.787 844.787 610 715 610 c 2
+ 450 610 l 1
+ 450 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042A
+Encoding: 2417 1066 2360
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+310 140 m 2
+ 400 140 l 1
+ 400 1160 l 1
+ 230 1160 l 1
+ 230 1030 l 2
+ 230 991.34 198.66 960 160 960 c 0
+ 121.34 960 90 991.34 90 1030 c 2
+ 90 1230 l 2
+ 90 1268.66 121.34 1300 160 1300 c 2
+ 630 1300 l 2
+ 668.66 1300 700 1268.66 700 1230 c 0
+ 700 1191.34 668.66 1160 630 1160 c 2
+ 540 1160 l 1
+ 540 750 l 1
+ 735 750 l 2
+ 942.107 750 1110 582.107 1110 375 c 0
+ 1110 167.893 942.107 0 735 0 c 2
+ 310 0 l 2
+ 271.34 0 240 31.34 240 70 c 0
+ 240 108.66 271.34 140 310 140 c 2
+540 140 m 1
+ 735 140 l 2
+ 864.787 140 970 245.213 970 375 c 0
+ 970 504.787 864.787 610 735 610 c 2
+ 540 610 l 1
+ 540 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042B
+Encoding: 2418 1067 2361
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 580 0 basechar 0
+AnchorPoint: "Anchor-0" 580 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 1160 l 1
+ 70 1160 l 2
+ 31.34 1160 0 1191.34 0 1230 c 0
+ 0 1268.66 31.34 1300 70 1300 c 2
+ 330 1300 l 2
+ 368.66 1300 400 1268.66 400 1230 c 0
+ 400 1191.34 368.66 1160 330 1160 c 2
+ 250 1160 l 1
+ 250 750 l 1
+ 425 750 l 2
+ 632.107 750 800 582.107 800 375 c 0
+ 800 167.893 632.107 0 425 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+850 140 m 2
+ 900 140 l 1
+ 900 1160 l 1
+ 850 1160 l 2
+ 811.34 1160 780 1191.34 780 1230 c 0
+ 780 1268.66 811.34 1300 850 1300 c 2
+ 1090 1300 l 2
+ 1128.66 1300 1160 1268.66 1160 1230 c 0
+ 1160 1191.34 1128.66 1160 1090 1160 c 2
+ 1040 1160 l 1
+ 1040 140 l 1
+ 1090 140 l 2
+ 1128.66 140 1160 108.66 1160 70 c 0
+ 1160 31.34 1128.66 0 1090 0 c 2
+ 850 0 l 2
+ 811.34 0 780 31.34 780 70 c 0
+ 780 108.66 811.34 140 850 140 c 2
+250 140 m 1
+ 425 140 l 2
+ 554.787 140 660 245.213 660 375 c 0
+ 660 504.787 554.787 610 425 610 c 2
+ 250 610 l 1
+ 250 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni042D
+Encoding: 2419 1069 2362
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 1031 m 2
+ 160 1087 154.936 1129.492 142.667 1169 c 1
+ 134 1203 l 2
+ 132.622 1208.536 131.926 1214.22 131.926 1219.925 c 0
+ 131.926 1258.636 163.307 1290.017 202.018 1290.017 c 0
+ 234.024 1290.017 261.965 1268.337 269.914 1237.334 c 2
+ 280 1198 l 1
+ 362.072 1274.769 464.343 1320 580 1320 c 0
+ 878 1320 1090 1020 1090 650 c 0
+ 1090 280 878 -20 580 -20 c 0
+ 404 -20 259 84 169 246 c 0
+ 163 256 160 268 160 280 c 0
+ 160 319 191 350 230 350 c 0
+ 257 350 279 336 291 314 c 0
+ 356 195 455 120 580 120 c 0
+ 783.099 120 925.39 320.161 947.108 580 c 1
+ 520 580 l 2
+ 481.34 580 450 611.34 450 650 c 0
+ 450 688.66 481.34 720 520 720 c 2
+ 947.108 720 l 1
+ 925.39 979.839 783.099 1180 580 1180 c 0
+ 461 1180 365 1112 300 1002 c 1
+ 300 890 l 2
+ 300 851 269 820 230 820 c 0
+ 191 820 160 851 160 890 c 2
+ 160 1031 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni042E
+Encoding: 2420 1070 2363
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 555 0 basechar 0
+AnchorPoint: "Anchor-0" 555 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 1160 l 1
+ 70 1160 l 2
+ 31.34 1160 0 1191.34 0 1230 c 0
+ 0 1268.66 31.34 1300 70 1300 c 2
+ 290 1300 l 2
+ 328.66 1300 360 1268.66 360 1230 c 0
+ 360 1191.34 328.66 1160 290 1160 c 2
+ 250 1160 l 1
+ 250 720 l 1
+ 431.25 720 l 1
+ 445.86 1120.189 586.92 1320 770 1320 c 0
+ 963.46 1320 1110 1096.89 1110 650 c 0
+ 1110 203.11 963.46 -20 770 -20 c 0
+ 586.92 -20 445.86 179.811 431.25 580 c 1
+ 250 580 l 1
+ 250 140 l 1
+ 290 140 l 2
+ 328.66 140 360 108.66 360 70 c 0
+ 360 31.34 328.66 0 290 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+970 650 m 0
+ 970 1003.51 883.8 1180 770 1180 c 0
+ 656.2 1180 570 1003.51 570 650 c 0
+ 570 296.49 656.2 120 770 120 c 0
+ 883.8 120 970 296.49 970 650 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni042F
+Encoding: 2421 1071 2364
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+396 617 m 1
+ 281.108 681.644 210.01 803.226 210.01 935.056 c 0
+ 210.01 1136.609 373.401 1300 574.954 1300 c 2
+ 1040 1300 l 2
+ 1079 1300 1110 1269 1110 1230 c 0
+ 1110 1191 1079 1160 1040 1160 c 2
+ 950 1160 l 1
+ 950 140 l 1
+ 1040 140 l 2
+ 1079 140 1110 109 1110 70 c 0
+ 1110 31 1079 0 1040 0 c 2
+ 719.793 0 l 2
+ 681.133 0 649.793 31.34 649.793 70 c 0
+ 649.793 108.66 681.133 140 719.793 140 c 2
+ 810 140 l 1
+ 810 570 l 1
+ 610 570 l 2
+ 335 570 540.002 -20 220 -20 c 0
+ 149.917 -20 84.743 21.811 49 85 c 0
+ 43.135 95.263 40 107.201 40 120 c 0
+ 40 159 71 190 110 190 c 0
+ 136.201 190 158.994 176.009 171 155 c 0
+ 182.015 134.237 201.016 120 220 120 c 0
+ 324.091 120 262 451 396 617 c 1
+575 710 m 2
+ 810 710 l 1
+ 810 1160 l 1
+ 575 1160 l 2
+ 451 1160 350 1059 350 935 c 0
+ 350 811 451 710 575 710 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0418
+Encoding: 2422 1048 2365
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 603 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+775.712 1258 m 2
+ 786.401 1282.844 810.987 1300 840 1300 c 2
+ 1070.214 1300 l 2
+ 1108.874 1300 1140.214 1268.66 1140.214 1230 c 0
+ 1140.214 1191.34 1108.874 1160 1070.214 1160 c 2
+ 980 1160 l 1
+ 980 140 l 1
+ 1070.214 140 l 2
+ 1108.874 140 1140.214 108.66 1140.214 70 c 0
+ 1140.214 31.34 1108.874 0 1070.214 0 c 2
+ 749.786 0 l 2
+ 711.126 0 679.786 31.34 679.786 70 c 0
+ 679.786 108.66 711.126 140 749.786 140 c 2
+ 840 140 l 1
+ 840 1049 l 1
+ 424.288 42 l 2
+ 413.599 17.157 389.013 0 360 0 c 2
+ 290 0 l 2
+ 251 0 220 31 220 70 c 2
+ 220 1160 l 1
+ 129.786 1160 l 2
+ 91.126 1160 59.786 1191.34 59.786 1230 c 0
+ 59.786 1268.66 91.126 1300 129.786 1300 c 2
+ 450.214 1300 l 2
+ 488.874 1300 520.214 1268.66 520.214 1230 c 0
+ 520.214 1191.34 488.874 1160 450.214 1160 c 2
+ 360 1160 l 1
+ 360 251 l 1
+ 775.712 1258 l 2
+EndSplineSet
+EndChar
+
+StartChar: uni0419
+Encoding: 2423 1049 2366
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 603 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1675 basechar 0
+LayerCount: 6
+Fore
+Refer: 1691 -1 N 1 0 0 1 3 0 2
+Refer: 2365 1048 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0416
+Encoding: 2424 1046 2367
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+530 70 m 2
+ 530 468.931 l 1
+ 317.102 125.928 l 1
+ 334.046 113.153 345 92.856 345 70 c 0
+ 345 31.34 313.66 0 275 0 c 2
+ 130 0 l 2
+ 91.34 0 60 31.34 60 70 c 0
+ 60 108.66 91.34 140 130 140 c 2
+ 161.06 140 l 1
+ 477.772 650.257 l 1
+ 165.774 1160 l 1
+ 130 1160 l 2
+ 91.34 1160 60 1191.34 60 1230 c 0
+ 60 1268.66 91.34 1300 130 1300 c 2
+ 285 1300 l 2
+ 323.66 1300 355 1268.66 355 1230 c 0
+ 355 1205.367 342.276 1183.706 323.043 1171.23 c 1
+ 530 833.102 l 1
+ 530 1230 l 2
+ 530 1268.66 561.34 1300 600 1300 c 0
+ 638.66 1300 670 1268.66 670 1230 c 2
+ 670 833.102 l 1
+ 876.957 1171.23 l 1
+ 857.724 1183.706 845 1205.367 845 1230 c 0
+ 845 1268.66 876.34 1300 915 1300 c 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 1034.226 1160 l 1
+ 722.228 650.257 l 1
+ 1038.94 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 0
+ 1140 31.34 1108.66 0 1070 0 c 2
+ 925 0 l 2
+ 886.34 0 855 31.34 855 70 c 0
+ 855 92.856 865.954 113.153 882.898 125.928 c 1
+ 670 468.931 l 1
+ 670 70 l 2
+ 670 31.34 638.66 0 600 0 c 0
+ 561.34 0 530 31.34 530 70 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0417
+Encoding: 2425 1047 2368
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+700 610 m 2
+ 470 610 l 2
+ 431.34 610 400 641.34 400 680 c 0
+ 400 718.66 431.34 750 470 750 c 2
+ 700 750 l 2
+ 813.218 750 905 841.782 905 955 c 0
+ 905 1068.218 813.218 1160 700 1160 c 2
+ 290 1160 l 1
+ 290 1130 l 2
+ 290 1091.34 258.66 1060 220 1060 c 0
+ 181.34 1060 150 1091.34 150 1130 c 2
+ 150 1230 l 2
+ 150 1268.66 181.34 1300 220 1300 c 2
+ 700 1300 l 2
+ 890.538 1300 1045 1145.538 1045 955 c 0
+ 1045 844.874 993.402 746.8 913.063 683.634 c 1
+ 1010.903 615.963 1075 502.967 1075 375 c 0
+ 1075 167.893 907.107 0 700 0 c 2
+ 220 0 l 2
+ 181.34 0 150 31.34 150 70 c 2
+ 150 170 l 2
+ 150 208.66 181.34 240 220 240 c 0
+ 258.66 240 290 208.66 290 170 c 2
+ 290 140 l 1
+ 700 140 l 2
+ 829.787 140 935 245.213 935 375 c 0
+ 935 504.787 829.787 610 700 610 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni041B
+Encoding: 2426 1051 2369
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 615 0 basechar 0
+AnchorPoint: "Anchor-0" 615 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+300 280 m 2
+ 300 1160 l 1
+ 210 1160 l 2
+ 171.34 1160 140 1191.34 140 1230 c 0
+ 140 1268.66 171.34 1300 210 1300 c 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 980 1160 l 1
+ 980 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 0
+ 1140 31.34 1108.66 0 1070 0 c 2
+ 750 0 l 2
+ 711.34 0 680 31.34 680 70 c 0
+ 680 108.66 711.34 140 750 140 c 2
+ 840 140 l 1
+ 840 1160 l 1
+ 440 1160 l 1
+ 440 280 l 2
+ 440 125.36 314.64 0 160 0 c 0
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 0
+ 237.32 140 300 202.68 300 280 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0414
+Encoding: 2427 1044 2370
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+210 1300 m 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 980 1160 l 1
+ 980 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 2
+ 1140 -230 l 2
+ 1140 -268.66 1108.66 -300 1070 -300 c 0
+ 1031.34 -300 1000 -268.66 1000 -230 c 2
+ 1000 0 l 1
+ 200 0 l 1
+ 200 -230 l 2
+ 200 -268.66 168.66 -300 130 -300 c 0
+ 91.34 -300 60 -268.66 60 -230 c 2
+ 60 70 l 2
+ 60 108.66 91.34 140 130 140 c 2
+ 300 140 l 1
+ 300 1160 l 1
+ 210 1160 l 2
+ 171.34 1160 140 1191.34 140 1230 c 0
+ 140 1268.66 171.34 1300 210 1300 c 2
+840 140 m 1
+ 840 1160 l 1
+ 440 1160 l 1
+ 440 140 l 1
+ 840 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0423
+Encoding: 2428 1059 2371
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+190 140 m 2
+ 343.252 140 l 1
+ 529.19 553.616 l 1
+ 245.469 1160 l 1
+ 130 1160 l 2
+ 91.34 1160 60 1191.34 60 1230 c 0
+ 60 1268.66 91.34 1300 130 1300 c 2
+ 450 1300 l 2
+ 488.66 1300 520 1268.66 520 1230 c 0
+ 520 1191.34 488.66 1160 450 1160 c 2
+ 400.036 1160 l 1
+ 604.927 722.094 l 1
+ 801.784 1160 l 1
+ 750 1160 l 2
+ 711.34 1160 680 1191.34 680 1230 c 0
+ 680 1268.66 711.34 1300 750 1300 c 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 955.28 1160 l 1
+ 450 36.01 l 1
+ 450 0 l 1
+ 190 0 l 2
+ 151.34 0 120 31.34 120 70 c 0
+ 120 108.66 151.34 140 190 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0426
+Encoding: 2429 1062 2372
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+220 140 m 1
+ 220 1160 l 1
+ 130 1160 l 2
+ 91.34 1160 60 1191.34 60 1230 c 0
+ 60 1268.66 91.34 1300 130 1300 c 2
+ 450 1300 l 2
+ 488.66 1300 520 1268.66 520 1230 c 0
+ 520 1191.34 488.66 1160 450 1160 c 2
+ 360 1160 l 1
+ 360 140 l 1
+ 840 140 l 1
+ 840 1160 l 1
+ 750 1160 l 2
+ 711.34 1160 680 1191.34 680 1230 c 0
+ 680 1268.66 711.34 1300 750 1300 c 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 980 1160 l 1
+ 980 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 2
+ 1140 -230 l 2
+ 1140 -268.66 1108.66 -300 1070 -300 c 0
+ 1031.34 -300 1000 -268.66 1000 -230 c 2
+ 1000 0 l 1
+ 130 0 l 2
+ 91.34 0 60 31.34 60 70 c 0
+ 60 108.66 91.34 140 130 140 c 2
+ 220 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0427
+Encoding: 2430 1063 2373
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+740 140 m 2
+ 830 140 l 1
+ 830 690 l 1
+ 793 619 710 500 570 500 c 0
+ 365 500 250 610 250 816 c 2
+ 250 1160 l 1
+ 160 1160 l 2
+ 121.34 1160 90 1191.34 90 1230 c 0
+ 90 1268.66 121.34 1300 160 1300 c 2
+ 480 1300 l 2
+ 518.66 1300 550 1268.66 550 1230 c 0
+ 550 1191.34 518.66 1160 480 1160 c 2
+ 390 1160 l 1
+ 390 816 l 2
+ 390 679 457 640 580 640 c 0
+ 712 640 830 810 830 988 c 2
+ 830 1160 l 1
+ 740 1160 l 2
+ 701.34 1160 670 1191.34 670 1230 c 0
+ 670 1268.66 701.34 1300 740 1300 c 2
+ 1060 1300 l 2
+ 1098.66 1300 1130 1268.66 1130 1230 c 0
+ 1130 1191.34 1098.66 1160 1060 1160 c 2
+ 970 1160 l 1
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0428
+Encoding: 2431 1064 2374
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+120 140 m 1
+ 120 1160 l 1
+ 100 1160 l 2
+ 61.34 1160 30 1191.34 30 1230 c 0
+ 30 1268.66 61.34 1300 100 1300 c 2
+ 280 1300 l 2
+ 318.66 1300 350 1268.66 350 1230 c 0
+ 350 1191.34 318.66 1160 280 1160 c 2
+ 260 1160 l 1
+ 260 140 l 1
+ 530 140 l 1
+ 530 1160 l 1
+ 510 1160 l 2
+ 471.34 1160 440 1191.34 440 1230 c 0
+ 440 1268.66 471.34 1300 510 1300 c 2
+ 690 1300 l 2
+ 728.66 1300 760 1268.66 760 1230 c 0
+ 760 1191.34 728.66 1160 690 1160 c 2
+ 670 1160 l 1
+ 670 140 l 1
+ 940 140 l 1
+ 940 1160 l 1
+ 920 1160 l 2
+ 881.34 1160 850 1191.34 850 1230 c 0
+ 850 1268.66 881.34 1300 920 1300 c 2
+ 1100 1300 l 2
+ 1138.66 1300 1170 1268.66 1170 1230 c 0
+ 1170 1191.34 1138.66 1160 1100 1160 c 2
+ 1080 1160 l 1
+ 1080 140 l 1
+ 1118.66 140 1150 108.66 1150 70 c 0
+ 1150 31.34 1118.66 0 1080 0 c 2
+ 120 0 l 2
+ 81.34 0 50 31.34 50 70 c 0
+ 50 108.66 81.34 140 120 140 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0429
+Encoding: 2432 1065 2375
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 595 0 basechar 0
+AnchorPoint: "Anchor-0" 595 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+100 140 m 1
+ 100 1160 l 1
+ 80 1160 l 2
+ 41.34 1160 10 1191.34 10 1230 c 0
+ 10 1268.66 41.34 1300 80 1300 c 2
+ 260 1300 l 2
+ 298.66 1300 330 1268.66 330 1230 c 0
+ 330 1191.34 298.66 1160 260 1160 c 2
+ 240 1160 l 1
+ 240 140 l 1
+ 490 140 l 1
+ 490 1160 l 1
+ 470 1160 l 2
+ 431.34 1160 400 1191.34 400 1230 c 0
+ 400 1268.66 431.34 1300 470 1300 c 2
+ 650 1300 l 2
+ 688.66 1300 720 1268.66 720 1230 c 0
+ 720 1191.34 688.66 1160 650 1160 c 2
+ 630 1160 l 1
+ 630 140 l 1
+ 880 140 l 1
+ 880 1160 l 1
+ 860 1160 l 2
+ 821.34 1160 790 1191.34 790 1230 c 0
+ 790 1268.66 821.34 1300 860 1300 c 2
+ 1040 1300 l 2
+ 1078.66 1300 1110 1268.66 1110 1230 c 0
+ 1110 1191.34 1078.66 1160 1040 1160 c 2
+ 1020 1160 l 1
+ 1020 140 l 1
+ 1110 140 l 2
+ 1148.66 140 1180 108.66 1180 70 c 2
+ 1180 -230 l 2
+ 1180 -268.66 1148.66 -300 1110 -300 c 0
+ 1071.34 -300 1040 -268.66 1040 -230 c 2
+ 1040 0 l 1
+ 100 0 l 2
+ 61.34 0 30 31.34 30 70 c 0
+ 30 108.66 61.34 140 100 140 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0430
+Encoding: 2433 1072 2376
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1053 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 138 97 N 1 0 0 1 0 0 2
+Substitution2: "'cv01' Character Variants 01 lookup 361 subtable" uni0430.cv01
+EndChar
+
+StartChar: uni0435
+Encoding: 2434 1077 2377
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1053 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 161 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0451
+Encoding: 2435 1105 2378
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 621 1400 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 166 235 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni043E
+Encoding: 2436 1086 2379
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+AnchorPoint: "Anchor-1" 600 -1 basechar 0
+LayerCount: 6
+Fore
+Refer: 212 111 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0440
+Encoding: 2437 1088 2380
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 920 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 224 112 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0441
+Encoding: 2438 1089 2381
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+AnchorPoint: "Anchor-1" 676 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 151 99 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0443
+Encoding: 2439 1091 2382
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1055 basechar 0
+AnchorPoint: "Anchor-1" 800 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 261 121 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0445
+Encoding: 2440 1093 2383
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 -140 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 260 120 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0431
+Encoding: 2441 1073 2384
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1477 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+180 480 m 2
+ 180 1370 l 2
+ 180 1408.66 211.34 1440 250 1440 c 2
+ 880 1440 l 2
+ 918.66 1440 950 1408.66 950 1370 c 2
+ 950 1210 l 2
+ 950 1171.34 918.66 1140 880 1140 c 0
+ 841.34 1140 810 1171.34 810 1210 c 2
+ 810 1300 l 1
+ 320 1300 l 1
+ 320 881.691 l 1
+ 391.06 947.23 486.485 980 600 980 c 0
+ 856 980 1020 813.333 1020 480 c 0
+ 1020 146.667 856 -20 600 -20 c 0
+ 344 -20 180 146.667 180 480 c 2
+320 480 m 0
+ 320 240 429 120 600 120 c 0
+ 771 120 880 240 880 480 c 0
+ 880 720 771 840 600 840 c 0
+ 429 840 320 720 320 480 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0432
+Encoding: 2442 1074 2385
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 545 0 basechar 0
+AnchorPoint: "Anchor-0" 545 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 730 960 l 2
+ 879.117 960 1000 839.117 1000 690 c 0
+ 1000 609.215 964.52 536.716 908.293 487.236 c 1
+ 964.632 436.017 1000 362.139 1000 280 c 0
+ 1000 125.36 874.64 0 720 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+390 140 m 1
+ 720 140 l 2
+ 797.32 140 860 202.68 860 280 c 0
+ 860 357.32 797.32 420 720 420 c 2
+ 390 420 l 1
+ 390 140 l 1
+390 560 m 1
+ 730 560 l 2
+ 801.797 560 860 618.203 860 690 c 0
+ 860 761.797 801.797 820 730 820 c 2
+ 390 820 l 1
+ 390 560 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0433
+Encoding: 2443 1075 2386
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 500 0 basechar 0
+AnchorPoint: "Anchor-0" 500 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 840 960 l 2
+ 878.66 960 910 928.66 910 890 c 2
+ 910 770 l 2
+ 910 731.34 878.66 700 840 700 c 0
+ 801.34 700 770 731.34 770 770 c 2
+ 770 820 l 1
+ 390 820 l 1
+ 390 140 l 1
+ 480 140 l 2
+ 518.66 140 550 108.66 550 70 c 0
+ 550 31.34 518.66 0 480 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0434
+Encoding: 2444 1076 2387
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+230 960 m 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1040 140 l 2
+ 1078.66 140 1110 108.66 1110 70 c 2
+ 1110 -230 l 2
+ 1110 -268.66 1078.66 -300 1040 -300 c 0
+ 1001.34 -300 970 -268.66 970 -230 c 2
+ 970 0 l 1
+ 230 0 l 1
+ 230 -230 l 2
+ 230 -268.66 198.66 -300 160 -300 c 0
+ 121.34 -300 90 -268.66 90 -230 c 2
+ 90 70 l 2
+ 90 108.66 121.34 140 160 140 c 2
+ 320 140 l 1
+ 320 820 l 1
+ 230 820 l 2
+ 191.34 820 160 851.34 160 890 c 0
+ 160 928.66 191.34 960 230 960 c 2
+830 140 m 1
+ 830 820 l 1
+ 460 820 l 1
+ 460 140 l 1
+ 830 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0436
+Encoding: 2445 1078 2388
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+530 70 m 2
+ 530 312.514 l 1
+ 391.428 126.431 l 1
+ 408.755 113.689 420 93.157 420 70 c 0
+ 420 31.34 388.66 0 350 0 c 2
+ 130 0 l 2
+ 91.34 0 60 31.34 60 70 c 0
+ 60 108.66 91.34 140 130 140 c 2
+ 226.978 140 l 1
+ 474.457 472.329 l 1
+ 243.859 820 l 1
+ 140 820 l 2
+ 101.34 820 70 851.34 70 890 c 0
+ 70 928.66 101.34 960 140 960 c 2
+ 350 960 l 2
+ 388.66 960 420 928.66 420 890 c 0
+ 420 870.291 411.855 852.484 398.747 839.763 c 1
+ 530 641.873 l 1
+ 530 890 l 2
+ 530 928.66 561.34 960 600 960 c 0
+ 638.66 960 670 928.66 670 890 c 2
+ 670 641.873 l 1
+ 801.253 839.763 l 1
+ 788.145 852.484 780 870.291 780 890 c 0
+ 780 928.66 811.34 960 850 960 c 2
+ 1060 960 l 2
+ 1098.66 960 1130 928.66 1130 890 c 0
+ 1130 851.34 1098.66 820 1060 820 c 2
+ 956.141 820 l 1
+ 725.543 472.329 l 1
+ 973.022 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 0
+ 1140 31.34 1108.66 0 1070 0 c 2
+ 850 0 l 2
+ 811.34 0 780 31.34 780 70 c 0
+ 780 93.157 791.245 113.689 808.572 126.431 c 1
+ 670 312.514 l 1
+ 670 70 l 2
+ 670 31.34 638.66 0 600 0 c 0
+ 561.34 0 530 31.34 530 70 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0437
+Encoding: 2446 1079 2389
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+720 470 m 2
+ 480 470 l 2
+ 441.34 470 410 501.34 410 540 c 0
+ 410 578.66 441.34 610 480 610 c 2
+ 720 610 l 2
+ 777.99 610 825 657.01 825 715 c 0
+ 825 772.99 777.99 820 720 820 c 2
+ 319.291 820 l 1
+ 314.439 786.077 285.265 760 250 760 c 0
+ 211.34 760 180 791.34 180 830 c 2
+ 180 890 l 2
+ 180 928.66 211.34 960 250 960 c 2
+ 720 960 l 2
+ 855.31 960 965 850.31 965 715 c 0
+ 965 651.569 940.894 593.767 901.344 550.257 c 1
+ 976.366 494.694 1025 405.526 1025 305 c 0
+ 1025 136.553 888.447 0 720 0 c 2
+ 250 0 l 2
+ 211.34 0 180 31.34 180 70 c 2
+ 180 270 l 2
+ 180 308.66 211.34 340 250 340 c 0
+ 288.66 340 320 308.66 320 270 c 2
+ 320 140 l 1
+ 720 140 l 2
+ 811.127 140 885 213.873 885 305 c 0
+ 885 396.127 811.127 470 720 470 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0438
+Encoding: 2447 1080 2390
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 214.87 l 1
+ 713.909 825.024 l 1
+ 688.171 835.369 670 860.562 670 890 c 0
+ 670 928.66 701.34 960 740 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+ 830 140 l 1
+ 830 745.13 l 1
+ 506.091 134.976 l 1
+ 531.829 124.631 550 99.438 550 70 c 0
+ 550 31.34 518.66 0 480 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0439
+Encoding: 2448 1081 2391
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 1676 728 N 1 0 0 1 10 0 2
+Refer: 2390 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni043A
+Encoding: 2449 1082 2392
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+390 274 m 1
+ 390 140 l 1
+ 480 140 l 2
+ 519 140 550 109 550 70 c 0
+ 550 31 519 0 480 0 c 2
+ 160 0 l 2
+ 121 0 90 31 90 70 c 0
+ 90 109 121 140 160 140 c 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 390 960 l 1
+ 390 470 l 1
+ 740 820 l 1
+ 680 820 l 2
+ 641 820 610 851 610 890 c 0
+ 610 929 641 960 680 960 c 2
+ 1000 960 l 2
+ 1039 960 1070 929 1070 890 c 0
+ 1070 851 1039 820 1000 820 c 2
+ 936 820 l 1
+ 681 565 l 1
+ 964 140 l 1
+ 1040 140 l 2
+ 1079 140 1110 109 1110 70 c 0
+ 1110 31 1079 0 1040 0 c 2
+ 720 0 l 2
+ 681 0 650 31 650 70 c 0
+ 650 109 681 140 720 140 c 2
+ 796 140 l 1
+ 580 464 l 1
+ 390 274 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni043B
+Encoding: 2450 1083 2393
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 635 0 basechar 0
+AnchorPoint: "Anchor-0" 635 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+300 210 m 2
+ 300 820 l 1
+ 210 820 l 2
+ 171.34 820 140 851.34 140 890 c 0
+ 140 928.66 171.34 960 210 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+ 830 140 l 1
+ 830 820 l 1
+ 440 820 l 1
+ 440 210 l 2
+ 440 94.02 345.98 0 230 0 c 0
+ 191.34 0 160 31.34 160 70 c 0
+ 160 108.66 191.34 140 230 140 c 0
+ 268.66 140 300 171.34 300 210 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni043C
+Encoding: 2451 1084 2394
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+600 469.163 m 1
+ 823.108 960 l 1
+ 1130 960 l 2
+ 1168.66 960 1200 928.66 1200 890 c 0
+ 1200 851.34 1168.66 820 1130 820 c 2
+ 1040 820 l 1
+ 1040 140 l 1
+ 1130 140 l 2
+ 1168.66 140 1200 108.66 1200 70 c 0
+ 1200 31.34 1168.66 0 1130 0 c 2
+ 810 0 l 2
+ 771.34 0 740 31.34 740 70 c 0
+ 740 108.66 771.34 140 810 140 c 2
+ 900 140 l 1
+ 900 790.837 l 1
+ 645.074 230 l 1
+ 554.926 230 l 1
+ 300 790.837 l 1
+ 300 140 l 1
+ 390 140 l 2
+ 428.66 140 460 108.66 460 70 c 0
+ 460 31.34 428.66 0 390 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+ 160 140 l 1
+ 160 820 l 1
+ 70 820 l 2
+ 31.34 820 0 851.34 0 890 c 0
+ 0 928.66 31.34 960 70 960 c 2
+ 376.892 960 l 1
+ 600 469.163 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni043D
+Encoding: 2452 1085 2395
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 550 l 1
+ 830 550 l 1
+ 830 820 l 1
+ 740 820 l 2
+ 701.34 820 670 851.34 670 890 c 0
+ 670 928.66 701.34 960 740 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+ 830 140 l 1
+ 830 410 l 1
+ 390 410 l 1
+ 390 140 l 1
+ 480 140 l 2
+ 518.66 140 550 108.66 550 70 c 0
+ 550 31.34 518.66 0 480 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni043F
+Encoding: 2453 1087 2396
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+ 830 140 l 1
+ 830 820 l 1
+ 390 820 l 1
+ 390 140 l 1
+ 480 140 l 2
+ 518.66 140 550 108.66 550 70 c 0
+ 550 31.34 518.66 0 480 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0442
+Encoding: 2454 1090 2397
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 960 m 2
+ 1040 960 l 2
+ 1078.66 960 1110 928.66 1110 890 c 2
+ 1110 770 l 2
+ 1110 731.34 1078.66 700 1040 700 c 0
+ 1001.34 700 970 731.34 970 770 c 2
+ 970 820 l 1
+ 670 820 l 1
+ 670 140 l 1
+ 760 140 l 2
+ 798.66 140 830 108.66 830 70 c 0
+ 830 31.34 798.66 0 760 0 c 2
+ 440 0 l 2
+ 401.34 0 370 31.34 370 70 c 0
+ 370 108.66 401.34 140 440 140 c 2
+ 530 140 l 1
+ 530 820 l 1
+ 230 820 l 1
+ 230 770 l 2
+ 230 731.34 198.66 700 160 700 c 0
+ 121.34 700 90 731.34 90 770 c 2
+ 90 890 l 2
+ 90 928.66 121.34 960 160 960 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0444
+Encoding: 2455 1092 2398
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 -440 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+180 480 m 0
+ 180 781.857 314.49 947.037 530 975.542 c 1
+ 530 1300 l 1
+ 440 1300 l 2
+ 401.34 1300 370 1331.34 370 1370 c 0
+ 370 1408.66 401.34 1440 440 1440 c 2
+ 600 1440 l 2
+ 638.66 1440 670 1408.66 670 1370 c 2
+ 670 975.542 l 1
+ 885.51 947.037 1020 781.857 1020 480 c 0
+ 1020 178.143 885.51 12.963 670 -15.542 c 1
+ 670 -300 l 1
+ 760 -300 l 2
+ 798.66 -300 830 -331.34 830 -370 c 0
+ 830 -408.66 798.66 -440 760 -440 c 2
+ 440 -440 l 2
+ 401.34 -440 370 -408.66 370 -370 c 0
+ 370 -331.34 401.34 -300 440 -300 c 2
+ 530 -300 l 1
+ 530 -15.542 l 1
+ 314.49 12.963 180 178.143 180 480 c 0
+670 832.507 m 1
+ 670 127.493 l 1
+ 800.183 157.124 880 274.626 880 480 c 0
+ 880 685.374 800.183 802.876 670 832.507 c 1
+320 480 m 0
+ 320 274.626 399.817 157.124 530 127.493 c 1
+ 530 832.507 l 1
+ 399.817 802.876 320 685.374 320 480 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni0446
+Encoding: 2456 1094 2399
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+250 140 m 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 140 l 1
+ 830 140 l 1
+ 830 820 l 1
+ 740 820 l 2
+ 701.34 820 670 851.34 670 890 c 0
+ 670 928.66 701.34 960 740 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 2
+ 1130 -230 l 2
+ 1130 -268.66 1098.66 -300 1060 -300 c 0
+ 1021.34 -300 990 -268.66 990 -230 c 2
+ 990 0 l 1
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+ 250 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0447
+Encoding: 2457 1095 2400
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+740 140 m 2
+ 830 140 l 1
+ 830 450 l 1
+ 793 379 710 260 570 260 c 0
+ 365 260 250 370 250 576 c 2
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 576 l 2
+ 390 439 457 400 580 400 c 0
+ 712 400 830 570 830 748 c 2
+ 830 820 l 1
+ 740 820 l 2
+ 701.34 820 670 851.34 670 890 c 0
+ 670 928.66 701.34 960 740 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0448
+Encoding: 2458 1096 2401
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 580 0 basechar 0
+AnchorPoint: "Anchor-0" 580 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+120 140 m 1
+ 120 820 l 1
+ 80 820 l 2
+ 41.34 820 10 851.34 10 890 c 0
+ 10 928.66 41.34 960 80 960 c 2
+ 190 960 l 2
+ 228.66 960 260 928.66 260 890 c 2
+ 260 140 l 1
+ 530 140 l 1
+ 530 820 l 1
+ 490 820 l 2
+ 451.34 820 420 851.34 420 890 c 0
+ 420 928.66 451.34 960 490 960 c 2
+ 600 960 l 2
+ 638.66 960 670 928.66 670 890 c 2
+ 670 140 l 1
+ 940 140 l 1
+ 940 820 l 1
+ 900 820 l 2
+ 861.34 820 830 851.34 830 890 c 0
+ 830 928.66 861.34 960 900 960 c 2
+ 1010 960 l 2
+ 1048.66 960 1080 928.66 1080 890 c 2
+ 1080 140 l 1
+ 1118.66 140 1150 108.66 1150 70 c 0
+ 1150 31.34 1118.66 0 1080 0 c 2
+ 120 0 l 2
+ 81.34 0 50 31.34 50 70 c 0
+ 50 108.66 81.34 140 120 140 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0449
+Encoding: 2459 1097 2402
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 585 0 basechar 0
+AnchorPoint: "Anchor-0" 585 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+100 140 m 1
+ 100 820 l 1
+ 60 820 l 2
+ 21.34 820 -10 851.34 -10 890 c 0
+ -10 928.66 21.34 960 60 960 c 2
+ 170 960 l 2
+ 208.66 960 240 928.66 240 890 c 2
+ 240 140 l 1
+ 490 140 l 1
+ 490 820 l 1
+ 450 820 l 2
+ 411.34 820 380 851.34 380 890 c 0
+ 380 928.66 411.34 960 450 960 c 2
+ 560 960 l 2
+ 598.66 960 630 928.66 630 890 c 2
+ 630 140 l 1
+ 880 140 l 1
+ 880 820 l 1
+ 840 820 l 2
+ 801.34 820 770 851.34 770 890 c 0
+ 770 928.66 801.34 960 840 960 c 2
+ 950 960 l 2
+ 988.66 960 1020 928.66 1020 890 c 2
+ 1020 140 l 1
+ 1110 140 l 2
+ 1148.66 140 1180 108.66 1180 70 c 2
+ 1180 -230 l 2
+ 1180 -268.66 1148.66 -300 1110 -300 c 0
+ 1071.34 -300 1040 -268.66 1040 -230 c 2
+ 1040 0 l 1
+ 100 0 l 2
+ 61.34 0 30 31.34 30 70 c 0
+ 30 108.66 61.34 140 100 140 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni044A
+Encoding: 2460 1098 2403
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 580 0 basechar 0
+AnchorPoint: "Anchor-0" 580 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+330 140 m 2
+ 420 140 l 1
+ 420 820 l 1
+ 260 820 l 1
+ 260 770 l 2
+ 260 731.34 228.66 700 190 700 c 0
+ 151.34 700 120 731.34 120 770 c 2
+ 120 890 l 2
+ 120 928.66 151.34 960 190 960 c 2
+ 490 960 l 2
+ 528.66 960 560 928.66 560 890 c 2
+ 560 560 l 1
+ 760 560 l 2
+ 914.64 560 1040 434.64 1040 280 c 0
+ 1040 125.36 914.64 0 760 0 c 2
+ 330 0 l 2
+ 291.34 0 260 31.34 260 70 c 0
+ 260 108.66 291.34 140 330 140 c 2
+560 140 m 1
+ 760 140 l 2
+ 837.32 140 900 202.68 900 280 c 0
+ 900 357.32 837.32 420 760 420 c 2
+ 560 420 l 1
+ 560 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni044B
+Encoding: 2461 1099 2404
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 570 0 basechar 0
+AnchorPoint: "Anchor-0" 570 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 820 l 1
+ 70 820 l 2
+ 31.34 820 0 851.34 0 890 c 0
+ 0 928.66 31.34 960 70 960 c 2
+ 180 960 l 2
+ 218.66 960 250 928.66 250 890 c 2
+ 250 560 l 1
+ 470 560 l 2
+ 624.64 560 750 434.64 750 280 c 0
+ 750 125.36 624.64 0 470 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+830 140 m 2
+ 880 140 l 1
+ 880 820 l 1
+ 810 820 l 2
+ 771.34 820 740 851.34 740 890 c 0
+ 740 928.66 771.34 960 810 960 c 2
+ 950 960 l 2
+ 988.66 960 1020 928.66 1020 890 c 2
+ 1020 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 0
+ 1140 31.34 1108.66 0 1070 0 c 2
+ 830 0 l 2
+ 791.34 0 760 31.34 760 70 c 0
+ 760 108.66 791.34 140 830 140 c 2
+250 140 m 1
+ 470 140 l 2
+ 547.32 140 610 202.68 610 280 c 0
+ 610 357.32 547.32 420 470 420 c 2
+ 250 420 l 1
+ 250 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni044C
+Encoding: 2462 1100 2405
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 545 0 basechar 0
+AnchorPoint: "Anchor-0" 545 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 560 l 1
+ 720 560 l 2
+ 874.64 560 1000 434.64 1000 280 c 0
+ 1000 125.36 874.64 0 720 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+390 140 m 1
+ 720 140 l 2
+ 797.32 140 860 202.68 860 280 c 0
+ 860 357.32 797.32 420 720 420 c 2
+ 390 420 l 1
+ 390 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni044D
+Encoding: 2463 1101 2406
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 620 0 basechar 0
+AnchorPoint: "Anchor-0" 620 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+319 891 m 1
+ 396.993 950.126 493.3 980 600 980 c 0
+ 854 980 1060 811 1060 480 c 0
+ 1060 149 854 -20 600 -20 c 0
+ 479.067 -20 347 31 233 105 c 0
+ 213 117 200 140 200 165 c 0
+ 200 204 231 235 270 235 c 0
+ 284 235 296 232 307 225 c 0
+ 400 166 512 121 600 121 c 0
+ 758.519 121 889.768 218.052 915.447 410 c 1
+ 470 410 l 2
+ 431.34 410 400 441.34 400 480 c 0
+ 400 518.66 431.34 550 470 550 c 2
+ 915.639 550 l 1
+ 890.427 741.46 758.917 839 600 839 c 0
+ 480.005 839 374.772 783.026 320 673 c 1
+ 321 639 l 1
+ 321 600 290 569 251 569 c 0
+ 212 569 181 600 181 639 c 2
+ 180 888 l 2
+ 180 927 211 958 250 958 c 0
+ 285.253 958 313.807 932.671 319 899 c 1
+ 319 891 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni044E
+Encoding: 2464 1102 2407
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 545 0 basechar 0
+AnchorPoint: "Anchor-0" 545 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 820 l 1
+ 70 820 l 2
+ 31.34 820 0 851.34 0 890 c 0
+ 0 928.66 31.34 960 70 960 c 2
+ 180 960 l 2
+ 218.66 960 250 928.66 250 890 c 2
+ 250 550 l 1
+ 491.831 550 l 1
+ 507.337 836.8 620.287 980 790 980 c 0
+ 973 980 1090 813.5 1090 480 c 0
+ 1090 146.5 973 -20 790 -20 c 0
+ 620.287 -20 507.337 123.2 491.831 410 c 1
+ 250 410 l 1
+ 250 140 l 1
+ 290 140 l 2
+ 328.66 140 360 108.66 360 70 c 0
+ 360 31.34 328.66 0 290 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+950 480 m 0
+ 950 720.12 887.6 840 790 840 c 0
+ 692.4 840 630 720.12 630 480 c 0
+ 630 239.88 692.4 120 790 120 c 0
+ 887.6 120 950 239.88 950 480 c 0
+EndSplineSet
+EndChar
+
+StartChar: uni044F
+Encoding: 2465 1103 2408
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 625 0 basechar 0
+AnchorPoint: "Anchor-0" 625 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+740 140 m 2
+ 830 140 l 1
+ 830 420 l 1
+ 610.988 420 l 1
+ 420 126.172 l 1
+ 420 0 l 1
+ 190 0 l 2
+ 151.34 0 120 31.34 120 70 c 0
+ 120 108.66 151.34 140 190 140 c 2
+ 262.012 140 l 1
+ 449.972 429.17 l 1
+ 334.804 460.013 250 565.103 250 690 c 0
+ 250 839.117 370.883 960 520 960 c 2
+ 1060 960 l 2
+ 1098.66 960 1130 928.66 1130 890 c 0
+ 1130 851.34 1098.66 820 1060 820 c 2
+ 970 820 l 1
+ 970 140 l 1
+ 1060 140 l 2
+ 1098.66 140 1130 108.66 1130 70 c 0
+ 1130 31.34 1098.66 0 1060 0 c 2
+ 740 0 l 2
+ 701.34 0 670 31.34 670 70 c 0
+ 670 108.66 701.34 140 740 140 c 2
+830 820 m 1
+ 520 820 l 2
+ 448.203 820 390 761.797 390 690 c 0
+ 390 618.203 448.203 560 520 560 c 2
+ 830 560 l 1
+ 830 820 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0400
+Encoding: 2466 1024 2409
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-0" 642 1699 basechar 0
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 651 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 31 200 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0450
+Encoding: 2467 1104 2410
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-0" 621 1680 basechar 0
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 168 232 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0405
+Encoding: 2468 1029 2411
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 611 1353 basechar 0
+AnchorPoint: "Anchor-1" 593 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 90 83 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0455
+Encoding: 2469 1109 2412
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 615 1053 basechar 0
+AnchorPoint: "Anchor-1" 593 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 231 115 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0406
+Encoding: 2470 1030 2413
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 43 73 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0456
+Encoding: 2471 1110 2414
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 640 1477 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 180 105 N 1 0 0 1 0 0 2
+Substitution2: "'cv06' Character Variants 06 lookup 366 subtable" uni0456.cv06
+Substitution2: "'cv05' Character Variants 05 lookup 365 subtable" uni0456.cv05
+Substitution2: "'cv04' Character Variants 04 lookup 364 subtable" uni0456.cv04
+Substitution2: "'cv03' Character Variants 03 lookup 363 subtable" uni0456.cv03
+EndChar
+
+StartChar: uni0407
+Encoding: 2472 1031 2415
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-0" 600 1640 basechar 0
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 48 207 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0457
+Encoding: 2473 1111 2416
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1400 basechar 0
+LayerCount: 6
+Fore
+Refer: 185 239 N 1 0 0 1 0 0 2
+Substitution2: "'cv06' Character Variants 06 lookup 366 subtable" uni0457.cv06
+Substitution2: "'cv05' Character Variants 05 lookup 365 subtable" uni0457.cv05
+Substitution2: "'cv04' Character Variants 04 lookup 364 subtable" uni0457.cv04
+Substitution2: "'cv03' Character Variants 03 lookup 363 subtable" uni0457.cv03
+EndChar
+
+StartChar: uni0408
+Encoding: 2474 1032 2417
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 699 1377 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 54 74 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0458
+Encoding: 2475 1112 2418
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 540 -377 basechar 0
+AnchorPoint: "Anchor-0" 735 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 192 106 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0403
+Encoding: 2476 1027 2419
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 359 0 basechar 0
+AnchorPoint: "Anchor-0" 697 1680 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 97 0 2
+Refer: 2355 1043 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040C
+Encoding: 2477 1036 2420
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 653 1680 basechar 0
+LayerCount: 6
+Fore
+Refer: 1687 -1 N 1 0 0 1 53 0 2
+Refer: 2347 1050 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040D
+Encoding: 2478 1037 2421
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 603 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1680 basechar 0
+LayerCount: 6
+Fore
+Refer: 1686 -1 N 1 0 0 1 3 0 2
+Refer: 2365 1048 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni040E
+Encoding: 2479 1038 2422
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1675 basechar 0
+LayerCount: 6
+Fore
+Refer: 1691 -1 N 1 0 0 1 0 0 2
+Refer: 2371 1059 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0453
+Encoding: 2480 1107 2423
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 500 0 basechar 0
+AnchorPoint: "Anchor-0" 500 1431 basechar 0
+LayerCount: 6
+Fore
+Refer: 1671 180 N 1 0 0 1 -100 0 2
+Refer: 2386 1075 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni045C
+Encoding: 2481 1116 2424
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1431 basechar 0
+LayerCount: 6
+Fore
+Refer: 1671 180 N 1 0 0 1 0 0 2
+Refer: 2392 1082 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni045D
+Encoding: 2482 1117 2425
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 610 0 basechar 0
+AnchorPoint: "Anchor-0" 610 1431 basechar 0
+LayerCount: 6
+Fore
+Refer: 1670 96 N 1 0 0 1 10 0 2
+Refer: 2390 1080 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni045E
+Encoding: 2483 1118 2426
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 800 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1425 basechar 0
+LayerCount: 6
+Fore
+Refer: 1676 728 N 1 0 0 1 0 0 2
+Refer: 2382 1091 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0404
+Encoding: 2484 1028 2427
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 590 0 basechar 0
+AnchorPoint: "Anchor-0" 590 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+1040 1031 m 2
+ 1040 890 l 2
+ 1040 851 1009 820 970 820 c 0
+ 931 820 900 851 900 890 c 2
+ 900 1002 l 1
+ 835 1112 739 1180 620 1180 c 0
+ 416.901 1180 274.61 979.839 252.892 720 c 1
+ 680 720 l 2
+ 718.66 720 750 688.66 750 650 c 0
+ 750 611.34 718.66 580 680 580 c 2
+ 252.892 580 l 1
+ 274.61 320.161 416.901 120 620 120 c 0
+ 745 120 844 195 909 314 c 0
+ 921 336 943 350 970 350 c 0
+ 1009 350 1040 319 1040 280 c 0
+ 1040 268 1037 256 1031 246 c 0
+ 941 84 796 -20 620 -20 c 0
+ 322 -20 110 280 110 650 c 0
+ 110 1020 322 1320 620 1320 c 0
+ 735.657 1320 837.928 1274.769 920 1198 c 1
+ 930.086 1237.334 l 2
+ 938.035 1268.337 965.976 1290.017 997.982 1290.017 c 0
+ 1036.693 1290.017 1068.074 1258.636 1068.074 1219.925 c 0
+ 1068.074 1214.22 1067.378 1208.536 1066 1203 c 2
+ 1057.333 1169 l 1
+ 1045.064 1129.492 1040 1087 1040 1031 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0454
+Encoding: 2485 1108 2428
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 580 0 basechar 0
+AnchorPoint: "Anchor-0" 580 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+881 891 m 1
+ 881 899 l 1
+ 886.193 932.671 914.747 958 950 958 c 0
+ 989 958 1020 927 1020 888 c 2
+ 1019 639 l 2
+ 1019 600 988 569 949 569 c 0
+ 910 569 879 600 879 639 c 1
+ 880 673 l 1
+ 825.228 783.026 719.995 839 600 839 c 0
+ 441.083 839 309.573 741.46 284.361 550 c 1
+ 730 550 l 2
+ 768.66 550 800 518.66 800 480 c 0
+ 800 441.34 768.66 410 730 410 c 2
+ 284.553 410 l 1
+ 310.232 218.052 441.481 121 600 121 c 0
+ 688 121 800 166 893 225 c 0
+ 904 232 916 235 930 235 c 0
+ 969 235 1000 204 1000 165 c 0
+ 1000 140 987 117 967 105 c 0
+ 853 31 720.933 -20 600 -20 c 0
+ 346 -20 140 149 140 480 c 0
+ 140 811 346 980 600 980 c 0
+ 706.7 980 803.007 950.126 881 891 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni0490
+Encoding: 2486 1168 2429
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+190 140 m 2
+ 280 140 l 1
+ 280 1160 l 1
+ 190 1160 l 2
+ 151.34 1160 120 1191.34 120 1230 c 0
+ 120 1268.66 151.34 1300 190 1300 c 2
+ 940 1300 l 1
+ 940 1500 l 2
+ 940 1538.66 971.34 1570 1010 1570 c 0
+ 1048.66 1570 1080 1538.66 1080 1500 c 2
+ 1080 1230 l 2
+ 1080 1191.34 1048.66 1160 1010 1160 c 2
+ 420 1160 l 1
+ 420 140 l 1
+ 600 140 l 2
+ 638.66 140 670 108.66 670 70 c 0
+ 670 31.34 638.66 0 600 0 c 2
+ 190 0 l 2
+ 151.34 0 120 31.34 120 70 c 0
+ 120 108.66 151.34 140 190 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0491
+Encoding: 2487 1169 2430
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 500 0 basechar 0
+AnchorPoint: "Anchor-0" 500 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 140 m 2
+ 250 140 l 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 770 960 l 1
+ 770 1150 l 2
+ 770 1188.66 801.34 1220 840 1220 c 0
+ 878.66 1220 910 1188.66 910 1150 c 2
+ 910 890 l 2
+ 910 851.34 878.66 820 840 820 c 2
+ 390 820 l 1
+ 390 140 l 1
+ 480 140 l 2
+ 518.66 140 550 108.66 550 70 c 0
+ 550 31.34 518.66 0 480 0 c 2
+ 160 0 l 2
+ 121.34 0 90 31.34 90 70 c 0
+ 90 108.66 121.34 140 160 140 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni040F
+Encoding: 2488 1039 2431
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 -300 basechar 0
+AnchorPoint: "Anchor-0" 600 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+220 140 m 1
+ 220 1160 l 1
+ 130 1160 l 2
+ 91.34 1160 60 1191.34 60 1230 c 0
+ 60 1268.66 91.34 1300 130 1300 c 2
+ 450 1300 l 2
+ 488.66 1300 520 1268.66 520 1230 c 0
+ 520 1191.34 488.66 1160 450 1160 c 2
+ 360 1160 l 1
+ 360 140 l 1
+ 840 140 l 1
+ 840 1160 l 1
+ 750 1160 l 2
+ 711.34 1160 680 1191.34 680 1230 c 0
+ 680 1268.66 711.34 1300 750 1300 c 2
+ 1070 1300 l 2
+ 1108.66 1300 1140 1268.66 1140 1230 c 0
+ 1140 1191.34 1108.66 1160 1070 1160 c 2
+ 980 1160 l 1
+ 980 140 l 1
+ 1018.66 140 1050 108.66 1050 70 c 0
+ 1050 31.34 1018.66 0 980 0 c 2
+ 670 0 l 1
+ 670 -230 l 2
+ 670 -268.66 638.66 -300 600 -300 c 0
+ 561.34 -300 530 -268.66 530 -230 c 2
+ 530 0 l 1
+ 220 0 l 2
+ 181.34 0 150 31.34 150 70 c 0
+ 150 108.66 181.34 140 220 140 c 1
+EndSplineSet
+EndChar
+
+StartChar: uni045F
+Encoding: 2489 1119 2432
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 -300 basechar 0
+AnchorPoint: "Anchor-0" 530 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+250 140 m 1
+ 250 820 l 1
+ 160 820 l 2
+ 121.34 820 90 851.34 90 890 c 0
+ 90 928.66 121.34 960 160 960 c 2
+ 320 960 l 2
+ 358.66 960 390 928.66 390 890 c 2
+ 390 140 l 1
+ 830 140 l 1
+ 830 820 l 1
+ 740 820 l 2
+ 701.34 820 670 851.34 670 890 c 0
+ 670 928.66 701.34 960 740 960 c 2
+ 900 960 l 2
+ 938.66 960 970 928.66 970 890 c 2
+ 970 140 l 1
+ 900 140 l 1
+ 938.66 140 970 108.66 970 70 c 0
+ 970 31.34 938.66 0 900 0 c 2
+ 680 0 l 1
+ 680 -230 l 2
+ 680 -268.66 648.66 -300 610 -300 c 0
+ 571.34 -300 540 -268.66 540 -230 c 2
+ 540 0 l 1
+ 320 0 l 2
+ 281.34 0 250 31.34 250 70 c 0
+ 250 108.66 281.34 140 320 140 c 1
+ 250 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0409
+Encoding: 2490 1033 2433
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 570 0 basechar 0
+AnchorPoint: "Anchor-0" 570 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+140 210 m 2
+ 140 1160 l 1
+ 130 1160 l 2
+ 91.34 1160 60 1191.34 60 1230 c 0
+ 60 1268.66 91.34 1300 130 1300 c 2
+ 590 1300 l 2
+ 628.66 1300 660 1268.66 660 1230 c 2
+ 660 700 l 1
+ 790 700 l 2
+ 983.3 700 1140 543.3 1140 350 c 0
+ 1140 156.7 983.3 0 790 0 c 2
+ 430 0 l 2
+ 391.34 0 360 31.34 360 70 c 0
+ 360 108.66 391.34 140 430 140 c 2
+ 520 140 l 1
+ 520 1160 l 1
+ 280 1160 l 1
+ 280 210 l 2
+ 280 94.02 185.98 0 70 0 c 0
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 0
+ 108.66 140 140 171.34 140 210 c 2
+660 140 m 1
+ 790 140 l 2
+ 905.98 140 1000 234.02 1000 350 c 0
+ 1000 465.98 905.98 560 790 560 c 2
+ 660 560 l 1
+ 660 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni0459
+Encoding: 2491 1113 2434
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 535 0 basechar 0
+AnchorPoint: "Anchor-0" 535 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+140 210 m 2
+ 140 820 l 1
+ 130 820 l 2
+ 91.34 820 60 851.34 60 890 c 0
+ 60 928.66 91.34 960 130 960 c 2
+ 590 960 l 2
+ 628.66 960 660 928.66 660 890 c 2
+ 660 540 l 1
+ 800 540 l 2
+ 949.117 540 1070 419.117 1070 270 c 0
+ 1070 120.883 949.117 0 800 0 c 2
+ 430 0 l 2
+ 391.34 0 360 31.34 360 70 c 0
+ 360 108.66 391.34 140 430 140 c 2
+ 520 140 l 1
+ 520 820 l 1
+ 280 820 l 1
+ 280 210 l 2
+ 280 94.02 185.98 0 70 0 c 0
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 0
+ 108.66 140 140 171.34 140 210 c 2
+660 140 m 1
+ 800 140 l 2
+ 871.797 140 930 198.203 930 270 c 0
+ 930 341.797 871.797 400 800 400 c 2
+ 660 400 l 1
+ 660 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni040A
+Encoding: 2492 1034 2435
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 570 0 basechar 0
+AnchorPoint: "Anchor-0" 570 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 1160 l 1
+ 70 1160 l 2
+ 31.34 1160 0 1191.34 0 1230 c 0
+ 0 1268.66 31.34 1300 70 1300 c 2
+ 290 1300 l 2
+ 328.66 1300 360 1268.66 360 1230 c 0
+ 360 1191.34 328.66 1160 290 1160 c 2
+ 250 1160 l 1
+ 250 720 l 1
+ 520 720 l 1
+ 520 1160 l 1
+ 480 1160 l 2
+ 441.34 1160 410 1191.34 410 1230 c 0
+ 410 1268.66 441.34 1300 480 1300 c 2
+ 590 1300 l 1
+ 590 1230 l 1
+ 660 1230 l 1
+ 660 700 l 1
+ 790 700 l 2
+ 983.3 700 1140 543.3 1140 350 c 0
+ 1140 156.7 983.3 0 790 0 c 2
+ 480 0 l 2
+ 441.34 0 410 31.34 410 70 c 0
+ 410 108.66 441.34 140 480 140 c 2
+ 520 140 l 1
+ 520 580 l 1
+ 250 580 l 1
+ 250 140 l 1
+ 290 140 l 2
+ 328.66 140 360 108.66 360 70 c 0
+ 360 31.34 328.66 0 290 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+660 140 m 1
+ 790 140 l 2
+ 905.98 140 1000 234.02 1000 350 c 0
+ 1000 465.98 905.98 560 790 560 c 2
+ 660 560 l 1
+ 660 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni045A
+Encoding: 2493 1114 2436
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 535 0 basechar 0
+AnchorPoint: "Anchor-0" 535 1053 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+70 140 m 2
+ 110 140 l 1
+ 110 820 l 1
+ 70 820 l 2
+ 31.34 820 0 851.34 0 890 c 0
+ 0 928.66 31.34 960 70 960 c 2
+ 180 960 l 2
+ 218.66 960 250 928.66 250 890 c 2
+ 250 550 l 1
+ 520 550 l 1
+ 520 820 l 1
+ 480 820 l 2
+ 441.34 820 410 851.34 410 890 c 0
+ 410 928.66 441.34 960 480 960 c 2
+ 590 960 l 2
+ 628.66 960 660 928.66 660 890 c 2
+ 660 540 l 1
+ 800 540 l 2
+ 949.117 540 1070 419.117 1070 270 c 0
+ 1070 120.883 949.117 0 800 0 c 2
+ 480 0 l 2
+ 441.34 0 410 31.34 410 70 c 0
+ 410 108.66 441.34 140 480 140 c 2
+ 520 140 l 1
+ 520 410 l 1
+ 250 410 l 1
+ 250 140 l 1
+ 290 140 l 2
+ 328.66 140 360 108.66 360 70 c 0
+ 360 31.34 328.66 0 290 0 c 2
+ 70 0 l 2
+ 31.34 0 0 31.34 0 70 c 0
+ 0 108.66 31.34 140 70 140 c 2
+660 140 m 1
+ 800 140 l 2
+ 871.797 140 930 198.203 930 270 c 0
+ 930 341.797 871.797 400 800 400 c 2
+ 660 400 l 1
+ 660 140 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni040B
+Encoding: 2494 1035 2437
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 615 0 basechar 0
+AnchorPoint: "Anchor-0" 615 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 1300 m 2
+ 720 1300 l 2
+ 758.66 1300 790 1268.66 790 1230 c 0
+ 790 1191.34 758.66 1160 720 1160 c 2
+ 470 1160 l 1
+ 470 670 l 1
+ 507 741 590 860 730 860 c 0
+ 935 860 1050 750 1050 544 c 2
+ 1050 140 l 1
+ 1070 140 l 2
+ 1108.66 140 1140 108.66 1140 70 c 0
+ 1140 31.34 1108.66 0 1070 0 c 2
+ 820 0 l 2
+ 781.34 0 750 31.34 750 70 c 0
+ 750 108.66 781.34 140 820 140 c 2
+ 910 140 l 1
+ 910 544 l 2
+ 910 681 843 720 720 720 c 0
+ 588 720 470 550 470 372 c 2
+ 470 140 l 1
+ 560 140 l 2
+ 598.66 140 630 108.66 630 70 c 0
+ 630 31.34 598.66 0 560 0 c 2
+ 240 0 l 2
+ 201.34 0 170 31.34 170 70 c 0
+ 170 108.66 201.34 140 240 140 c 2
+ 330 140 l 1
+ 330 1160 l 1
+ 230 1160 l 1
+ 230 1030 l 2
+ 230 991.34 198.66 960 160 960 c 0
+ 121.34 960 90 991.34 90 1030 c 2
+ 90 1230 l 2
+ 90 1268.66 121.34 1300 160 1300 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0402
+Encoding: 2495 1026 2438
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 570 0 basechar 0
+AnchorPoint: "Anchor-0" 570 1377 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+160 1300 m 2
+ 720 1300 l 2
+ 758.66 1300 790 1268.66 790 1230 c 0
+ 790 1191.34 758.66 1160 720 1160 c 2
+ 470 1160 l 1
+ 470 670 l 1
+ 507 741 590 860 730 860 c 0
+ 935 860 1050 750 1050 544 c 2
+ 1050 -60 l 2
+ 1050 -209.117 929.117 -330 780 -330 c 0
+ 741.34 -330 710 -298.66 710 -260 c 0
+ 710 -221.34 741.34 -190 780 -190 c 0
+ 851.797 -190 910 -131.797 910 -60 c 2
+ 910 544 l 2
+ 910 681 843 720 720 720 c 0
+ 588 720 470 550 470 372 c 2
+ 470 140 l 1
+ 560 140 l 2
+ 598.66 140 630 108.66 630 70 c 0
+ 630 31.34 598.66 0 560 0 c 2
+ 240 0 l 2
+ 201.34 0 170 31.34 170 70 c 0
+ 170 108.66 201.34 140 240 140 c 2
+ 330 140 l 1
+ 330 1160 l 1
+ 230 1160 l 1
+ 230 1030 l 2
+ 230 991.34 198.66 960 160 960 c 0
+ 121.34 960 90 991.34 90 1030 c 2
+ 90 1230 l 2
+ 90 1268.66 121.34 1300 160 1300 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni045B
+Encoding: 2496 1115 2439
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1477 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+1060 0 m 2
+ 740 0 l 2
+ 701 0 670 31 670 70 c 0
+ 670 109 701 140 740 140 c 2
+ 830 140 l 1
+ 830 664 l 2
+ 830 801 763 840 640 840 c 0
+ 508 840 390 670 390 492 c 2
+ 390 140 l 1
+ 480 140 l 2
+ 519 140 550 109 550 70 c 0
+ 550 31 519 0 480 0 c 2
+ 160 0 l 2
+ 121 0 90 31 90 70 c 0
+ 90 109 121 140 160 140 c 2
+ 250 140 l 1
+ 250 1080 l 1
+ 110 1080 l 2
+ 71.34 1080 40 1111.34 40 1150 c 0
+ 40 1188.66 71.34 1220 110 1220 c 2
+ 250 1220 l 1
+ 250 1300 l 1
+ 160 1300 l 2
+ 121 1300 90 1331 90 1370 c 0
+ 90 1409 121 1440 160 1440 c 2
+ 320 1440 l 2
+ 359 1440 390 1409 390 1370 c 2
+ 390 1220 l 1
+ 560 1220 l 2
+ 598.66 1220 630 1188.66 630 1150 c 0
+ 630 1111.34 598.66 1080 560 1080 c 2
+ 390 1080 l 1
+ 390 790 l 1
+ 427 861 510 980 650 980 c 0
+ 855 980 970 870 970 664 c 2
+ 970 140 l 1
+ 1060 140 l 2
+ 1099 140 1130 109 1130 70 c 0
+ 1130 31 1099 0 1060 0 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0452
+Encoding: 2497 1106 2440
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1477 basechar 0
+LayerCount: 6
+Fore
+SplineSet
+830 -60 m 2
+ 830 664 l 2
+ 830 801 763 840 640 840 c 0
+ 508 840 390 670 390 492 c 2
+ 390 140 l 1
+ 480 140 l 2
+ 519 140 550 109 550 70 c 0
+ 550 31 519 0 480 0 c 2
+ 160 0 l 2
+ 121 0 90 31 90 70 c 0
+ 90 109 121 140 160 140 c 2
+ 250 140 l 1
+ 250 1080 l 1
+ 110 1080 l 2
+ 71.34 1080 40 1111.34 40 1150 c 0
+ 40 1188.66 71.34 1220 110 1220 c 2
+ 250 1220 l 1
+ 250 1300 l 1
+ 160 1300 l 2
+ 121 1300 90 1331 90 1370 c 0
+ 90 1409 121 1440 160 1440 c 2
+ 320 1440 l 2
+ 359 1440 390 1409 390 1370 c 2
+ 390 1220 l 1
+ 560 1220 l 2
+ 598.66 1220 630 1188.66 630 1150 c 0
+ 630 1111.34 598.66 1080 560 1080 c 2
+ 390 1080 l 1
+ 390 790 l 1
+ 427 861 510 980 650 980 c 0
+ 855 980 970 870 970 664 c 2
+ 970 -60 l 2
+ 970 -209.117 849.117 -330 700 -330 c 0
+ 661.34 -330 630 -298.66 630 -260 c 0
+ 630 -221.34 661.34 -190 700 -190 c 0
+ 771.797 -190 830 -131.797 830 -60 c 2
+EndSplineSet
+EndChar
+
+StartChar: uni0430.cv01
+Encoding: 2498 -1 2441
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 584 1053 basechar 0
+AnchorPoint: "Anchor-1" 600 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 270 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0456.cv03
+Encoding: 2499 -1 2442
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 285 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0457.cv03
+Encoding: 2500 -1 2443
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 600 1400 basechar 0
+LayerCount: 6
+Fore
+Refer: 290 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0456.cv04
+Encoding: 2501 -1 2444
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 296 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0457.cv04
+Encoding: 2502 -1 2445
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1400 basechar 0
+LayerCount: 6
+Fore
+Refer: 301 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0456.cv05
+Encoding: 2503 -1 2446
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1053 basechar 0
+LayerCount: 6
+Fore
+Refer: 307 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0457.cv05
+Encoding: 2504 -1 2447
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 603 1400 basechar 0
+LayerCount: 6
+Fore
+Refer: 312 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0456.cv06
+Encoding: 2505 -1 2448
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 653 1053 basechar 0
+AnchorPoint: "Anchor-1" 844 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 318 -1 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni0457.cv06
+Encoding: 2506 -1 2449
+Width: 1200
+VWidth: 0
+GlyphClass: 2
+Flags: HW
+AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-0" 653 1400 basechar 0
+AnchorPoint: "Anchor-1" 844 0 basechar 0
+LayerCount: 6
+Fore
+Refer: 323 -1 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
