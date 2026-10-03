@@ -1,67 +1,54 @@
 # Photonico Code
 
-Photonico Code is a free, monospace, slab-serif style font, which supports Latin, Greek letters, and mathematical notations.
+![Photonico Code](Images/banner_1.7.png)
 
-It is developed from the file of [Fira Code](https://github.com/tonsky/FiraCode), and inherits its programming ligatures and HiDPI support. The motivation for making it is that I was tired of programming with sans-serif fonts, but serif fonts are often incomplete for scientific notations.
+A free, monospaced slab-serif font for programming and scientific writing. It is built on [Fira Code](https://github.com/tonsky/FiraCode), keeps its ligatures and features, and covers Latin, Greek, Cyrillic and a large set of math symbols.
 
-Made by Lu Niu
+Made by Lu Niu.
 
-## Screenshots
+## Install
 
-### Characters
+- Download the latest `.ttf` from [Releases](https://github.com/Photonico/Photonico_Code/releases/latest).
 
-+ Overview
+## Characters
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/overview_1.0.png)
+![Alphabet and sizes](Images/overview_1.7.png)
 
-+ Letters demo
+![Latin, Greek and Cyrillic](Images/scripts_1.7.png)
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_a.jpg)
+![Numbers](Images/numbers_1.7.png)
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_b.jpg)
+![Math](Images/stem_1.7.png)
 
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonico_Code/main/Images/demo_1.2_c.jpg)
+![Symbols and box drawing](Images/symbols_1.7.png)
 
-+ Ligatures
+## Ligatures
 
-Comment: The demonstrated characters are in 24 pt.
+![Ligatures](Images/ligatures_1.7.png)
 
-### Applications
+## Character variants
 
-+ CLI
+![Character variants and stylistic sets](Images/features_1.7.png)
 
-+ C / C++
+To use them in VS Code:
 
-+ GO
+```json
+"editor.fontFamily": "'Photonico Code'",
+"editor.fontLigatures": "'cv01', 'ss02'"
+```
 
-+ Java
+## In code
 
-+ LaTeX
+![Code samples](Images/code_1.7.png)
 
-+ Python
-
-  ![IMG](https://raw.githubusercontent.com/Photonico/Photonica/master/screenshots/light_azure_1.0.4.png)
-
-+ Rust
-
-+ Vue
-
-The demonstrated theme of VSCode is [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica), welcome to use it.
-
-## Installation
-
-Download the font from [here](https://github.com/Photonico/Photonico_Code/releases/latest) and install it.
-
-Also, if you have installed [Homebrew](https://brew.sh/), type `brew tap homebrew/cask-fonts && brew install font-photonico-code` in your terminal to install it.
+For VS Code, it pairs well with the [Photonica](https://marketplace.visualstudio.com/items?itemName=ConAntares.Photonica) theme.
 
 ## License
 
-[SIL Open Font License 1.1](https://github.com/Photonico/Photonico_Code/blob/main/LICENSE)
+[SIL Open Font License 1.1](LICENSE)
 
-## Acknowledge
+## Acknowledgements
 
-[1] [Fira Code](https://github.com/tonsky/FiraCode)
-
-[2] [DSE Typewriter](https://webonastick.com/fonts/dse-typewriter/)
-
-[3] [Maple Mono](https://github.com/subframe7536/Maple-font)
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [DSE Typewriter](https://webonastick.com/fonts/dse-typewriter/)
+- [Maple Mono](https://github.com/subframe7536/Maple-font)
