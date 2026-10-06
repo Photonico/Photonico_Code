@@ -1,14 +1,14 @@
 # Development Number
 
-00: Regular
+a: Regular
 
-01: Thin
+b: Thin
 
-02: Medium
+c: Medium
 
-03: Bold
+d: Bold
 
-04: Italic
+e: Italic
 
 + grave lookup:
   + the lookup 345 may work for replacement of consecutive graves.
