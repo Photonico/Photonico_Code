@@ -25,7 +25,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1638550126
-ModificationTime: 1791066362
+ModificationTime: 1794610589
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -4423,7 +4423,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1508 26 10
+WinInfo: 52 26 10
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -69417,31 +69417,28 @@ Encoding: 1674 729 1669
 Width: 1200
 GlyphClass: 1
 Flags: HW
-AnchorPoint: "Anchor-5" 600 0 basechar 0
+AnchorPoint: "Anchor-5" -614.5 816.5 basechar 0
 LayerCount: 5
 Fore
 SplineSet
-460.5 1339 m 0
- 460.5 1416.0437226 522.956277399 1478.5 600 1478.5 c 0
- 677.043722601 1478.5 739.5 1416.0437226 739.5 1339 c 0
- 739.5 1261.9562774 677.043722601 1199.5 600 1199.5 c 0
- 522.956277399 1199.5 460.5 1261.9562774 460.5 1339 c 0
+460 1340 m 4
+ 460 1417 523 1480 600 1480 c 4
+ 677 1480 740 1417 740 1340 c 4
+ 740 1263 677 1200 600 1200 c 4
+ 523 1200 460 1263 460 1340 c 4
 EndSplineSet
 Layer: 2
 SplineSet
-460 1389 m 0
- 460 1466 523 1528 600 1528 c 0
- 677 1528 740 1466 740 1389 c 0
- 740 1312 677 1250 600 1250 c 0
- 523 1250 460 1312 460 1389 c 0
-EndSplineSet
-Layer: 3
-SplineSet
-480 1430 m 4
- 480 1496 534 1550 600 1550 c 4
- 666 1550 720 1496 720 1430 c 4
- 720 1364 666 1310 600 1310 c 4
- 534 1310 480 1364 480 1430 c 4
+600 1200 m 1
+ 740 1200 l 1
+ 740 1340 l 1
+ 600 1340 l 1
+ 600 1200 l 1
+460 1340 m 0
+ 460 1417 523 1480 600 1480 c 0
+ 677 1480 740 1417 740 1340 c 0
+ 740 1263 677 1200 600 1200 c 0
+ 523 1200 460 1263 460 1340 c 0
 EndSplineSet
 Substitution2: "Single Substitution lookup 358 subtable" dotaccent.case
 Substitution2: "Single Substitution lookup 357 subtable" dotaccent.case
@@ -70083,14 +70080,6 @@ AnchorPoint: "Anchor-5" 600 0 basechar 0
 LayerCount: 5
 Fore
 Refer: 1669 729 N 1 0 0 1 0 240 2
-Layer: 2
-SplineSet
-480 1670 m 4
- 480 1736 534 1790 600 1790 c 4
- 666 1790 720 1736 720 1670 c 4
- 720 1604 666 1550 600 1550 c 4
- 534 1550 480 1604 480 1670 c 4
-EndSplineSet
 EndChar
 
 StartChar: grave.case
